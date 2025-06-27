@@ -1,0 +1,169 @@
+{
+  "projectInfo": {
+    "title": "INdustrialised and PErsonalised Renovation for Sustainable sOcieties",
+    "acronym": "INPERSO",
+    "grantNumber": "101069820",
+    "grantType": "HORIZON Innovation Actions",
+    "maxAmount": "€7,491,936.50",
+    "startDate": "first day of the month following the entry into force date",
+    "endDate": "starting date + 48 months",
+    "duration": "48 Months",
+    "coordinator": {
+      "name": "INSTITUTO TECNOLOGICO DE ARAGON (ITAINNOVA)",
+      "location": "Zaragoza, Spain"
+    },
+    "summary": "INPERSO is a holistic deep renovation programme addressing the building’s entire lifecycle and combining industrialisation and personalisation. The project will deliver inclusive, affordable, efficient, and sustainable renovation, adaptable to various climate zones and building typologies, but focused on residential and heritage buildings. Aiming to deliver a near-market solution, INPERSO is comprised of five highly exploitable, integrated results (IRs) plus an underlying, human-centric methodology for low-carbon renovation. New technological components leveraging the advantages of prefabrication, pre-integration and robotic 3D printing will drastically reduce the time (>50%) and costs (>25%) of construction, and increase resource efficiency, productivity and quality, coupled with waste reduction (>40%). The project highlights the advantages of digital solutions, by integrating scan-to-BIM, AI, AR and ML into the established RE Suite platform, creating a solid foundation for harmonising information flows and addressing the fragmentation challenges of the sector. These resources will also be used to optimise building energy performance and indoor environment quality, as well as improving the energy footprint of the renovation process, in addition to improving working conditions and safety. INPERSO will be demonstrated in Spain, Netherlands, and Greece, forming energy communities and promoting sustainable energy use. Ambitious upscaling and replication plans, supported by green financing and six business models, will be implemented to generate local and EU-wide impacts. The Consortium consists of 8 research organisations, 8 SMEs, 2 large enterprises and 3 NPOs, privately investing €4.7M in the project.",
+    "participantsIntro": "The Consortium consists of 8 research organisations, 8 SMEs, 2 large enterprises and 3 NPOs, privately investing €4.7M in the project.",
+    "timelineEvents": [
+      {
+        "period": "Project Start",
+        "month": 1,
+        "type": "milestone",
+        "description": "Kick-off and official start of the INPERSO project."
+      },
+      {
+        "period": "RP 1",
+        "month": 18,
+        "type": "report",
+        "description": "Periodic Report 1 due 60 days after end of reporting period."
+      },
+      {
+        "period": "RP 2",
+        "month": 36,
+        "type": "report",
+        "description": "Periodic Report 2 due 60 days after end of reporting period."
+      },
+      {
+        "period": "Project End",
+        "month": 48,
+        "type": "milestone",
+        "description": "Final project activities and submission of the Final Report."
+      }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "ITAINNOVA", "legalName": "INSTITUTO TECNOLOGICO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 2, "role": "Beneficiary", "shortName": "UPV", "legalName": "UNIVERSITAT POLITECNICA DE VALENCIA", "country": "Spain", "countryCode": "ES", "lat": 39.4799, "lon": -0.3763 },
+    { "no": 3, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 4, "role": "Beneficiary", "shortName": "TAU", "legalName": "TAMPEREEN KORKEAKOULUSAATIO SR", "country": "Finland", "countryCode": "FI", "lat": 61.4978, "lon": 23.7610 },
+    { "no": 5, "role": "Beneficiary", "shortName": "CARTIF", "legalName": "FUNDACION CARTIF", "country": "Spain", "countryCode": "ES", "lat": 41.5645, "lon": -4.7118 },
+    { "no": 6, "role": "Beneficiary", "shortName": "MIRTEC", "legalName": "VIOMICHANIKIS EREVNAS TECHNOLOGIKISANAPTYXIS ERGASTIRIAKON DOKIMON PISTOPIISIS KAI PIOTITAS AE", "country": "Greece", "countryCode": "EL", "lat": 39.3622, "lon": 22.9431 },
+    { "no": 7, "role": "Beneficiary", "shortName": "IVE", "legalName": "INSTITUTO VALENCIANO DE LA EDIFICACION", "country": "Spain", "countryCode": "ES", "lat": 39.4699, "lon": -0.3763 },
+    { "no": 8, "role": "Beneficiary", "shortName": "R2M", "legalName": "R2M SOLUTION SRL", "country": "Italy", "countryCode": "IT", "lat": 45.1847, "lon": 9.1582 },
+    { "no": 9, "role": "Beneficiary", "shortName": "MET", "legalName": "UAB MODERNIOS E-TECHNOLOGIJOS", "country": "Lithuania", "countryCode": "LT", "lat": 54.6872, "lon": 25.2797 },
+    { "no": 10, "role": "Beneficiary", "shortName": "IRIS", "legalName": "IRIS TECHNOLOGY SOLUTIONS, SOCIEDAD LIMITADA", "country": "Spain", "countryCode": "ES", "lat": 41.3551, "lon": 2.0682 },
+    { "no": 11, "role": "Beneficiary", "shortName": "DMO", "legalName": "DEMO CONSULTANTS BV", "country": "Netherlands", "countryCode": "NL", "lat": 52.0116, "lon": 4.3571 },
+    { "no": 12, "role": "Beneficiary", "shortName": "EUROCORE", "legalName": "EUROCORE CONSULTING", "country": "Belgium", "countryCode": "BE", "lat": 50.8503, "lon": 4.3517 },
+    { "no": 13, "role": "Beneficiary", "shortName": "AMS", "legalName": "PROIGMENES EREVNITIKES & DIAHIRISTIKES EFARMOGES", "country": "Greece", "countryCode": "EL", "lat": 35.3386, "lon": 25.1442 },
+    { "no": 14, "role": "Beneficiary", "shortName": "AUMSA", "legalName": "SOCIEDAD ANONIMA MUNICIPAL DE ACTUACIONES URBANAS DE VALENCIA", "country": "Spain", "countryCode": "ES", "lat": 39.4699, "lon": -0.3763 },
+    { "no": 15, "role": "Beneficiary", "shortName": "MWNB", "legalName": "STICHTING MONUMENTENWACHT NOORD BRABANT", "country": "Netherlands", "countryCode": "NL", "lat": 51.6833, "lon": 5.3 },
+    { "no": 16, "role": "Beneficiary", "shortName": "DVVV", "legalName": "DIMOS VARIS - VOULAS - VOULIAGMENIS", "country": "Greece", "countryCode": "EL", "lat": 37.8188, "lon": 23.7781 },
+    { "no": 17, "role": "Beneficiary", "shortName": "ACCIONA", "legalName": "ACCIONA CONSTRUCCION SA", "country": "Spain", "countryCode": "ES", "lat": 40.5053, "lon": -3.6508 },
+    { "no": 18, "role": "Beneficiary", "shortName": "VIAS", "legalName": "VIAS Y CONSTRUCCIONES SA", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+    { "no": 19, "role": "Associated partner", "shortName": "SUPSI", "legalName": "SCUOLA UNIVERSITARIA PROFESSIONALE DELLA SVIZZERA ITALIANA", "country": "Switzerland", "countryCode": "CH", "lat": 46.0101, "lon": 8.9507 },
+    { "no": 20, "role": "Associated partner", "shortName": "iWin", "legalName": "IWIN - INNOVATIVE WINDOWS SAGL", "country": "Switzerland", "countryCode": "CH", "lat": 46.0101, "lon": 8.9507 },
+    { "no": 21, "role": "Associated partner", "shortName": "EPFL", "legalName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE", "country": "Switzerland", "countryCode": "CH", "lat": 46.5197, "lon": 6.6323 },
+    { "no": 22, "role": "Associated partner", "shortName": "VENTIVE", "legalName": "VENTIVE LTD", "country": "United Kingdom", "countryCode": "UK", "lat": 51.5072, "lon": -0.1276 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "WP1 End user requirements and project specifications", "leader": "IVE", "start": 1, "end": 6, "tasks": [
+        { "id": "T1.1", "title": "Definition of end user requirements", "leader": "IVE" },
+        { "id": "T1.2", "title": "Consolidation of technological and system specifications", "leader": "UPV" },
+        { "id": "T1.3", "title": "Identification and plan for the involvement of local stakeholders", "leader": "IVE" }
+    ]},
+    { "no": 2, "title": "WP2 Sustainable renovation products and processes", "leader": "CARTIF", "start": 7, "end": 28, "tasks": [
+        { "id": "T2.1", "title": "Establishment of sustainable material supply chains", "leader": "MIRTEC" },
+        { "id": "T2.2", "title": "Sustainable prefabricated components", "leader": "AMS" },
+        { "id": "T2.3", "title": "Integrated ventilative HVAC", "leader": "VENTIVE" },
+        { "id": "T2.4", "title": "BIPV modification and integration", "leader": "METSOL" },
+        { "id": "T2.5", "title": "Solar windows manufacturing", "leader": "IWIN" },
+        { "id": "T2.6", "title": "Robotic, vertical façade 3D printer integration", "leader": "VIAS" }
+    ]},
+    { "no": 3, "title": "WP3 Integration of BIM-based workflows", "leader": "DMO", "start": 7, "end": 31, "tasks": [
+        { "id": "T3.1", "title": "SCAAI - Scan to BIM and asset recognition tool", "leader": "R2M" },
+        { "id": "T3.2", "title": "BIM-based management platform RE Suite", "leader": "DMO" },
+        { "id": "T3.3", "title": "AR-enabled renovation support", "leader": "R2M" },
+        { "id": "T3.4", "title": "IoT and WSN integration", "leader": "IRIS" },
+        { "id": "T3.5", "title": "Multi-Stage Energy Consulting System", "leader": "CORE" },
+        { "id": "T3.6", "title": "Network and Interface for air quality optimisation", "leader": "EPFL" }
+    ]},
+    { "no": 4, "title": "WP4 New models for deep low carbon renovation", "leader": "TAU", "start": 7, "end": 31, "tasks": [
+        { "id": "T4.1", "title": "Low carbon renovation design", "leader": "TAU" },
+        { "id": "T4.2", "title": "Capacity building", "leader": "R2M" },
+        { "id": "T4.3", "title": "Stakeholder engagement", "leader": "IVE" },
+        { "id": "T4.4", "title": "Life Cycle Analysis & Cost Benefit Analysis", "leader": "IVE" },
+        { "id": "T4.5", "title": "User interaction with novel digital systems", "leader": "TAU" }
+    ]},
+    { "no": 5, "title": "WP5 Validation and demonstration", "leader": "AMS", "start": 1, "end": 48, "tasks": [
+        { "id": "T5.1", "title": "Monitoring and commissioning of demonstration sites", "leader": "UPV" },
+        { "id": "T5.2", "title": "DC #1 – Calle Estrella", "leader": "AUMSA" },
+        { "id": "T5.3", "title": "DC #2 – Trinity Complex", "leader": "MWNB" },
+        { "id": "T5.4", "title": "DC #3 – Social Shelter Litous Street", "leader": "DVVV" },
+        { "id": "T5.5", "title": "Monitoring of renovation energy footprint", "leader": "ACCIONA" },
+        { "id": "T5.6", "title": "Post occupancy evaluations", "leader": "TAU" },
+        { "id": "T5.7", "title": "Demonstration activities and evaluation of results", "leader": "ITA" }
+    ]},
+    { "no": 6, "title": "WP6 Management of INPERSO innovations", "leader": "CORE", "start": 1, "end": 48, "tasks": [
+        { "id": "T6.1", "title": "Standardisation, certification and regulatory monitoring", "leader": "EUROC" },
+        { "id": "T6.2", "title": "Ecosystem empowerment activities", "leader": "IVE" },
+        { "id": "T6.3", "title": "INPERSO development cycle finalization", "leader": "UPV" },
+        { "id": "T6.4", "title": "Market analysis, Target Groups, and Value Proposition", "leader": "CORE" },
+        { "id": "T6.5", "title": "Sustainable Innovation Management", "leader": "CORE" },
+        { "id": "T6.6", "title": "Advocacy", "leader": "MWNB" }
+    ]},
+    { "no": 7, "title": "WP7 Communication, Dissemination, Exploitation", "leader": "MIRTEC", "start": 1, "end": 48, "tasks": [
+        { "id": "T7.1", "title": "Dissemination of INPESRO results", "leader": "MIRTEC" },
+        { "id": "T7.2", "title": "Exploitation strategy", "leader": "CORE" },
+        { "id": "T7.3", "title": "Communication activities", "leader": "CORE" }
+    ]},
+    { "no": 8, "title": "WP8 Project Management and Coordination", "leader": "ITAINNOVA", "start": 1, "end": 48, "tasks": [
+        { "id": "T8.1", "title": "Administrative & financial management Coordination", "leader": "ITA" },
+        { "id": "T8.2", "title": "Technical Management", "leader": "UPV" },
+        { "id": "T8.3", "title": "Quality Assurance and Data Management Plan", "leader": "ITA" },
+        { "id": "T8.4", "title": "Advisory Board Management", "leader": "ITA" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "INPERSO Specifications and user requirement report", "wp": 1, "leader": "IVE", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D2.1", "name": "INPERSO Retrofit-Kit", "wp": 2, "leader": "AMS", "type": "Other", "level": "Sensitive", "due": 28 },
+    { "no": "D2.2", "name": "Façade 3D printing prototype", "wp": 2, "leader": "VIAS", "type": "Other", "level": "Sensitive", "due": 28 },
+    { "no": "D3.1", "name": "Integrated BIM-based RE Suite platform", "wp": 3, "leader": "DMO", "type": "Other", "level": "Sensitive", "due": 31 },
+    { "no": "D3.2", "name": "Energy and air quality optimisation interface (ECO-I)", "wp": 3, "leader": "CORE", "type": "Other", "level": "Sensitive", "due": 31 },
+    { "no": "D4.1", "name": "INPERSO deep low carbon renovation models", "wp": 4, "leader": "TAU", "type": "Report", "level": "Sensitive", "due": 31 },
+    { "no": "D4.2", "name": "INPERSO training programme", "wp": 4, "leader": "R2M", "type": "Other", "level": "Public", "due": 31 },
+    { "no": "D5.1", "name": "Validation report", "wp": 5, "leader": "UPV", "type": "Report", "level": "Sensitive", "due": 31 },
+    { "no": "D5.2", "name": "Demonstration report and steps forward", "wp": 5, "leader": "ITAINNOVA", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.1", "name": "INPERSO Business Cases and Impact assessment report", "wp": 6, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D6.2", "name": "INPERSO pre-launch activities", "wp": 6, "leader": "UPV", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D6.3", "name": "INPERSO Business Cases and Impact assessment report v2", "wp": 6, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D7.1", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results", "wp": 7, "leader": "MIRTEC", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D7.2", "name": "INPERSO digital ID", "wp": 7, "leader": "CORE", "type": "Other", "level": "Sensitive", "due": 6 },
+    { "no": "D7.3", "name": "INPERSO Exploitation report", "wp": 7, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D7.4", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results v2", "wp": 7, "leader": "MIRTEC", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D7.5", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results v3", "wp": 7, "leader": "MIRTEC", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D7.6", "name": "INPERSO Exploitation report v2", "wp": 7, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D7.7", "name": "INPERSO Exploitation report v3", "wp": 7, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D8.1", "name": "Project Management Plan", "wp": 8, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 3 },
+    { "no": "D8.2", "name": "Data Management Plan", "wp": 8, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D8.3", "name": "Project Management Plan v2", "wp": 8, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D8.4", "name": "Project Management Plan v3", "wp": 8, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D8.5", "name": "Data Management Plan v2", "wp": 8, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D8.6", "name": "Data Management Plan v3", "wp": 8, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 48 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "MS1.1 Action plans for demonstrations", "wp": 1, "leader": "IVE", "due": 6 },
+    { "no": 2, "name": "MS2.1 Heritage compliance status", "wp": 2, "leader": "UPV", "due": 12 },
+    { "no": 3, "name": "MS2.2 Prototype progress", "wp": 2, "leader": "ITAINNOVA", "due": 18 },
+    { "no": 4, "name": "MS3.1 DAQ optimised and calibrated", "wp": 3, "leader": "CORE", "due": 18 },
+    { "no": 5, "name": "MS4.1 Stakeholder engagement progress", "wp": 4, "leader": "TAU", "due": 18 },
+    { "no": 6, "name": "MS4.2 Plan for capacity building", "wp": 4, "leader": "R2M", "due": 18 },
+    { "no": 7, "name": "MS5.1 Design phase complete", "wp": 5, "leader": "ITAINNOVA", "due": 18 },
+    { "no": 8, "name": "MS5.2 Start of validation", "wp": 5, "leader": "UPV", "due": 28 },
+    { "no": 9, "name": "MS5.3 Start of demonstrations", "wp": 5, "leader": "ITAINNOVA", "due": 31 },
+    { "no": 10, "name": "MS5.4 Draft replication plan", "wp": 5, "leader": "UPV", "due": 36 },
+    { "no": 11, "name": "MS6.2 Initial positioning and SoA", "wp": 6, "leader": "CORE", "due": 12 },
+    { "no": 12, "name": "MS7.1 DEC activities fully initiated", "wp": 7, "leader": "CORE", "due": 6 },
+    { "no": 13, "name": "MS8.1 Project Start", "wp": 8, "leader": "ITAINNOVA", "due": 1 },
+    { "no": 14, "name": "MS8.2 Advisory Board finalized", "wp": 8, "leader": "ITAINNOVA", "due": 12 }
+  ]
+}

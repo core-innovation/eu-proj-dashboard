@@ -1,0 +1,209 @@
+{
+  "projectInfo": {
+    "title": "Climate Adaptation and Resilience Demonstrated In the MEDiterranean region",
+    "acronym": "CARDIMED",
+    "grantNumber": "101112731",
+    "grantType": "HORIZON Innovation Actions",
+    "maxAmount": "€19,307,911.25",
+    "startDate": "1 September 2023",
+    "endDate": "29 February 2028",
+    "duration": "54 Months",
+    "coordinator": {
+      "name": "ETHNICON METSOVION POLYTECHNION (NTUA)",
+      "location": "Athens, Greece"
+    },
+    "summary": "CARDIMED will introduce a framework to build Climate Resilience in the Mediterranean biogeographical region, efficiently unifying individual efforts of regions and communities across different countries and continents. This will be achieved by deploying the digital infrastructure to harmonise the data collection and evaluation processes, providing open data to all the actors involved in the Nature-based Solutions (NBS) value chain and integrating crucial functions for Climate Resilience. Among these functions, smart digital tools for citizen participation and capacity building will supplement an ambitious multi-stakeholder engagement strategy, focused on knowledge translation and impact pathways. Furthermore, holistic modelling tools introducing the Water-Energy-Food-Ecosystems (WEFE) Nexus approach will provide comprehensive knowledge on the complex NBS interfaces, that will decisively contribute to addressing socio-ecological challenges, along with issues of valuation and low-investment rate in NBS. These actions will be implemented across 9 demonstration sites, composed of 10 regions, 20 locations and 28 communities and comprising 47 NBS that directly relate to 83 interventions and supporting units that tackle climate change and circularity challenges. The consolidation of the demonstrating regions and communities will establish the CARDIMED Resilience Alliance, that will function as the vehicle for expanding the network via upscaling the existing sites and adding new ones. The project includes 5 transferability cases, as well as an additional 10 that will be defined during the implementation. Through these actions, the CARDIMED Resilience Alliance will achieve at least 28 regions and 70 communities by 2030, will create 8000 jobs especially in the NBS sector, and will leverage over 450 M€ in climate investment.",
+    "participantsIntro": "A diverse consortium of 50 partners from multiple countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+      {
+        "period": "Project Start",
+        "month": 1,
+        "type": "milestone",
+        "description": "Kick-off and official start of the CARDIMED project."
+      },
+      {
+        "period": "RP 1",
+        "month": 18,
+        "type": "report",
+        "description": "Periodic Report 1 due 60 days after end of reporting period."
+      },
+      {
+        "period": "RP 2",
+        "month": 36,
+        "type": "report",
+        "description": "Periodic Report 2 due 60 days after end of reporting period."
+      },
+      {
+        "period": "Project End",
+        "month": 54,
+        "type": "milestone",
+        "description": "Final project activities and submission of the Final Report."
+      }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "NTUA", "legalName": "ETHNICON METSOVION POLYTECHNION", "country": "Greece", "countryCode": "EL", "lat": 37.9715, "lon": 23.7257 },
+    { "no": 2, "role": "Beneficiary", "shortName": "ICCS", "legalName": "EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 3, "role": "Beneficiary", "shortName": "UU", "legalName": "UNIVERSITEIT UTRECHT", "country": "Netherlands", "countryCode": "NL", "lat": 52.0907, "lon": 5.1214 },
+    { "no": 4, "role": "Beneficiary", "shortName": "BIOAZUL", "legalName": "BIOAZUL, SL", "country": "Spain", "countryCode": "ES", "lat": 36.7213, "lon": -4.4214 },
+    { "no": 5, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 6, "role": "Beneficiary", "shortName": "CET", "legalName": "CETAQUA, CENTRO TECNOLOGICO DEL AGUA, FUNDACION PRIVADA", "country": "Spain", "countryCode": "ES", "lat": 41.3551, "lon": 2.0682 },
+    { "no": 7, "role": "Beneficiary", "shortName": "ICLEI", "legalName": "ICLEI EUROPEAN SECRETARIAT GMBH (ICLEI EUROPASEKRETARIAT GMBH)", "country": "Germany", "countryCode": "DE", "lat": 47.9990, "lon": 7.8421 },
+    { "no": 8, "role": "Beneficiary", "shortName": "CREAF", "legalName": "CENTRO DE INVESTIGACION ECOLOGICA Y APLICACIONES FORESTALES", "country": "Spain", "countryCode": "ES", "lat": 41.4900, "lon": 2.0900 },
+    { "no": 9, "role": "Beneficiary", "shortName": "ANRI", "legalName": "ALCHEMIA-NOVA RESEARCH & INNOVATION GEMEINNUTZIGE GMBH", "country": "Austria", "countryCode": "AT", "lat": 48.2082, "lon": 16.3738 },
+    { "no": 10, "role": "Beneficiary", "shortName": "LIBRA", "legalName": "LIBRA AI TECHNOLOGIES PRIVATE IDIOTIKI KEFALAIOUCHIKI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 11, "role": "Beneficiary", "shortName": "ALEA", "legalName": "ALEA SRL", "country": "Italy", "countryCode": "IT", "lat": 44.6478, "lon": 10.9254 },
+    { "no": 12, "role": "Beneficiary", "shortName": "CTCON", "legalName": "ASOCIACION EMPRESARIAL DE INVESTIGACION CENTRO TECNOLOGICO DE LA CONSTRUCCION REGION DE MURCIA", "country": "Spain", "countryCode": "ES", "lat": 38.0934, "lon": -1.2335 },
+    { "no": 13, "role": "Beneficiary", "shortName": "MedINA", "legalName": "MESOGEIAKO INSTITOUTO GIA TI FYSI KAI TON ANTHROPO - ASTIKI MI KERDOSKOPIKI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 14, "role": "Beneficiary", "shortName": "HYDRASPIS", "legalName": "YDRASPIS O.E.", "country": "Greece", "countryCode": "EL", "lat": 39.3620, "lon": 21.9213 },
+    { "no": 15, "role": "Beneficiary", "shortName": "RNA", "legalName": "PERIFEREIA VOREIOU AIGAIOU", "country": "Greece", "countryCode": "EL", "lat": 39.1030, "lon": 26.5562 },
+    { "no": 16, "role": "Beneficiary", "shortName": "SAR", "legalName": "PERIFEREIA NOTIOU AIGAIOU", "country": "Greece", "countryCode": "EL", "lat": 36.4343, "lon": 28.2175 },
+    { "no": 17, "role": "Beneficiary", "shortName": "HALCOR", "legalName": "ELVALHALCOR ELLINIKI VIOMIHANIA HALKOU KAI ALOUMINIOU ANONYMOS ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 18, "role": "Beneficiary", "shortName": "ITA", "legalName": "INSTITUTO TECNOLOGICO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 19, "role": "Beneficiary", "shortName": "PSTE", "legalName": "PERIFEREIA STEREAS ELLADAS", "country": "Greece", "countryCode": "EL", "lat": 38.9248, "lon": 22.4338 },
+    { "no": 20, "role": "Beneficiary", "shortName": "REHY", "legalName": "GKONELAS K. - PATELIS M. O.E.", "country": "Greece", "countryCode": "EL", "lat": 39.6705, "lon": 22.3934 },
+    { "no": 21, "role": "Beneficiary", "shortName": "UNIVPM", "legalName": "UNIVERSITA POLITECNICA DELLE MARCHE", "country": "Italy", "countryCode": "IT", "lat": 43.6158, "lon": 13.5189 },
+    { "no": 22, "role": "Beneficiary", "shortName": "UNIBO", "legalName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA", "country": "Italy", "countryCode": "IT", "lat": 44.4949, "lon": 11.3426 },
+    { "no": 23, "role": "Beneficiary", "shortName": "IRIDRA", "legalName": "IRIDRA SRL", "country": "Italy", "countryCode": "IT", "lat": 43.7793, "lon": 11.2558 },
+    { "no": 24, "role": "Beneficiary", "shortName": "UNICT", "legalName": "UNIVERSITA DEGLI STUDI DI CATANIA", "country": "Italy", "countryCode": "IT", "lat": 37.5079, "lon": 15.0833 },
+    { "no": 25, "role": "Beneficiary", "shortName": "MUCA", "legalName": "COMUNE DI CATANIA", "country": "Italy", "countryCode": "IT", "lat": 37.5079, "lon": 15.0833 },
+    { "no": 26, "role": "Beneficiary", "shortName": "DRT", "legalName": "Regione Sicilia", "country": "Italy", "countryCode": "IT", "lat": 38.1157, "lon": 13.3615 },
+    { "no": 27, "role": "Beneficiary", "shortName": "SVIMED", "legalName": "SVI.MED CENTRO EUROMEDITERRANEO PERLO SVILUPPO SOSTENIBILE ONLUS ASSOCIAZIONE", "country": "Italy", "countryCode": "IT", "lat": 36.9254, "lon": 14.7307 },
+    { "no": 28, "role": "Beneficiary", "shortName": "SEMIDE", "legalName": "UNITE TECHNIQUE DU SEMIDE GEIE", "country": "France", "countryCode": "FR", "lat": 43.6163, "lon": 7.0543 },
+    { "no": 29, "role": "Beneficiary", "shortName": "AMU", "legalName": "UNIVERSITE D'AIX MARSEILLE", "country": "France", "countryCode": "FR", "lat": 43.2965, "lon": 5.3698 },
+    { "no": 30, "role": "Beneficiary", "shortName": "EMPAN", "legalName": "MOREAU LAURE", "country": "France", "countryCode": "FR", "lat": 43.2965, "lon": 5.3698 },
+    { "no": 31, "role": "Beneficiary", "shortName": "PACA", "legalName": "CONSEIL REGIONAL PROVENCE ALPES COTE D'AZUR", "country": "France", "countryCode": "FR", "lat": 43.2965, "lon": 5.3698 },
+    { "no": 32, "role": "Beneficiary", "shortName": "CIRCE", "legalName": "FUNDACION CIRCE CENTRO DE INVESTIGACION DE RECURSOS Y CONSUMOS ENERGETICOS", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 33, "role": "Beneficiary", "shortName": "UVIC", "legalName": "FUNDACIO UNIVERSITARIA BALMES", "country": "Spain", "countryCode": "ES", "lat": 41.9304, "lon": 2.2549 },
+    { "no": 34, "role": "Beneficiary", "shortName": "DGA", "legalName": "DEPARTAMENTO DE AGRICULTURA, GANADERIA Y MEDIO AMBIENTE - GOBIERNO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 35, "role": "Beneficiary", "shortName": "UEVORA", "legalName": "UNIVERSIDADE DE EVORA", "country": "Portugal", "countryCode": "PT", "lat": 38.5714, "lon": -7.9079 },
+    { "no": 36, "role": "Beneficiary", "shortName": "CIMAC", "legalName": "CIMAC - COMUNIDADE INTERMUNICIPAL DO ALENTEJO CENTRAL", "country": "Portugal", "countryCode": "PT", "lat": 38.5714, "lon": -7.9079 },
+    { "no": 37, "role": "Beneficiary", "shortName": "EBOS", "legalName": "EBOS TECHNOLOGIES LIMITED", "country": "Cyprus", "countryCode": "CY", "lat": 35.1264, "lon": 33.4299 },
+    { "no": 38, "role": "Beneficiary", "shortName": "GOTF", "legalName": "T.L. GARDENS OF THE FUTURE", "country": "Cyprus", "countryCode": "CY", "lat": 35.1856, "lon": 33.3823 },
+    { "no": 39, "role": "Beneficiary", "shortName": "MNC", "legalName": "LEFKOSIA MUNICIPALITY", "country": "Cyprus", "countryCode": "CY", "lat": 35.1856, "lon": 33.3823 },
+    { "no": 40, "role": "Beneficiary", "shortName": "IZT", "legalName": "IZMIR INSTITUTE OF TECHNOLOGY", "country": "Türkiye", "countryCode": "TR", "lat": 38.3195, "lon": 26.6346 },
+    { "no": 41, "role": "Beneficiary", "shortName": "IZDOGA", "legalName": "IZDOGA IZMIR BUYUKSEHIR BELEDIYESI CEVRE KORUNMASI IYILESTIRILMESI MUSAVIRLIK VE PROJE HIZMETLERI TICARET VE SANAYI ANONIM SIRKETI", "country": "Türkiye", "countryCode": "TR", "lat": 38.4237, "lon": 27.1428 },
+    { "no": 42, "role": "Beneficiary", "shortName": "IZMM", "legalName": "IZMIR BUYUKSEHIR BELEDIYESI", "country": "Türkiye", "countryCode": "TR", "lat": 38.4237, "lon": 27.1428 },
+    { "no": 43, "role": "Beneficiary", "shortName": "DOGA", "legalName": "DOGA DERNEGI", "country": "Türkiye", "countryCode": "TR", "lat": 38.4237, "lon": 27.1428 },
+    { "no": 44, "role": "Beneficiary", "shortName": "IZSU", "legalName": "IZMIR SU VE KANAL IDARESI GENEL MUDURLUGU", "country": "Türkiye", "countryCode": "TR", "lat": 38.4237, "lon": 27.1428 },
+    { "no": 45, "role": "Beneficiary", "shortName": "EWA", "legalName": "ENERGY AND WATER AGENCY", "country": "Malta", "countryCode": "MT", "lat": 35.8706, "lon": 14.4731 },
+    { "no": 46, "role": "Beneficiary", "shortName": "BABEG", "legalName": "KARNTNER BETRIEBSANSIEDLUNGS- UND BETEILIGUNGSGESELLSCHAFT M.B.H.", "country": "Austria", "countryCode": "AT", "lat": 46.6143, "lon": 14.3079 },
+    { "no": 47, "role": "Beneficiary", "shortName": "SEO", "legalName": "SOCIEDAD ESPANOLA DE ORNITOLOGIA SEO", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+    { "no": 48, "role": "Beneficiary", "shortName": "MUR", "legalName": "AYUNTAMIENTO DE MURCIA", "country": "Spain", "countryCode": "ES", "lat": 37.9922, "lon": -1.1307 },
+    { "no": 49, "role": "Beneficiary", "shortName": "IRENA", "legalName": "IRENA - ISTARSKA REGIONALNA ENERGETSKA AGENCIJA ZA ENERGETSKE DJELATNOSTI DOO", "country": "Croatia", "countryCode": "HR", "lat": 45.0886, "lon": 14.1208 },
+    { "no": 50, "role": "Associated partner", "shortName": "UBRUN", "legalName": "BRUNEL UNIVERSITY LONDON", "country": "United Kingdom", "countryCode": "UK", "lat": 51.5072, "lon": -0.1276 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Project Coordination", "leader": "NTUA", "start": 1, "end": 54, "tasks": [
+        { "id": "T1.1", "title": "Administration, Financial Coordination and Risk Management", "leader": "NTUA" },
+        { "id": "T1.2", "title": "Technical and Scientific Coordination", "leader": "NTUA" },
+        { "id": "T1.3", "title": "Protection of personal data, Gender Balance, Legal and Ethical issues", "leader": "ICCS" },
+        { "id": "T1.4", "title": "International Advisory Board Establishment and Management", "leader": "NTUA" }
+    ]},
+    { "no": 2, "title": "Refinement of project specifications and consolidation of requirements", "leader": "CET", "start": 1, "end": 18, "tasks": [
+        { "id": "T2.1", "title": "Stocktaking and catalogue delivery of Nature Based Solutions", "leader": "CET" },
+        { "id": "T2.2", "title": "Definition of common monitoring, reporting and validation methodologies", "leader": "CREAF" },
+        { "id": "T2.3", "title": "Definition of the value chain and stakeholder groups for the demonstrations", "leader": "UVIC" },
+        { "id": "T2.4", "title": "Definition of the requirement and Action Plans for the demonstrations", "leader": "CET" },
+        { "id": "T2.5", "title": "Digital solutions specifications", "leader": "ICCS" },
+        { "id": "T2.6", "title": "Policy frameworks analysis, identification of barriers and proposals to overcome", "leader": "UU" }
+    ]},
+    { "no": 3, "title": "Amplification of community resilience to climate change with & through NBS DEMOs", "leader": "UU", "start": 1, "end": 54, "tasks": [
+        { "id": "T3.1", "title": "Development of a knowledge translation and impact pathways methodology", "leader": "UU" },
+        { "id": "T3.2", "title": "Open science (OS), open innovation (OI), and citizen science (CS) strategies for social acceptance", "leader": "CET" },
+        { "id": "T3.3", "title": "Establish a Mediterranean NBS Community of Practice (CoP) as a Social Innovation Network", "leader": "UU" }
+    ]},
+    { "no": 4, "title": "Digital tools facilitating NBS uptake for climate resilience and adaptation", "leader": "ICCS", "start": 3, "end": 48, "tasks": [
+        { "id": "T4.1", "title": "Climate resilience measurement indices and additional metrics", "leader": "CREAF" },
+        { "id": "T4.2", "title": "Data collection strategy and fusion among different data sources", "leader": "ICCS" },
+        { "id": "T4.3", "title": "Scenario-based upscaling of local interventions to a regional scale", "leader": "ICCS" },
+        { "id": "T4.4", "title": "Scalable orchestration of data sources to feed the NBS interventions platform", "leader": "CORE" },
+        { "id": "T4.5", "title": "CARDIMED NBS interventions management digital platform", "leader": "ICCS" }
+    ]},
+    { "no": 5, "title": "Water, Energy, Food and Ecosystem Nexus Model adaptation", "leader": "UBRUN", "start": 3, "end": 54, "tasks": [
+        { "id": "T5.1", "title": "CARDIMED WEFE Nexus modelling framework and sub-models' development", "leader": "UBRUN" },
+        { "id": "T5.2", "title": "CARDIMED integrated WEFE Nexus evaluation", "leader": "UBRUN" },
+        { "id": "T5.3", "title": "CARDIMED NBS sustainability and circularity impact assessment", "leader": "CET" }
+    ]},
+    { "no": 6, "title": "CARDIMED demonstrations on community and regional scales", "leader": "NTUA", "start": 7, "end": 52, "tasks": [
+        { "id": "T6.1", "title": "Coordination in implementing the demonstrations’ Action Plans", "leader": "NTUA" },
+        { "id": "T6.2", "title": "DEMO1, Non-conventional water loops on Aegean Islands", "leader": "NTUA" },
+        { "id": "T6.3", "title": "DEMO2, Industrial symbiosis through smart water management", "leader": "HALCOR" },
+        { "id": "T6.4", "title": "DEMO3, Decarbonization of agricultural practices on Sardinia", "leader": "UNIVPM" },
+        { "id": "T6.5", "title": "DEMO4, Raingardens and living walls on Sicily", "leader": "IRIDRA" },
+        { "id": "T6.6", "title": "DEMO5, Micro-forests and unsealed soils in Provence-Alpes-Côte d’Azur", "leader": "SEMIDE" },
+        { "id": "T6.7", "title": "DEMO6, Forest management and heatwave resilience in Aragón", "leader": "CIRCE" },
+        { "id": "T6.8", "title": "DEMO7, Cultural landscape restoration Region of Central Alentejo", "leader": "UEVORA" },
+        { "id": "T6.9", "title": "DEMO8, Indigenous production landscapes in Izmir", "leader": "IZT" },
+        { "id": "T6.10", "title": "DEMO9, Gardens of the future in the heart of Nicosia city", "leader": "EBOS" }
+    ]},
+    { "no": 7, "title": "CARDIMED NBS sustainability, replication, and transferability", "leader": "ICLEI", "start": 13, "end": 54, "tasks": [
+        { "id": "T7.1", "title": "Effective planning & governance for mainstreaming NBS in the MED area", "leader": "UU" },
+        { "id": "T7.2", "title": "Cross-region replication methodology supported by CARDIMED Resilience Alliance", "leader": "ICLEI" },
+        { "id": "T7.3", "title": "Replication & transferability in the MED and other EU biogeographical areas", "leader": "ICLEI" },
+        { "id": "T7.4", "title": "Replication & transferability in the Mediterranean area (non-EU)", "leader": "SEMIDE" },
+        { "id": "T7.5", "title": "Uptake of NBS in existing value chains", "leader": "CTCON" }
+    ]},
+    { "no": 8, "title": "Impact creation, valorisation through dissemination, communication, exploitation", "leader": "BIOAZUL", "start": 1, "end": 54, "tasks": [
+        { "id": "T8.1", "title": "Project communication plan and dissemination of project results", "leader": "BIOAZUL" },
+        { "id": "T8.2", "title": "Networking and liaison with projects, communities, initiatives", "leader": "SEMIDE" },
+        { "id": "T8.3", "title": "Link with the implementation platform for the Climate Adaptation Mission and Mission Governance", "leader": "NTUA" },
+        { "id": "T8.4", "title": "Monitoring and interaction with policy shaping and decision making", "leader": "SEMIDE" },
+        { "id": "T8.5", "title": "Market research, Business Modelling and Exploitation", "leader": "BIOAZUL" },
+        { "id": "T8.6", "title": "Financing support in replication and transferability of CARDIMED NBS", "leader": "SEMIDE" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "CARDIMED - POPD policy and procedures", "wp": 1, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 3 },
+    { "no": "D1.2", "name": "Data Management Plan- first version", "wp": 1, "leader": "ICCS", "type": "Other", "level": "Public", "due": 6 },
+    { "no": "D1.3", "name": "Data Management Plan-final version", "wp": 1, "leader": "ICCS", "type": "Other", "level": "Public", "due": 54 },
+    { "no": "D1.4", "name": "International Advisory Board’s Responsibility report", "wp": 1, "leader": "NTUA", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D1.5", "name": "International Advisory Board Engagement Report", "wp": 1, "leader": "NTUA", "type": "Report", "level": "Sensitive", "due": 53 },
+    { "no": "D2.1", "name": "Landscape Report of NBS", "wp": 2, "leader": "CET", "type": "Report", "level": "Public", "due": 9 },
+    { "no": "D2.2", "name": "DEMOs value chains, monitoring & validation", "wp": 2, "leader": "CREAF", "type": "Report", "level": "Public", "due": 12 },
+    { "no": "D2.3", "name": "DEMOs Action Plans 1", "wp": 2, "leader": "CET", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D2.4", "name": "Policy memos with barriers and enablers", "wp": 2, "leader": "UU", "type": "Report", "level": "Public", "due": 15 },
+    { "no": "D3.1", "name": "Knowledge translation pathways", "wp": 3, "leader": "UU", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D3.2", "name": "Citizen-based welfare assessment", "wp": 3, "leader": "CET", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D3.3", "name": "Guidebook for co-producing NBS knowledge translation", "wp": 3, "leader": "UU", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D3.4", "name": "Report on the Mediterranean Community of Practice", "wp": 3, "leader": "UU", "type": "Report", "level": "Public", "due": 54 },
+    { "no": "D3.5", "name": "\"Policy brief on NBS knowledge pathways, NBS knowledge co-production and translation in the MED", "wp": 3, "leader": "UU", "type": "Report", "level": "Public", "due": 54 },
+    { "no": "D4.1", "name": "DEMOs' data collection strategies", "wp": 4, "leader": "ICCS", "type": "Report", "level": "Public", "due": 12 },
+    { "no": "D4.2", "name": "Data orchestration module", "wp": 4, "leader": "CORE", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D4.3", "name": "Development of CARDIMED NBS platform", "wp": 4, "leader": "ICCS", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D4.4", "name": "Methodology for upscaling interventions NBS", "wp": 4, "leader": "ICCS", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.1", "name": "CARDIMED modelling framework for the WEFE Nexus", "wp": 5, "leader": "UBRUN", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D5.2", "name": "WEFE Nexus models – Interim version", "wp": 5, "leader": "UBRUN", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D5.3", "name": "WEFE Nexus models – Final version", "wp": 5, "leader": "UBRUN", "type": "Other", "level": "Public", "due": 54 },
+    { "no": "D5.4", "name": "Sustainability and Circularity Impact assessment", "wp": 5, "leader": "CET", "type": "Report", "level": "Public", "due": 54 },
+    { "no": "D6.1", "name": "DEMOs Action Plans 2", "wp": 6, "leader": "NTUA", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D6.2", "name": "Intermediate DEMOs' report", "wp": 6, "leader": "NTUA", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D6.3", "name": "Final DEMOs' report", "wp": 6, "leader": "NTUA", "type": "Report", "level": "Public", "due": 52 },
+    { "no": "D7.1", "name": "Effective instruments for mainstreaming.", "wp": 7, "leader": "UU", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D7.2", "name": "Catalog of policy briefs", "wp": 7, "leader": "ICLEI", "type": "Report", "level": "Public", "due": 52 },
+    { "no": "D7.3", "name": "Replication Methodology and learning programme", "wp": 7, "leader": "SEMIDE", "type": "Report", "level": "Public", "due": 52 },
+    { "no": "D7.4", "name": "Assessment of the enablers and challenges for uptake of the NBS", "wp": 7, "leader": "CTCON", "type": "Report", "level": "Public", "due": 54 },
+    { "no": "D8.1", "name": "Communication and Dissemination Plan - preliminary version", "wp": 8, "leader": "BIOAZUL", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D8.2", "name": "Communication and Dissemination Plan - intermediate version", "wp": 8, "leader": "BIOAZUL", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D8.3", "name": "Communication and Dissemination Plan - final version", "wp": 8, "leader": "BIOAZUL", "type": "Report", "level": "Sensitive", "due": 54 },
+    { "no": "D8.4", "name": "CARDIMED Policy documents", "wp": 8, "leader": "SEMIDE", "type": "Report", "level": "Public", "due": 54 },
+    { "no": "D8.5", "name": "Exploitation Plan - preliminary version", "wp": 8, "leader": "BIOAZUL", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D8.6", "name": "Exploitation Plan - final version", "wp": 8, "leader": "BIOAZUL", "type": "Report", "level": "Sensitive", "due": 54 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Project Handbook, Risk and Quality Plan", "wp": 1, "leader": "NTUA", "due": 3 },
+    { "no": 2, "name": "Live document of digital specifications - 1", "wp": 2, "leader": "ICCS", "due": 6 },
+    { "no": 3, "name": "Live document of digital specifications - 2", "wp": 2, "leader": "ICCS", "due": 18 },
+    { "no": 4, "name": "On-site open-air exhibitions consolidation", "wp": 3, "leader": "UU", "due": 34 },
+    { "no": 5, "name": "Alpha version of NBS management platform", "wp": 4, "leader": "ICCS", "due": 18 },
+    { "no": 6, "name": "Integrated datasets for WP5 models", "wp": 4, "leader": "ICCS", "due": 24 },
+    { "no": 7, "name": "First version of the CARDIMED sub-models", "wp": 5, "leader": "UBRUN", "due": 24 },
+    { "no": 8, "name": "All DEMOs launched in operational mode", "wp": 6, "leader": "NTUA", "due": 24 },
+    { "no": 9, "name": "Expert interviews with transferability cases", "wp": 7, "leader": "ICLEI", "due": 16 },
+    { "no": 10, "name": "Resilience Alliance establishment", "wp": 7, "leader": "ICLEI", "due": 20 },
+    { "no": 11, "name": "Implementation of the Resilience Alliance Roadmap 1", "wp": 7, "leader": "ICLEI", "due": 28 },
+    { "no": 12, "name": "Implementation of the Resilience Alliance Roadmap 2", "wp": 7, "leader": "ICLEI", "due": 40 },
+    { "no": 13, "name": "Implementation of the Resilience Alliance Roadmap 3", "wp": 7, "leader": "ICLEI", "due": 52 },
+    { "no": 14, "name": "Project website", "wp": 8, "leader": "BIOAZUL", "due": 4 }
+  ]
+}

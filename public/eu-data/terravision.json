@@ -1,0 +1,214 @@
+{
+  "projectInfo": {
+    "title": "TERRAVISION: Integrated Earth Observation based platform for novel services to enhance raw materials mining life cycle",
+    "acronym": "TERRAVISION",
+    "grantNumber": "101138643",
+    "grantType": "HORIZON Innovation Actions",
+    "maxAmount": "€6,688,246.24",
+    "startDate": "1 January 2024",
+    "endDate": "31 December 2027",
+    "duration": "48 Months",
+    "coordinator": {
+      "name": "EREVNITIΚΟ ΡΑΝΕPISTIMIAKO INSTITOUTO SYSTIMATON ΕΠΙΚΟΙΝΟΝΙΟΝ ΚΑΙ YPOLOGISTON (ICCS)",
+      "location": "Athens, Greece"
+    },
+    "summary": "TERRAVISION will establish and deploy an integrated platform to enhance the entire critical raw materials value chain towards implementing sustainable mining practices. The platform will be supported by four innovation pillars: a Data Ecosystem for large-scale Earth Observation (EO) mining services, Analysis Ready Data and a raw material spectral library, EO services for the mining industry, and a Green & Resilience Accountability component. It will be demonstrated at mining sites in Greece and Spain to promote rapid uptake of these systemic innovations for a significant EU-wide impact.",
+    "participantsIntro": "A diverse consortium of 15 partners from 6 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+        { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the TERRAVISION project." },
+        { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+        { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+        { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "ICCS", "legalName": "EREVNITIΚΟ ΡΑΝΕPISTIMIAKO INSTITOUTO SYSTIMATON ΕΠΙΚΟΙΝΟΝΙΟΝ ΚΑΙ YPOLOGISTON", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 2, "role": "Beneficiary", "shortName": "SINTEF", "legalName": "SINTEF AS", "country": "Norway", "countryCode": "NO", "lat": 63.4305, "lon": 10.3951 },
+    { "no": 3, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 4, "role": "Beneficiary", "shortName": "AUTH", "legalName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS", "country": "Greece", "countryCode": "EL", "lat": 40.6391, "lon": 22.9444 },
+    { "no": 5, "role": "Beneficiary", "shortName": "ITA", "legalName": "INSTITUTO TECNOLOGICO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 6, "role": "Beneficiary", "shortName": "TERRADUE", "legalName": "TERRADUE SRL", "country": "Italy", "countryCode": "IT", "lat": 41.9028, "lon": 12.4964 },
+    { "no": 7, "role": "Beneficiary", "shortName": "AURORA", "legalName": "AURORAGEO E.E.", "country": "Greece", "countryCode": "EL", "lat": 38.0315, "lon": 23.8453 },
+    { "no": 8, "role": "Beneficiary", "shortName": "VITO", "legalName": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.", "country": "Belgium", "countryCode": "BE", "lat": 51.2194, "lon": 4.4025 },
+    { "no": 9, "role": "Beneficiary", "shortName": "UNE", "legalName": "ASOCIACION ESPANOLA DE NORMALIZACION", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+    { "no": 10, "role": "Beneficiary", "shortName": "GEOS", "legalName": "G.E.O.S.INGENIEURGESELLSCHAFT MBH", "country": "Germany", "countryCode": "DE", "lat": 50.9317, "lon": 13.3444 },
+    { "no": 11, "role": "Beneficiary", "shortName": "DIMAP", "legalName": "DIMAP-SPECTRAL GMBH", "country": "Germany", "countryCode": "DE", "lat": 50.9127, "lon": 13.3385 },
+    { "no": 12, "role": "Beneficiary", "shortName": "CANTERAS", "legalName": "CANTERAS INDUSTRIALES SL", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+    { "no": 13, "role": "Beneficiary", "shortName": "TERNAMAG", "legalName": "TERNA LEFKOLITHOI AΝΟΝΥΜΙ METALLEUTIKI EMPORIKI TECHNIKI VIOMICHANIKI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 14, "role": "Beneficiary", "shortName": "THARSIS", "legalName": "THARSIS MINING SOCIEDAD LIMITADA", "country": "Spain", "countryCode": "ES", "lat": 37.5958, "lon": -7.1235 },
+    { "no": 15, "role": "Beneficiary", "shortName": "ISMC", "legalName": "CLUSTER PARA LA MINERIA SOTENIBILEY SERVICIOS ASOCIADOS DE LA PENINSULA IBERICA", "country": "Spain", "countryCode": "ES", "lat": 42.5987, "lon": -5.5671 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Project management and coordination RP1", "leader": "ICCS", "start": 1, "end": 18, "tasks": [
+        { "id": "T1.1", "title": "Project coordination and management (including QA and risk management)", "leader": "ICCS" },
+        { "id": "T1.2", "title": "Technical management and scientific connection (including data management)", "leader": "SINTEF" },
+        { "id": "T1.3", "title": "GDPR, gender balance, legal and ethical issues management", "leader": "ICCS" }
+    ]},
+    { "no": 2, "title": "Project management and coordination RP2", "leader": "ICCS", "start": 19, "end": 36, "tasks": [
+        { "id": "T2.1", "title": "Project coordination and management (including QA and risk management)", "leader": "ICCS" },
+        { "id": "T2.2", "title": "Technical management and scientific connection (including data management)", "leader": "SINTEF" },
+        { "id": "T2.3", "title": "GDPR, gender balance, legal and ethical issues management", "leader": "ICCS" }
+    ]},
+    { "no": 3, "title": "Project management and coordination RP3", "leader": "ICCS", "start": 37, "end": 48, "tasks": [
+        { "id": "T3.1", "title": "Project coordination and management (including QA and risk management)", "leader": "ICCS" },
+        { "id": "T3.2", "title": "Technical management and scientific connection (including data management)", "leader": "SINTEF" },
+        { "id": "T3.3", "title": "GDPR, gender balance, legal and ethical issues management", "leader": "ICCS" }
+    ]},
+    { "no": 4, "title": "Requirements, Specifications and Overall Architecture", "leader": "AURORA", "start": 1, "end": 18, "tasks": [
+        { "id": "T4.1", "title": "End user requirements", "leader": "AURORA" },
+        { "id": "T4.2", "title": "Use cases and data flows for the developed services", "leader": "SINTEF" },
+        { "id": "T4.3", "title": "UX design and user feedback", "leader": "CORE" },
+        { "id": "T4.4", "title": "System specifications and architecture", "leader": "ICCS" }
+    ]},
+    { "no": 5, "title": "Data Ecosystem for Large scale EO mining services RP1", "leader": "SINTEF", "start": 10, "end": 18, "tasks": [
+        { "id": "T5.1", "title": "Copernicus Data Space Ecosystem link to services", "leader": "VITO" },
+        { "id": "T5.2", "title": "Airborne and Drone data collection and pre-processing", "leader": "DIMAP" },
+        { "id": "T5.3", "title": "In-situ sensors, planning and installation", "leader": "SINTEF" },
+        { "id": "T5.4", "title": "Connection to existing databases and other data sources", "leader": "ICCS" }
+    ]},
+    { "no": 6, "title": "Data Ecosystem for Large scale EO mining services RP2", "leader": "SINTEF", "start": 19, "end": 36, "tasks": [
+        { "id": "T6.1", "title": "Copernicus Data Space Ecosystem link to services", "leader": "VITO" },
+        { "id": "T6.2", "title": "Airborne and Drone data collection and pre-processing", "leader": "DIMAP" },
+        { "id": "T6.3", "title": "In-situ sensors, planning and installation", "leader": "SINTEF" },
+        { "id": "T6.4", "title": "Connection to existing databases and other data sources", "leader": "ICCS" }
+    ]},
+    { "no": 7, "title": "Analysis Ready Data and Raw spectral signatures V1", "leader": "ITA", "start": 10, "end": 18, "tasks": [
+        { "id": "T7.1", "title": "Development of synergistic framework of tools and methods for ARD", "leader": "ITA" },
+        { "id": "T7.2", "title": "Super resolution modelling architectures", "leader": "ICCS" },
+        { "id": "T7.3", "title": "Pixel and Feature level models and analysis", "leader": "ITA" },
+        { "id": "T7.4", "title": "Raw material Spectral Knowledge base", "leader": "GEOS" }
+    ]},
+    { "no": 8, "title": "Analysis Ready Data and Raw spectral signatures V2", "leader": "ITA", "start": 19, "end": 36, "tasks": [
+        { "id": "T8.1", "title": "Development of synergistic framework of tools and methods for ARD", "leader": "ITA" },
+        { "id": "T8.2", "title": "Super resolution modelling architectures", "leader": "ICCS" },
+        { "id": "T8.3", "title": "Pixel and Feature level models and analysis", "leader": "ITA" },
+        { "id": "T8.4", "title": "Raw material Spectral Knowledge base", "leader": "GEOS" }
+    ]},
+    { "no": 9, "title": "EO services for the mining industry V1", "leader": "ICCS", "start": 10, "end": 18, "tasks": [
+        { "id": "T9.1", "title": "Raw Material Exploration", "leader": "ICCS" },
+        { "id": "T9.2", "title": "Surface Deformation Mapping and Monitoring", "leader": "AUTH" },
+        { "id": "T9.3", "title": "Extraction rate in opencast mining; changes in stockpile volumes", "leader": "ICCS" },
+        { "id": "T9.4", "title": "Primary and Secondary Raw Material Maps", "leader": "VITO" },
+        { "id": "T9.5", "title": "Dynamic Hazard Maps", "leader": "AURORA" }
+    ]},
+    { "no": 10, "title": "EO services for the mining industry V2", "leader": "ICCS", "start": 19, "end": 36, "tasks": [
+        { "id": "T10.1", "title": "Raw Material Exploration", "leader": "ICCS" },
+        { "id": "T10.2", "title": "Surface Deformation Mapping and Monitoring", "leader": "AUTH" },
+        { "id": "T10.3", "title": "Extraction rate in opencast mining, changes in stockpile volumes", "leader": "ICCS" },
+        { "id": "T10.4", "title": "Primary and Secondary Raw Material Maps", "leader": "VITO" },
+        { "id": "T10.5", "title": "Dynamic Hazard Maps", "leader": "AURORA" }
+    ]},
+    { "no": 11, "title": "Green & Resilience Accountability component", "leader": "SINTEF", "start": 19, "end": 36, "tasks": [
+        { "id": "T11.1", "title": "Environmental Impact Assessment, water, air, soil", "leader": "ITA" },
+        { "id": "T11.2", "title": "Socio-economic metrics", "leader": "SINTEF" },
+        { "id": "T11.3", "title": "Prognostic and dashboards visualizations", "leader": "CORE" },
+        { "id": "T11.4", "title": "Resilience index development and implementation", "leader": "SINTEF" },
+        { "id": "T11.5", "title": "Sustainability Index VTI development and implementation", "leader": "VITO" }
+    ]},
+    { "no": 12, "title": "TERRAVISION Platform & Validation with end users V1", "leader": "AURORA", "start": 30, "end": 36, "tasks": [
+            { "id": "T12.1", "title": "Backend deployment and maintenance of services in cloud platforms", "leader": "ICCS" },
+            { "id": "T12.2", "title": "Dashboard connectivity and deployment", "leader": "CORE" },
+            { "id": "T12.3", "title": "End user validation of developed services", "leader": "AURORA" },
+            { "id": "T12.4", "title": "European/Global scale deployment of developed services", "leader": "ICCS" }
+    ]},
+    { "no": 13, "title": "TERRAVISION Platform & Validation with end users V2", "leader": "AURORA", "start": 37, "end": 48, "tasks": [
+        { "id": "T13.1", "title": "Backend deployment and maintenance of services in cloud platforms", "leader": "ICCS" },
+        { "id": "T13.2", "title": "End user validation of developed services", "leader": "AURORA" },
+        { "id": "T13.3", "title": "European/Global scale deployment of developed services", "leader": "ICCS" }
+    ]},
+    { "no": 14, "title": "Synergies, Awareness and Market Uptake", "leader": "CORE", "start": 1, "end": 18, "tasks": [
+            { "id": "T14.1", "title": "Dissemination and Communication activities", "leader": "ICCS" },
+            { "id": "T14.2", "title": "Exploitation and Innovation Management", "leader": "CORE" },
+            { "id": "T14.3", "title": "Market Uptake", "leader": "CORE" },
+            { "id": "T14.4", "title": "Clustering activities", "leader": "ISMC" },
+            { "id": "T14.5", "title": "Standardization activities", "leader": "UNE" }
+    ]},
+    { "no": 15, "title": "Synergies, Awareness and Market Uptake", "leader": "CORE", "start": 19, "end": 36, "tasks": [
+        { "id": "T15.1", "title": "Dissemination and Communication activities", "leader": "ICCS" },
+        { "id": "T15.2", "title": "Exploitation and Innovation Management", "leader": "CORE" },
+        { "id": "T15.3", "title": "Market Uptake", "leader": "CORE" },
+        { "id": "T15.4", "title": "Clustering activities", "leader": "ISMC" },
+        { "id": "T15.5", "title": "Standardization activities", "leader": "UNE" }
+    ]},
+    { "no": 16, "title": "Synergies, Awareness and Market Uptake", "leader": "CORE", "start": 37, "end": 48, "tasks": [
+        { "id": "T16.1", "title": "Dissemination and Communication activities", "leader": "ICCS" },
+        { "id": "T16.2", "title": "Exploitation and Innovation Management", "leader": "CORE" },
+        { "id": "T16.3", "title": "Market Uptake", "leader": "CORE" },
+        { "id": "T16.4", "title": "Clustering activities", "leader": "ISMC" },
+        { "id": "T16.5", "title": "Standardization activities", "leader": "UNE" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Project management handbook, data management plan, ethics framework and reports on innovation, data and IPR management (initial version)", "wp": 1, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D4.1", "name": "Functional requirements identification and analysis", "wp": 4, "leader": "AURORA", "type": "Report", "level": "Public", "due": 6 },
+    { "no": "D14.1", "name": "Dissemination and Communication Activities, Exploitation strategy and Market uptake (initial version)", "wp": 14, "leader": "ICCS", "type": "Report", "level": "Public", "due": 6 },
+    { "no": "D4.2", "name": "Use case definition and services data flows", "wp": 4, "leader": "SINTEF", "type": "Report", "level": "Public", "due": 10 },
+    { "no": "D4.4", "name": "TERRAVISION technical specifications and system architecture design", "wp": 4, "leader": "ICCS", "type": "Report", "level": "Public", "due": 10 },
+    { "no": "D7.1", "name": "State of the art of tools and methods to produce Analysis Ready Data", "wp": 7, "leader": "ITA", "type": "Report", "level": "Public", "due": 14 },
+    { "no": "D7.3", "name": "State of the art super resolution modelling architectures", "wp": 7, "leader": "ICCS", "type": "Report", "level": "Classified", "due": 14 },
+    { "no": "D4.3", "name": "Mockups of the UX-UI web tool, user scenarios with feedback, metrics based on user satisfaction", "wp": 4, "leader": "ICCS", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D5.1", "name": "Analysis of alignment required to link and integrate with Copernicus Data Space Ecosystem (initial version)", "wp": 5, "leader": "VITO", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D5.2", "name": "Data collection campaigns in mining sites and integration to TERRAVISION ecosystem (initial version)", "wp": 5, "leader": "DIMAP", "type": "Report", "level": "Classified", "due": 18 },
+    { "no": "D5.3", "name": "In-situ sensors planning and installation procedures (initial version)", "wp": 5, "leader": "SINTEF", "type": "Report", "level": "Classified", "due": 18 },
+    { "no": "D5.4", "name": "Connectors and harmonization layer between existing data sources and TERRAVISION Cloud server (initial version)", "wp": 5, "leader": "ICCS", "type": "Other", "level": "Classified", "due": 18 },
+    { "no": "D7.2", "name": "Framework of processing Analysis Ready Data (initial design)", "wp": 7, "leader": "ITA", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D7.4", "name": "Design of the proposed super resolution architectures (initial design)", "wp": 7, "leader": "ICCS", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D7.5", "name": "Pixel and Feature level models (alpha version)", "wp": 7, "leader": "ITA", "type": "Other", "level": "Classified", "due": 18 },
+    { "no": "D7.6", "name": "Establishment of a raw material knowledge spectral base (alpha version)", "wp": 7, "leader": "ICCS", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D9.1", "name": "Development and Demonstration of RM exploration service (alpha version)", "wp": 9, "leader": "ICCS", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D9.2", "name": "Surface Deformation Mapping and Monitoring (alpha version)", "wp": 9, "leader": "AUTH", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D9.3", "name": "Development and demonstration of EO-based monitoring of stockpile volumes and extraction rates (alpha version)", "wp": 9, "leader": "ICCS", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D9.4", "name": "Primary and Secondary Raw Material maps (alpha version)", "wp": 9, "leader": "VITO", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D9.5", "name": "Dynamic Hazard maps (alpha version)", "wp": 9, "leader": "AURORA", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D14.2", "name": "Clustering activities and TERRAVISION replicability (initial version)", "wp": 14, "leader": "ISMC", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D14.3", "name": "Standardization landscape and TERRAVISION contribution to standardization (initial report)", "wp": 14, "leader": "UNE", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D2.1", "name": "Project management handbook, data management plan, ethics framework and reports on innovation, data and IPR management (interim version)", "wp": 2, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D15.1", "name": "Dissemination and Communication Activities, Exploitation strategy and Market uptake (interim version)", "wp": 15, "leader": "ICCS", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D6.1", "name": "Analysis of alignment required to link and integrate with Copernicus Data Space Ecosystem (final version)", "wp": 6, "leader": "VITO", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D6.2", "name": "Data collection campaigns in mining sites and integration to TERRAVISION ecosystem (final version)", "wp": 6, "leader": "DIMAP", "type": "Report", "level": "Classified", "due": 36 },
+    { "no": "D6.3", "name": "In-situ sensors planning and installation procedures (final version)", "wp": 6, "leader": "SINTEF", "type": "Report", "level": "Classified", "due": 36 },
+    { "no": "D6.4", "name": "Connectors and harmonization layer between existing data sources and TERRAVISION Cloud server (final version)", "wp": 6, "leader": "ICCS", "type": "Other", "level": "Classified", "due": 36 },
+    { "no": "D8.1", "name": "Framework of processing Analysis Ready Data (final design)", "wp": 8, "leader": "ITA", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D8.2", "name": "Design of the proposed super resolution architectures (final design)", "wp": 8, "leader": "ICCS", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D8.3", "name": "Pixel and Feature level models (final release)", "wp": 8, "leader": "ITA", "type": "Other", "level": "Classified", "due": 36 },
+    { "no": "D8.4", "name": "Establishment of a raw material knowledge spectral base (final release)", "wp": 8, "leader": "ICCS", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D10.1", "name": "Development and Demonstration of RM exploration service (final release)", "wp": 10, "leader": "ICCS", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D10.2", "name": "Surface Deformation Mapping and Monitoring (final release)", "wp": 10, "leader": "AUTH", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D10.3", "name": "Development and demonstration of EO-based monitoring of stockpile volumes and extraction rates (final release)", "wp": 10, "leader": "ICCS", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D10.4", "name": "Primary and Secondary Raw Material maps (final release)", "wp": 10, "leader": "VITO", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D10.5", "name": "Dynamic Hazard maps (final release)", "wp": 10, "leader": "AURORA", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D11.1", "name": "Environmental Impact Assessment indicators", "wp": 11, "leader": "ITA", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D11.2", "name": "Socioeconomic metrics", "wp": 11, "leader": "SINTEF", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D11.3", "name": "Final release of the web tool", "wp": 11, "leader": "CORE", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D11.4", "name": "Resilience index development and implementation", "wp": 11, "leader": "SINTEF", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D11.5", "name": "Sustainability index development and implementation", "wp": 11, "leader": "VITO", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D12.1", "name": "Deployment of TERRAVISION services in cloud platforms", "wp": 12, "leader": "ICCS", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D12.2", "name": "Backend API schema, deployed Backend services", "wp": 12, "leader": "CORE", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D12.3", "name": "End user validation of developed services (initial version)", "wp": 12, "leader": "AURORA", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D12.4", "name": "European/Global scale validation of developed services (initial version)", "wp": 12, "leader": "ICCS", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D15.2", "name": "Clustering activities and TERRAVISION replicability (intermediate version)", "wp": 15, "leader": "ISMC", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D15.3", "name": "Standardization landscape and TERRAVISION contribution to standardization (intermediate report)", "wp": 15, "leader": "UNE", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D3.1", "name": "Project management handbook, data management plan, ethics framework and reports on innovation, data and IPR management (final version)", "wp": 3, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D13.1", "name": "End user validation of developed services (final version)", "wp": 13, "leader": "AURORA", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D13.2", "name": "European/Global scale validation of developed services (final version)", "wp": 13, "leader": "ICCS", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D16.1", "name": "Dissemination and Communication Activities, Exploitation strategy and Market uptake (final version)", "wp": 16, "leader": "ICCS", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D16.2", "name": "Clustering activities and TERRAVISION replicability (final version)", "wp": 16, "leader": "ISMC", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D16.3", "name": "Standardization landscape and TERRAVISION contribution to standardization (final report)", "wp": 16, "leader": "UNE", "type": "Report", "level": "Public", "due": 48 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Establishment of Internal Collaborative Tool, Risk Management Procedure & Quality Management Plan", "wp": 1, "leader": "ICCS", "due": 4 },
+    { "no": 2, "name": "Dissemination and Communication Plan in place", "wp": 14, "leader": "ICCS", "due": 6 },
+    { "no": 3, "name": "TERRAVISION system architecture in place", "wp": 4, "leader": "ICCS", "due": 10 },
+    { "no": 4, "name": "UX-UI web tool mockups available", "wp": 4, "leader": "CORE", "due": 18 },
+    { "no": 5, "name": "Large scale EO mining services in place (Alpha version)", "wp": 5, "leader": "VITO", "due": 18 },
+    { "no": 6, "name": "Analysis Ready Data and Raw spectral signatures in place (Alpha version)", "wp": 7, "leader": "ITA", "due": 18 },
+    { "no": 7, "name": "EO services for the mining industry in place (Alpha version)", "wp": 9, "leader": "AUTH", "due": 18 },
+    { "no": 8, "name": "Large scale EO mining services in place (Final release)", "wp": 6, "leader": "VITO", "due": 36 },
+    { "no": 9, "name": "Analysis Ready Data and Raw spectral signatures in place (Final release)", "wp": 8, "leader": "GEOS", "due": 36 },
+    { "no": 10, "name": "EO services for the mining industry in place (Final release)", "wp": 10, "leader": "AURORA", "due": 36 },
+    { "no": 11, "name": "Green and Resilience Accountability component in place", "wp": 11, "leader": "SINTEF", "due": 36 },
+    { "no": 12, "name": "First deployment of TERRAVISION platform", "wp": "8, 10, 11, 12", "leader": "ICCS", "due": 36 },
+    { "no": 13, "name": "Deployment & validation of TERRAVISION platform completed successfully", "wp": 13, "leader": "AURORA", "due": 48 },
+    { "no": 14, "name": "Upscaling of validation of TERRAVISION platform", "wp": 16, "leader": "ISMC", "due": 48 }
+  ]
+}

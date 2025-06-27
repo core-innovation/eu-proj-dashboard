@@ -1,0 +1,156 @@
+{
+    "projectInfo": {
+      "title": "Transformation of energy intensive process industries through integration of energy, process, and feedstock flexibility",
+      "acronym": "TRINEFLEX",
+      "grantNumber": "101058174",
+      "grantType": "HORIZON Innovation Actions",
+      "maxAmount": "€16,308,948.50",
+      "startDate": "1 September 2022",
+      "endDate": "31 August 2026",
+      "duration": "48 Months",
+      "coordinator": {
+        "name": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE",
+        "location": "Porrino, Spain"
+      },
+      "summary": "TRINEFLEX is an integrated EII-transformation toolkit following the `X as a service model´. For the end-users (EIIs), TRINEFLEX will function as an end-to-end service managing the plant?s digital lifecycle and the process of transition to flexible and sustainable operation. This process will be enabled by advanced and green data acquisition, Big Data Infrastructures, process analysis, model development and finally Digital Twins with integrated multi-agent decision support systems. TRINEFLEX will be implemented at each of five demonstration sites with unique challenges, from 4 sectors: glass, copper, aluminium and water industries. The implementation will be supported through the integration of transformative technologies (from the energy efficiency, clean energy, sustainable fuels and feedstocks and CCUS sectors), that synergise with the powerful digital solutions to demonstrate flexibility measures towards energy neutrality. Additionally, TRINEFLEX is designed for rapid replicability in these sectors and high transferability in other P4Planet sectors centred on energy flexibility on the short term and industrial symbiosis on the long term. TRINEFLEX will mobilise local stakeholders and communities into new ways of interacting with the energy and process industries: Capacity building, open science, and introducing new forms of sustainable economic activity. Service- and community-based demand/response will be employed to leverage local energy resources, coupled with emphasis on sustainable fuels and feedstocks, accelerating the adoption of industrial-urban symbiosis. 8 large companies, 7 SMEs will work with RTOs and supporting entities to achieve over 8% reduction of energy costs, 18% peak reduction, flexibility cost below 1.2 €/kWh, over 8% energy demand reduction that are projected to yield over 330GWh of energy savings, 45M€ in energy costs and CO2 tax, over 110kt of CO2 averted and over 800 jobs created by 2030. TRINEFLEX private investment is around 4M€.",
+      "participantsIntro": "A diverse consortium of 26 partners from 8 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+      "timelineEvents": [
+        { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the TRINEFLEX project." },
+        { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+        { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+        { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+      ]
+    },
+    "participants": [
+        { "no": 1, "role": "Coordinator", "shortName": "AIMEN", "legalName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE", "country": "Spain", "countryCode": "ES", "lat": 42.1648, "lon": -8.6256 },
+        { "no": 2, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+        { "no": 3, "role": "Beneficiary", "shortName": "TAU", "legalName": "TAMPEREEN KORKEAKOULUSAATIO SR", "country": "Finland", "countryCode": "FI", "lat": 61.4991, "lon": 23.7871 },
+        { "no": 4, "role": "Beneficiary", "shortName": "SCCH", "legalName": "SOFTWARE COMPETENCE CENTER HAGENBERG GMBH", "country": "Austria", "countryCode": "AT", "lat": 48.3683, "lon": 14.5147 },
+        { "no": 5, "role": "Beneficiary", "shortName": "AUTH", "legalName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS", "country": "Greece", "countryCode": "EL", "lat": 40.6391, "lon": 22.9444 },
+        { "no": 6, "role": "Beneficiary", "shortName": "NORCE", "legalName": "NORCE NORWEGIAN RESEARCH CENTRE AS", "country": "Norway", "countryCode": "NO", "lat": 58.9700, "lon": 5.7331 },
+        { "no": 7, "role": "Beneficiary", "shortName": "ICCS", "legalName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+        { "no": 8, "role": "Beneficiary", "shortName": "NTUA", "legalName": "ETHNICON METSOVION POLYTECHNION", "country": "Greece", "countryCode": "EL", "lat": 37.9789, "lon": 23.7845 },
+        { "no": 9, "role": "Beneficiary", "shortName": "LCM", "legalName": "LINZ CENTER OF MECHATRONICS GMBH", "country": "Austria", "countryCode": "AT", "lat": 48.3069, "lon": 14.2858 },
+        { "no": 10, "role": "Beneficiary", "shortName": "SINTEF", "legalName": "SINTEF AS", "country": "Norway", "countryCode": "NO", "lat": 63.4305, "lon": 10.3951 },
+        { "no": 11, "role": "Beneficiary", "shortName": "TICASS", "legalName": "TECNOLOGIE INNOVATIVE PER IL CONTROLLO AMBIENTALE E LO SVILUPPO SOSTENIBILE SOCIETA CONSORTILE A RESPONSABILITA LIMITATA", "country": "Italy", "countryCode": "IT", "lat": 44.4056, "lon": 8.9463 },
+        { "no": 12, "role": "Beneficiary", "shortName": "SYXIS", "legalName": "SYXIS VSI", "country": "Lithuania", "countryCode": "LT", "lat": 54.8985, "lon": 23.9036 },
+        { "no": 13, "role": "Beneficiary", "shortName": "IMDEA", "legalName": "FUNDACION IMDEA AGUA", "country": "Spain", "countryCode": "ES", "lat": 40.5519, "lon": -3.3704 },
+        { "no": 14, "role": "Beneficiary", "shortName": "STAM", "legalName": "STAM SRL", "country": "Italy", "countryCode": "IT", "lat": 44.4056, "lon": 8.9463 },
+        { "no": 15, "role": "Beneficiary", "shortName": "R2M", "legalName": "R2M SOLUTION SRL", "country": "Italy", "countryCode": "IT", "lat": 45.1847, "lon": 9.1581 },
+        { "no": 16, "role": "Beneficiary", "shortName": "GEP", "legalName": "SIMVOULI IGIEINIS KAI ASFALIAS GENIKI EXOTERIKI YPIPIESIA PROSTASIAS KAI PROLIPSIS ANONIMOS ETAIRIA", "country": "Greece", "countryCode": "EL", "lat": 38.0435, "lon": 23.8184 },
+        { "no": 17, "role": "Beneficiary", "shortName": "TSK", "legalName": "TSK ELECTRONICA Y ELECTRICIDAD SA", "country": "Spain", "countryCode": "ES", "lat": 43.5357, "lon": -5.6615 },
+        { "no": 18, "role": "Beneficiary", "shortName": "IDE", "legalName": "IDENER RESEARCH & DEVELOPMENT AGRUPACION DE INTERES ECONOMICO", "country": "Spain", "countryCode": "ES", "lat": 37.4912, "lon": -5.9221 },
+        { "no": 19, "role": "Beneficiary", "shortName": "MYT", "legalName": "MYTILINAIOS ANONIMI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 38.0378, "lon": 23.8057 },
+        { "no": 20, "role": "Beneficiary", "shortName": "EYDAP", "legalName": "ETAIREIA YDREYSEOS KAI APOCHETEFSEOS PROTEYOYSIS ANONIMI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 38.0315, "lon": 23.7516 },
+        { "no": 21, "role": "Beneficiary", "shortName": "DGS", "legalName": "DGS SPA", "country": "Italy", "countryCode": "IT", "lat": 41.9028, "lon": 12.4964 },
+        { "no": 22, "role": "Beneficiary", "shortName": "VERALLIA", "legalName": "VERALLIA ITALIA SPA", "country": "Italy", "countryCode": "IT", "lat": 45.3905, "lon": 11.4393 },
+        { "no": 23, "role": "Beneficiary", "shortName": "HALCOR", "legalName": "ELVALHALCOR ELLINIKI VIOMIHANIA HALKOU KAI ALOUMINIOU ANONYMOS ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+        { "no": 24, "role": "Beneficiary", "shortName": "REFIAL", "legalName": "REFINERIA DE ALUMINIO SL", "country": "Spain", "countryCode": "ES", "lat": 42.8468, "lon": -2.6716 },
+        { "no": 25, "role": "Beneficiary", "shortName": "ESAMUR", "legalName": "ENTIDAD REGIONAL DE SANEAMIENTO Y DEPURACION DE AGUAS RESIDUALES DE LA REGION DE MURCIA", "country": "Spain", "countryCode": "ES", "lat": 37.9922, "lon": -1.1307 },
+        { "no": 26, "role": "Beneficiary", "shortName": "SVALIN", "legalName": "SVALIN SOLAR AS", "country": "Norway", "countryCode": "NO", "lat": 58.9693, "lon": 5.7333 }
+    ],
+    "workPackagesWithTasks": [
+        { "no": 1, "title": "End user requirements and project specifications", "leader": "R2M", "start": 1, "end": 12, "tasks": [
+            { "id": "T1.1", "title": "Definition of end user requirements, monitoring, and flexibility potential", "leader": "R2M" },
+            { "id": "T1.2", "title": "Initial market and technical positioning of TRINEFLEX", "leader": "TICASS" },
+            { "id": "T1.3", "title": "Consolidation of technological and system specifications", "leader": "TSK" },
+            { "id": "T1.4", "title": "Identification and plan for the involvement of local stakeholders", "leader": "AUTH" },
+            { "id": "T1.5", "title": "Monitoring framework design", "leader": "LCM" }
+        ]},
+        { "no": 2, "title": "From data acquisition to digital twin consolidation framework", "leader": "SCCH", "start": 1, "end": 31, "tasks": [
+            { "id": "T2.1", "title": "Creation of data architecture and big-data infrastructure", "leader": "SCCH" },
+            { "id": "T2.2", "title": "Enriched data management, cybersecurity, IDS connectivity & compliancy", "leader": "SYXIS" },
+            { "id": "T2.3", "title": "Process analysis for Digital Twin consolidation", "leader": "SCCH" },
+            { "id": "T2.4", "title": "Physics-based modelling and hybrid", "leader": "LCM" }
+        ]},
+        { "no": 3, "title": "Interfacing of AI-enabled DSS with the digital twin framework", "leader": "CORE", "start": 7, "end": 31, "tasks": [
+            { "id": "T3.1", "title": "Integration into data management platform as unified DSS", "leader": "IDE" },
+            { "id": "T3.2", "title": "Energy Management System", "leader": "CORE" },
+            { "id": "T3.3", "title": "Process Optimization Agent", "leader": "TAU" },
+            { "id": "T3.4", "title": "Feedstock Adaptation Agent", "leader": "ICCS" },
+            { "id": "T3.5", "title": "Digital validation", "leader": "AIMEN" },
+            { "id": "T3.6", "title": "Smart contract interfacing with flexible operation", "leader": "MYTIL" }
+        ]},
+        { "no": 4, "title": "Integration of energy flexible technologies", "leader": "NORCE", "start": 7, "end": 31, "tasks": [
+            { "id": "T4.1", "title": "Energy efficient technologies", "leader": "VENTI" },
+            { "id": "T4.2", "title": "Distributed energy storage", "leader": "AUTH" },
+            { "id": "T4.3", "title": "Hydrogen", "leader": "TSK" },
+            { "id": "T4.4", "title": "Carbon capture, utilisation and or storage", "leader": "SINTEF" },
+            { "id": "T4.5", "title": "Biomass based fuels and feedstocks", "leader": "NTUA" },
+            { "id": "T4.6", "title": "Asset digitalisation", "leader": "NORCE" }
+        ]},
+        { "no": 5, "title": "Validation and demonstration activities", "leader": "TSK", "start": 1, "end": 48, "tasks": [
+            { "id": "T5.1", "title": "System level validation in operational environment", "leader": "TSK" },
+            { "id": "T5.2", "title": "Demonstrations #1 Glass", "leader": "VERAL" },
+            { "id": "T5.3", "title": "Demonstrations #2 Aluminium", "leader": "REFIAL" },
+            { "id": "T5.4", "title": "Demonstrations #3 Water", "leader": "ESAMUR" },
+            { "id": "T5.5", "title": "Demonstrations #4 Copper", "leader": "HALCOR" },
+            { "id": "T5.6", "title": "Demonstrations #5 Water", "leader": "EYDAP" },
+            { "id": "T5.7", "title": "Demonstration’s oversight, result evaluation and steps forward", "leader": "AIMEN" }
+        ]},
+        { "no": 6, "title": "TRINEFLEX impacts and evolution", "leader": "AUTH", "start": 1, "end": 48, "tasks": [
+            { "id": "T6.1", "title": "Mapping of local environmental and societal resources", "leader": "AUTH" },
+            { "id": "T6.2", "title": "OHSE, wellbeing and standards", "leader": "GEP" },
+            { "id": "T6.3", "title": "Gender equality planning", "leader": "AUTH" },
+            { "id": "T6.4", "title": "Sustainability assessment through LCA", "leader": "STAM" },
+            { "id": "T6.5", "title": "Economic policy learnings for flexible and efficient EIIs", "leader": "NORCE" }
+        ]},
+        { "no": 7, "title": "Communication, Dissemination, Exploitation", "leader": "TICASS", "start": 1, "end": 48, "tasks": [
+            { "id": "T7.1", "title": "Communication and dissemination", "leader": "TICASS" },
+            { "id": "T7.2", "title": "Exploitation strategy", "leader": "TICASS" },
+            { "id": "T7.3", "title": "Access to flexibility markets and new business models", "leader": "CORE" },
+            { "id": "T7.4", "title": "Education and upskilling / capacity building", "leader": "R2M" }
+        ]},
+        { "no": 8, "title": "Project management and coordination", "leader": "AIMEN", "start": 1, "end": 48, "tasks": [
+            { "id": "T8.1", "title": "Overall Project Management", "leader": "AIMEN" },
+            { "id": "T8.2", "title": "Progress monitoring including reporting", "leader": "AIMEN" },
+            { "id": "T8.3", "title": "Quality Assurance and Data Management Plan", "leader": "TICASS" },
+            { "id": "T8.4", "title": "Advisory Board Management", "leader": "AIMEN" }
+        ]}
+    ],
+    "deliverables": [
+        { "no": "D1.1", "name": "Consolidated specifications", "wp": 1, "leader": "R2M", "type": "Report", "level": "Sensitive", "due": 6 },
+        { "no": "D1.2", "name": "Flexibility audit", "wp": 1, "leader": "R2M", "type": "Other", "level": "Sensitive", "due": 12 },
+        { "no": "D2.1", "name": "Digital Retrofit process", "wp": 2, "leader": "SCCH", "type": "Other", "level": "Sensitive", "due": 28 },
+        { "no": "D2.2", "name": "Digital Twin development framework", "wp": 2, "leader": "LCM", "type": "Other", "level": "Sensitive", "due": 28 },
+        { "no": "D3.1", "name": "TRINEFLEX platform", "wp": 3, "leader": "IDE", "type": "Other", "level": "Sensitive", "due": 31 },
+        { "no": "D3.2", "name": "Digital Validation process", "wp": 3, "leader": "AIMEN", "type": "Other", "level": "Sensitive", "due": 31 },
+        { "no": "D3.3", "name": "Flexible smart contracts", "wp": 3, "leader": "MYT", "type": "Other", "level": "Sensitive", "due": 31 },
+        { "no": "D4.1", "name": "Digitised technology assets", "wp": 4, "leader": "NORCE", "type": "Other", "level": "Sensitive", "due": 28 },
+        { "no": "D4.2", "name": "CCUS Pilot demonstrator", "wp": 4, "leader": "SINTEF", "type": "DEM - Demonstrator, pilot, prototype", "level": "Public", "due": 24 },
+        { "no": "D4.3", "name": "DES Toolset", "wp": 4, "leader": "AUTH", "type": "Other", "level": "Sensitive", "due": 28 },
+        { "no": "D5.1", "name": "TRINEFLEX Validation report", "wp": 5, "leader": "TSK", "type": "Report", "level": "Sensitive", "due": 31 },
+        { "no": "D5.2", "name": "Transferability study", "wp": 5, "leader": "AIMEN", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D5.3", "name": "Demonstration evaluation report", "wp": 5, "leader": "AIMEN", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D6.1", "name": "Local engagement and impact report (M18)", "wp": 6, "leader": "AUTH", "type": "Report", "level": "Public", "due": 18 },
+        { "no": "D6.2", "name": "Local engagement and impact report (M36)", "wp": 6, "leader": "AUTH", "type": "Report", "level": "Public", "due": 36 },
+        { "no": "D6.3", "name": "Local engagement and impact report (M48)", "wp": 6, "leader": "AUTH", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D6.4", "name": "LCA tool", "wp": 6, "leader": "STAM", "type": "Other", "level": "Sensitive", "due": 33 },
+        { "no": "D7.1", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results, website and social media channels (M18)", "wp": 7, "leader": "TICASS", "type": "Report", "level": "Sensitive", "due": 18 },
+        { "no": "D7.2", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results, website and social media channels (M36)", "wp": 7, "leader": "TICASS", "type": "Report", "level": "Sensitive", "due": 36 },
+        { "no": "D7.3", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results, website and social media channels (M48)", "wp": 7, "leader": "TICASS", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D7.4", "name": "Education and training report", "wp": 7, "leader": "R2M", "type": "Report", "level": "Public", "due": 46 },
+        { "no": "D7.5", "name": "Strategic plan for Dissemination, Exploitation and Communication of project results, website and social media channels (M6)", "wp": 7, "leader": "TICASS", "type": "Report", "level": "Sensitive", "due": 6 },
+        { "no": "D8.1", "name": "Quality assurance plan", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 2 },
+        { "no": "D8.2", "name": "Data Management Plan (3)", "wp": 8, "leader": "TICASS", "type": "Report", "level": "Sensitive", "due": 3 },
+        { "no": "D8.3", "name": "Periodic Risk Monitoring Report (18)", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 18 },
+        { "no": "D8.4", "name": "Data Management Plan (24)", "wp": 8, "leader": "TICASS", "type": "Report", "level": "Sensitive", "due": 24 },
+        { "no": "D8.5", "name": "Periodic Risk Monitoring Report (30)", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 30 },
+        { "no": "D8.6", "name": "Data Management Plan (48)", "wp": 8, "leader": "TICASS", "type": "Report", "level": "Sensitive", "due": 48 }
+    ],
+    "milestones": [
+        { "no": 1, "name": "2 Agents prototypes", "wp": 3, "leader": "IDE", "due": 18 },
+        { "no": 2, "name": "2 Agents interoperable", "wp": 3, "leader": "IDE", "due": 28 },
+        { "no": 3, "name": "3 Prototypes ready", "wp": 4, "leader": "NORCE", "due": 18 },
+        { "no": 4, "name": "Asset digitalisation progress", "wp": 4, "leader": "NORCE", "due": 18 },
+        { "no": 5, "name": "Start of the set of validations from WP2-6", "wp": 5, "leader": "AIMEN", "due": 28 },
+        { "no": 6, "name": "Start of the 5 demonstrations", "wp": 5, "leader": "AIMEN", "due": 34 },
+        { "no": 7, "name": "Draft replication plan", "wp": 5, "leader": "AIMEN", "due": 36 },
+        { "no": 8, "name": "5 Demo designs finalised", "wp": 5, "leader": "AIMEN", "due": 18 },
+        { "no": 9, "name": "1 Plan for capacity building", "wp": 7, "leader": "R2M", "due": 18 },
+        { "no": 10, "name": "Set of DEC activities fully initiated", "wp": 7, "leader": "TICASS", "due": 6 },
+        { "no": 11, "name": "Training framework deployed", "wp": 7, "leader": "R2M", "due": 34 },
+        { "no": 12, "name": "Advisory Board finalized", "wp": 8, "leader": "AIMEN", "due": 12 },
+        { "no": 13, "name": "Digitalisation complete", "wp": 2, "leader": "SCCH", "due": 18 }
+    ]
+  }

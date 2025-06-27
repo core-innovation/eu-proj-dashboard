@@ -1,0 +1,161 @@
+{
+  "projectInfo": {
+    "title": "Alternative routes for basic chemicals production using hydrogen as feedstock",
+    "acronym": "ALCHEMHY",
+    "grantNumber": "101177996",
+    "grantType": "HORIZON Research and Innovation Actions",
+    "maxAmount": "€9,996,078.75",
+    "startDate": "First day of the month following the entry into force date",
+    "endDate": "Starting date + 48 months",
+    "duration": "48 Months",
+    "coordinator": {
+      "name": "FUNDACION CIRCE CENTRO DE INVESTIGACION DE RECURSOS Y CONSUMOS ENERGETICOS (CIRCE)",
+      "location": "Zaragoza, Spain"
+    },
+    "summary": "ALCHEMHY aims to develop a set of innovative electrified processes to produce platform chemicals, particularly ammonia, i.e. a Magnetic-Heated Sorption-Enhanced Reactor (MSER) and Direct ElectroSynthesis of Ammonia (DESA); and methanol, i.e. a Small Flexible Methanol Reactor (SFMR) and a Plasma-Catalytic Hydrogenation process (PCH). To this end, processes configuration will be optimised and novel materials and catalysts comaptible with the electric input will be developed, optimising their performance, ramp-up times and enabling milder conditions. This will support the intensification and downscaling of the ammonia and methanol production, facilitating decentralised production integrated with downstream processes and renewable energy generation. This is crucial to decarbonise the production of both chemicals, as current production heavily relies on fossil natural gas for hydrogen generation. The 4 processes will be demonstrated at TRL 6 in relevant experimental facilities, while the technical and economic feasibility of the processes will be studied through a technoeconomic assessment (TEA) in two use cases: integrated ammonia and caprolactam production and refinery decarbonisation through CCU + a downstream methanol-to-olefin process. The processes upscaling, operation and TEA will be supported through dynamic modelling of the processes, generating a digital twin of the processes and a DSS to support H2 value chain design. The project consortium consists of 16 partners from 7 EU countries, with diversified expertise and knowledge in the addressed processes and access to the required lab and pilot infrastructure. The project will contribute to the development of a sustainable chemical industry, supporting the creation of green jobs and improving the competitiveness of European industries, while contributing to a more resilient and secure energy system for the EU, reducing its dependence on imported fossil fuels.",
+    "participantsIntro": "A consortium of 16 partners from 7 EU countries, with diversified expertise and knowledge in the addressed processes and access to the required lab and pilot infrastructure.",
+    "timelineEvents": [
+      { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the ALCHEMHY project." },
+      { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+      { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+      { "period": "RP 3", "month": 48, "type": "report", "description": "Periodic Report 3 due 60 days after end of reporting period." },
+      { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "CIRCE", "legalName": "FUNDACION CIRCE CENTRO DE INVESTIGACION DE RECURSOS Y CONSUMOS ENERGETICOS", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 2, "role": "Beneficiary", "shortName": "NIC", "legalName": "KEMIJSKI INSTITUT", "country": "Slovenia", "countryCode": "SI", "lat": 46.0569, "lon": 14.5058 },
+    { "no": 3, "role": "Beneficiary", "shortName": "CIIAE", "legalName": "FUNDACION FUNDECYT - PARQUE CIENTIFICO Y TECNOLOGICO DE EXTREMADURA", "country": "Spain", "countryCode": "ES", "lat": 38.8778, "lon": -7.0097 },
+    { "no": 4, "role": "Beneficiary", "shortName": "UAV", "legalName": "UNIVERSIDADE DE AVEIRO", "country": "Portugal", "countryCode": "PT", "lat": 40.6405, "lon": -8.6538 },
+    { "no": 5, "role": "Beneficiary", "shortName": "BER", "legalName": "BLUENERGY REVOLUTION SCRL", "country": "Italy", "countryCode": "IT", "lat": 44.4056, "lon": 8.9463 },
+    { "no": 6, "role": "Beneficiary", "shortName": "UANTWERPEN", "legalName": "UNIVERSITEIT ANTWERPEN", "country": "Belgium", "countryCode": "BE", "lat": 51.2194, "lon": 4.4025 },
+    { "no": 7, "role": "Beneficiary", "shortName": "ICCS", "legalName": "EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 8, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 9, "role": "Beneficiary", "shortName": "FBK", "legalName": "FONDAZIONE BRUNO KESSLER", "country": "Italy", "countryCode": "IT", "lat": 46.0667, "lon": 11.1211 },
+    { "no": 10, "role": "Beneficiary", "shortName": "AIT", "legalName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH", "country": "Austria", "countryCode": "AT", "lat": 48.2082, "lon": 16.3738 },
+    { "no": 11, "role": "Beneficiary", "shortName": "WR", "legalName": "WHITE RESEARCH SRL", "country": "Belgium", "countryCode": "BE", "lat": 50.8466, "lon": 4.3517 },
+    { "no": 12, "role": "Beneficiary", "shortName": "RC", "legalName": "RECATALYST, RAZVOJ, PROIZVODNJA IN PRODAJA KATALIZATORSKIH KOMPOZITOV, D.O.O.", "country": "Slovenia", "countryCode": "SI", "lat": 46.0569, "lon": 14.5058 },
+    { "no": 13, "role": "Beneficiary", "shortName": "HST", "legalName": "HYSYTECH SRL", "country": "Italy", "countryCode": "IT", "lat": 45.0703, "lon": 7.6869 },
+    { "no": 14, "role": "Beneficiary", "shortName": "UCE", "legalName": "UBE CORPORATION EUROPE SA", "country": "Spain", "countryCode": "ES", "lat": 39.9864, "lon": -0.0378 },
+    { "no": 15, "role": "Beneficiary", "shortName": "SRI", "legalName": "SONATRACH RAFFINERIA ITALIANA SRL", "country": "Italy", "countryCode": "IT", "lat": 45.4642, "lon": 9.1900 },
+    { "no": 16, "role": "Associated Partner", "shortName": "CAS", "legalName": "CASALE SA", "country": "Switzerland", "countryCode": "CH", "lat": 46.1667, "lon": 8.9500 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Management and Coordination", "leader": "CIRCE", "start": 1, "end": 48, "tasks": [
+        { "id": "T1.1", "title": "Overall Project Management", "leader": "CIRCE" },
+        { "id": "T1.2", "title": "Progress monitoring and reporting", "leader": "CIRCE" },
+        { "id": "T1.3", "title": "Data Management Plan", "leader": "CIRCE" },
+        { "id": "T1.4", "title": "Innovation management and Responsible Research and Innovation", "leader": "CIRCE" }
+    ]},
+    { "no": 2, "title": "Development of technologies for ammonia production", "leader": "NIC", "start": 1, "end": 36, "tasks": [
+        { "id": "T2.1", "title": "Structured material selection, characterisation & testing", "leader": "NIC" },
+        { "id": "T2.2", "title": "Design of structured MSER reactor configuration", "leader": "NIC" },
+        { "id": "T2.3", "title": "Design of structured reactor configuration of DESA", "leader": "UAV" },
+        { "id": "T2.4", "title": "Validation of resilient TRL5 technology operation", "leader": "NIC" }
+    ]},
+    { "no": 3, "title": "Development of technologies for methanol production", "leader": "UANTWERPEN", "start": 1, "end": 30, "tasks": [
+        { "id": "T3.1", "title": "Design of the innovative small flexible MeOH reactor", "leader": "CAS" },
+        { "id": "T3.2", "title": "Plasma-catalytic lab test and optimisation", "leader": "UANTWERPEN" },
+        { "id": "T3.3", "title": "Catalyst selection and testing", "leader": "CIIAE" },
+        { "id": "T3.4", "title": "Validation of the technology at TRL5", "leader": "UANTWERPEN" }
+    ]},
+    { "no": 4, "title": "Digital processes development and operation", "leader": "CIRCE", "start": 7, "end": 36, "tasks": [
+        { "id": "T4.1", "title": "Digital twin of the core process", "leader": "CIRCE" },
+        { "id": "T4.2", "title": "Development of process control", "leader": "FBK" },
+        { "id": "T4.3", "title": "ROM of the core equipment and integration into the DSS", "leader": "CIRCE" },
+        { "id": "T4.4", "title": "Simulation of process flexibility and RES integration", "leader": "AIT" },
+        { "id": "T4.5", "title": "Data-driven models development", "leader": "CORE" },
+        { "id": "T4.6", "title": "Development of DSS for H2 flexibility", "leader": "ICCS" }
+    ]},
+    { "no": 5, "title": "Upscaling and demonstration at TRL 6", "leader": "CIIAE", "start": 12, "end": 48, "tasks": [
+        { "id": "T5.1", "title": "Catalyst upscaling", "leader": "RC" },
+        { "id": "T5.2", "title": "Pilots engineering and prototyping", "leader": "HST" },
+        { "id": "T5.3", "title": "Planning of the demonstration trials", "leader": "CIIAE" },
+        { "id": "T5.4", "title": "Integration of the prototypes and commissioning", "leader": "HST" },
+        { "id": "T5.5", "title": "Demonstration of novel processes process", "leader": "CIIAE" },
+        { "id": "T5.6", "title": "Validation and fine-tuning of the processes and models", "leader": "CIRCE" }
+    ]},
+    { "no": 6, "title": "Replication and impact assessment of project solutions", "leader": "AIT", "start": 37, "end": 48, "tasks": [
+        { "id": "T6.1", "title": "Techno-economic assessment of downstream ammonia uses", "leader": "CIIAE" },
+        { "id": "T6.2", "title": "Techno-economic assessment of downstream methanol uses", "leader": "BER" },
+        { "id": "T6.3", "title": "Evaluation of environmental, social and economic impact", "leader": "FBK" },
+        { "id": "T6.4", "title": "Roadmap and pathways towards TRL scaling-up", "leader": "AIT" }
+    ]},
+    { "no": 7, "title": "Dissemination, exploitation and communication", "leader": "WR", "start": 1, "end": 48, "tasks": [
+        { "id": "T7.1", "title": "Develop of the communication and dissemination plan", "leader": "WR" },
+        { "id": "T7.2", "title": "Dissemination and communication actions", "leader": "WR" },
+        { "id": "T7.3", "title": "Networking and synergies with former and on-going projects and initiatives", "leader": "WR" },
+        { "id": "T7.4", "title": "Exploitation strategy and IPR management", "leader": "CORE" },
+        { "id": "T7.5", "title": "Business models and cases development", "leader": "CORE" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Project handbook", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Sensitive", "due": 3 },
+    { "no": "D1.2", "name": "Data Management Plan first draft", "wp": 1, "leader": "CIRCE", "type": "DMP", "level": "Sensitive", "due": 6 },
+    { "no": "D1.3", "name": "Project Management Plan", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Sensitive", "due": 2 },
+    { "no": "D1.4", "name": "Project Progress Report", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D1.5", "name": "RRI First Report", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Public", "due": 12 },
+    { "no": "D1.6", "name": "Data Management Plan Final", "wp": 1, "leader": "CIRCE", "type": "DMP", "level": "Sensitive", "due": 18 },
+    { "no": "D1.7", "name": "Project Progress Report Update", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D1.8", "name": "Project Progress Report Final", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D1.9", "name": "RRI Final Report", "wp": 1, "leader": "CIRCE", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D2.1", "name": "Materials characterisation for ammonia production", "wp": 2, "leader": "NIC", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D2.2", "name": "Magnetic-heated ammonia reactor configuration", "wp": 2, "leader": "NIC", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D2.3", "name": "Validation of integrated magnetic-heated process at TRL 5", "wp": 2, "leader": "NIC", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D2.4", "name": "Advanced electrodes and electrolytes for DESA: preparation procedures and characterization results", "wp": 2, "leader": "UAV", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D2.5", "name": "Details on DESA configuration and design", "wp": 2, "leader": "CIIAE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D2.6", "name": "Magnetic-heated ammonia reactor configuration, Final", "wp": 2, "leader": "NIC", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D2.7", "name": "Validation of integrated magnetic-heated process at TRL 5, Final", "wp": 2, "leader": "NIC", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D2.8", "name": "Details on DESA configuration and design. Final", "wp": 2, "leader": "CIIAE", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D3.1", "name": "Catalysts advancements for methanol synthesis", "wp": 3, "leader": "CIIAE", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D3.2", "name": "Initial lab-scale tests for plasma-catalytic MeOH production", "wp": 3, "leader": "UANTWERPEN", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D3.3", "name": "Plasma-catalytic MeOH production validation at TRL 5", "wp": 3, "leader": "UANTWERPEN", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D3.4", "name": "Design and initial validation of flexible MeOH reactor", "wp": 3, "leader": "CAS", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D3.5", "name": "Validation of the integrated SMFR reactor at TRL 5.", "wp": 3, "leader": "CAS", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D3.6", "name": "Catalysts advancements for methanol synthesis, Final", "wp": 3, "leader": "CIIAE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D3.7", "name": "Plasma-catalytic MeOH production validation at TRL 5, Final", "wp": 3, "leader": "UANTWERPEN", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D3.8", "name": "Design and initial validation of flexible MeOH reactor, Final", "wp": 3, "leader": "CAS", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D3.9", "name": "Validation of the integrated SMFR reactor at TRL 5, Final", "wp": 3, "leader": "CAS", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D4.1", "name": "Digital twin models of the core processes", "wp": 4, "leader": "CIRCE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D4.2", "name": "Control Strategy Definition and control loops identification", "wp": 4, "leader": "FBK", "type": "Report", "level": "Sensitive", "due": 28 },
+    { "no": "D4.3", "name": "ROMs development for TRL5 and TRL6 reactors", "wp": 4, "leader": "CIRCE", "type": "Other", "level": "Sensitive", "due": 28 },
+    { "no": "D4.4", "name": "Process flexibility simulations at TRL 5", "wp": 4, "leader": "AIT", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D4.5", "name": "Dynamic simulations of the synthesis routes at TRL 6", "wp": 4, "leader": "AIT", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D4.6", "name": "Hybrid Digital Twin development and results", "wp": 4, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D4.7", "name": "ALCHEMHY DSS platform", "wp": 4, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D4.8", "name": "Digital twin models of the core processes, Final", "wp": 4, "leader": "CIRCE", "type": "Report", "level": "Sensitive", "due": 26 },
+    { "no": "D5.1", "name": "Catalyst upscaling specifications", "wp": 5, "leader": "RC", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D5.2", "name": "Pilots engineering", "wp": 5, "leader": "HST", "type": "Report", "level": "Sensitive", "due": 28 },
+    { "no": "D5.3", "name": "Pilots prototype", "wp": 5, "leader": "HST", "type": "DEM", "level": "Sensitive", "due": 36 },
+    { "no": "D5.4", "name": "Demonstration trials roadmap", "wp": 5, "leader": "CIIAE", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D5.5", "name": "Ammonia and methanol demonstrations trials", "wp": 5, "leader": "CIIAE", "type": "Report", "level": "Sensitive", "due": 45 },
+    { "no": "D5.6", "name": "Fine tuning of technologies and model previously developed", "wp": 5, "leader": "CIRCE", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D6.1", "name": "Techno-economic assessments for the ammonia use case", "wp": 6, "leader": "CIIAE", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.2", "name": "Techno-economic assessments for the methanol use case", "wp": 6, "leader": "BER", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.3", "name": "Report on project impact", "wp": 6, "leader": "FBK", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.4", "name": "Guidelines for ALCHEMHY replicability", "wp": 6, "leader": "AIT", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D7.1", "name": "Dissemination, Exploitation and Communication Plan", "wp": 7, "leader": "WR", "type": "Report", "level": "Public", "due": 3 },
+    { "no": "D7.2", "name": "Exploitation and IPR management plan", "wp": 7, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D7.3", "name": "Dissemination and Communication report", "wp": 7, "leader": "WR", "type": "Report", "level": "Public", "due": 21 },
+    { "no": "D7.4", "name": "ALCHEMHY business models", "wp": 7, "leader": "CORE", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D7.5", "name": "Project synergies report", "wp": 7, "leader": "WR", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D7.6", "name": "Exploitation and IPR management plan, Update", "wp": 7, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D7.7", "name": "Exploitation and IPR management plan, Final", "wp": 7, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D7.8", "name": "Dissemination and Communication report, Final", "wp": 7, "leader": "WR", "type": "Report", "level": "Public", "due": 48 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Project kick-off meeting", "wp": 1, "leader": "CIRCE", "due": 1 },
+    { "no": 2, "name": "ALCHEMHY initial documentation ready and project ready to start dissemination", "wp": "WP7, WP1", "leader": "WR", "due": 4 },
+    { "no": 3, "name": "Most suitable catalyst and materials selected", "wp": "WP3, WP2", "leader": "NIC", "due": 12 },
+    { "no": 4, "name": "TRL5 reactors’ ROMs ready", "wp": 4, "leader": "CIRCE", "due": 17 },
+    { "no": 5, "name": "Initial design & operational parameters of the TRL 6 processes available", "wp": "WP3, WP2", "leader": "UANTWERPEN", "due": 18 },
+    { "no": 6, "name": "Technologies initially validated at TRL 5", "wp": "WP3, WP2", "leader": "NIC", "due": 24 },
+    { "no": 7, "name": "TRL6 reactors’ ROMs and process modelling and control ready", "wp": 4, "leader": "CIRCE", "due": 28 },
+    { "no": 8, "name": "TRL 6 prototype successfully constructed", "wp": 5, "leader": "CIIAE", "due": 34 },
+    { "no": 9, "name": "ALCHEMHY digital developments developed and ready to be tested", "wp": 4, "leader": "CIRCE", "due": 36 },
+    { "no": 10, "name": "Successful integration and commissioning of the prototypes", "wp": 5, "leader": "CIIAE", "due": 37 },
+    { "no": 11, "name": "TRL scaling roadmap ongoing and TEA of use cases in progress", "wp": 6, "leader": "AIT", "due": 42 },
+    { "no": 12, "name": "Successful demonstration at TRL 6", "wp": 5, "leader": "CIIAE", "due": 45 },
+    { "no": 13, "name": "Upscaling studies completed and techno-economic analysis finalised", "wp": 6, "leader": "AIT", "due": 48 }
+  ]
+}

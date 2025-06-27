@@ -1,0 +1,136 @@
+{
+  "projectInfo": {
+    "title": "Recognizing European potential for hosting deep land primary CRM by combining new mineral models and advanced exploration and visualization techniques",
+    "acronym": "DEXPLORE",
+    "grantNumber": "101178897",
+    "grantType": "HORIZON Research and Innovation Actions",
+    "maxAmount": "€4,669,428.75",
+    "startDate": "1 October 2024",
+    "endDate": "30 September 2027",
+    "duration": "36 Months",
+    "coordinator": {
+      "name": "CLUSTER PARA LA MINERIA SOSTENIBLE Y SERVICIOS ASOCIADOS DE LA PENINSULA IBERICA - IBERIAN SUSTAINABLE MINING CLUSTER (ISMC)",
+      "location": "Leon, Spain"
+    },
+    "summary": "DEXPLORE seeks to revolutionize mineral exploration in Europe by developing innovative approaches to counter declining ore deposit discovery rates, focusing on deep-seated deposits critical for the economy's decarbonization. The project emphasizes engaging the general public and stakeholders, combining innovation at various levels, and utilizing cutting-edge tools and technologies. Targeting essential materials across extensive geological terrains, DEXPLORE proposes a holistic innovation package, integrating UAV-assisted in-field mineral detection, advanced Earth Observation methods, and novel deep-land geophysics techniques to reach at least 600 m depth. The initiative outlines the development of updated ore models, improving exploration technologies, and providing a visualization platform. This platform will integrate geological, remote sensing, and geophysical data to enhance access to information about EU potential in critical raw materials, while increasing public awareness. DEXPLORE also aims to strengthen cooperation with strategic partner countries, establishing a robust Advisory Board and fostering collaboration with other EU initiatives for joint activities and result sharing. In summary, DEXPLORE represents a collaborative effort to advance mineral exploration, contribute to sustainable sourcing of critical raw materials, and ensure EU's open strategic autonomy.",
+    "participantsIntro": "A consortium of 11 beneficiaries and 2 affiliated entities from 4 countries, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+      { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the DEXPLORE project." },
+      { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+      { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+      { "period": "Project End", "month": 36, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "ISMC", "legalName": "CLUSTER PARA LA MINERIA SOSTENIBLE Y SERVICIOS ASOCIADOS DE LA PENINSULA IBERICA - IBERIAN SUSTAINABLE MINING CLUSTER", "country": "Spain", "countryCode": "ES", "lat": 42.5987, "lon": -5.5671 },
+    { "no": 1.1, "role": "Affiliated Entity", "shortName": "ICAMCYL", "legalName": "FUNDACION ICAMCYL", "country": "Spain", "countryCode": "ES", "lat": 42.5987, "lon": -5.5671 },
+    { "no": 2, "role": "Beneficiary", "shortName": "ICCS", "legalName": "EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 2.1, "role": "Affiliated Entity", "shortName": "CogniSensus", "legalName": "CogniSensus IDIOTIKI KEFALAIOUCHIKI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 3, "role": "Beneficiary", "shortName": "UNICA", "legalName": "UNIVERSITA DEGLI STUDI DI CAGLIARI", "country": "Italy", "countryCode": "IT", "lat": 39.2238, "lon": 9.1217 },
+    { "no": 4, "role": "Beneficiary", "shortName": "CORE IC", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 5, "role": "Beneficiary", "shortName": "TalTech", "legalName": "TALLINNA TEHNIKAÜLIKOOL", "country": "Estonia", "countryCode": "EE", "lat": 59.4370, "lon": 24.7536 },
+    { "no": 6, "role": "Beneficiary", "shortName": "MNLT", "legalName": "MNLT INNOVATIONS IKE", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 7, "role": "Beneficiary", "shortName": "Terradat", "legalName": "TERRADAT GEOPHYSICS SL", "country": "Spain", "countryCode": "ES", "lat": 43.3614, "lon": -5.8603 },
+    { "no": 8, "role": "Beneficiary", "shortName": "XCALIBUR", "legalName": "XCALIBUR MPH SPAIN SL", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+    { "no": 9, "role": "Beneficiary", "shortName": "EGT", "legalName": "EESTI GEOLOOGIATEENISTUS", "country": "Estonia", "countryCode": "EE", "lat": 59.3779, "lon": 26.3592 },
+    { "no": 10, "role": "Beneficiary", "shortName": "ATALAYA MINING", "legalName": "ATALAYA RIOTINTO MINERA SL", "country": "Spain", "countryCode": "ES", "lat": 37.6946, "lon": -6.5910 },
+    { "no": 11, "role": "Beneficiary", "shortName": "MINER SA", "legalName": "MINERALES Y PRODUCTOS DERIVADOS SA", "country": "Spain", "countryCode": "ES", "lat": 43.3209, "lon": -3.0152 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Project coordination and management", "leader": "ISMC", "start": 1, "end": 36, "tasks": [
+        { "id": "T1.1", "title": "Definition of consortium operating procedures, quality and equity assurance", "leader": "ISMC" },
+        { "id": "T1.2", "title": "Monitoring of work advancement and financial management", "leader": "ISMC" },
+        { "id": "T1.3", "title": "Risk, IPR and data management", "leader": "ISMC" },
+        { "id": "T1.4", "title": "Communication within the consortium and with EC", "leader": "ISMC" },
+        { "id": "T1.5", "title": "Gender dimension and gender balance supervision", "leader": "ISMC" }
+    ]},
+    { "no": 2, "title": "Level 1: Development of mineral/ore models for the Estonian crystalline Precambrian basement", "leader": "TalTech", "start": 1, "end": 24, "tasks": [
+        { "id": "T2.1", "title": "Integration of (pre)existing geological information", "leader": "GSE" },
+        { "id": "T2.2", "title": "Geochemical analysis", "leader": "TalTech" },
+        { "id": "T2.3", "title": "XRF, infrared and magnetic susceptibility multiscanning of drill cores", "leader": "GSE" },
+        { "id": "T2.4", "title": "Petrophysical analysis", "leader": "TerraDat" },
+        { "id": "T2.5", "title": "Integrated mineral models for targeted settings/minerals", "leader": "TalTech" }
+    ]},
+    { "no": 3, "title": "Level 2: Remote Sensing for surface exploration", "leader": "ICCS", "start": 1, "end": 20, "tasks": [
+        { "id": "T3.1", "title": "Mineral exploration with remote sensing data - Copernicus", "leader": "ICCS" },
+        { "id": "T3.2", "title": "Field mineral detection prototype and lab validation", "leader": "UNICA" },
+        { "id": "T3.3", "title": "Hyperspectral signatures of unknown materials", "leader": "ICCS" },
+        { "id": "T3.4", "title": "Data interpretation and resource assessment", "leader": "ICCS" }
+    ]},
+    { "no": 4, "title": "Level 3: Geophysical techniques for deep land exploration", "leader": "Terradat", "start": 1, "end": 22, "tasks": [
+        { "id": "T4.1", "title": "Optimization of unmanned aerial vehicle airborne gravimetry", "leader": "XCALIBUR" },
+        { "id": "T4.2", "title": "Land-based technique – innovative seismic method", "leader": "TerraDat" },
+        { "id": "T4.3", "title": "Calibration pilots", "leader": "Xcalibur" }
+    ]},
+    { "no": 5, "title": "Level 4: Visualization and interaction platform", "leader": "CORE IC", "start": 1, "end": 32, "tasks": [
+        { "id": "T5.1", "title": "Analysis of datasets and platform specifications", "leader": "CORE" },
+        { "id": "T5.2", "title": "Development of the DEXPLORE platform", "leader": "CORE" },
+        { "id": "T5.3", "title": "Development of the smart visualization dashboard and UI", "leader": "CORE" },
+        { "id": "T5.4", "title": "3D Geological Modeling", "leader": "XCALIBUR" },
+        { "id": "T5.5", "title": "Extended Reality tools", "leader": "ICCS" }
+    ]},
+    { "no": 6, "title": "Final in-field technology validation", "leader": "EGT", "start": 23, "end": 36, "tasks": [
+        { "id": "T6.1", "title": "Data collection during the final in-field pilot across the Estonian Precambrian crystalline basement", "leader": "GSE" },
+        { "id": "T6.2", "title": "Final Estonian mineral model - Data interpretation and resource assessment", "leader": "GSE" },
+        { "id": "T6.3", "title": "XR platform validation and Social License to Operate", "leader": "ICCS" },
+        { "id": "T6.4", "title": "Finetuning of the technology", "leader": "UNICA" }
+    ]},
+    { "no": 7, "title": "LCA & Environmental Assessment", "leader": "MNLT", "start": 5, "end": 36, "tasks": [
+        { "id": "T7.1", "title": "Data compilation and scenarios", "leader": "MNLT" },
+        { "id": "T7.2", "title": "Life Cycle Assessment and Life Cycle Cost", "leader": "MNLT" },
+        { "id": "T7.3", "title": "Social Life Cycle Assessment", "leader": "MNLT" }
+    ]},
+    { "no": 8, "title": "Dissemination, Exploitation, Communication and Clustering", "leader": "ISMC", "start": 1, "end": 36, "tasks": [
+        { "id": "T8.1", "title": "Dissemination and communication plan, activities and events", "leader": "ISMC" },
+        { "id": "T8.2", "title": "Exploitation planning and Technoeconomic analysis (TEA)", "leader": "MNLT" },
+        { "id": "T8.3", "title": "Clustering activities", "leader": "ISMC" },
+        { "id": "T8.4", "title": "International integration and multi–stakeholder engagement – Advisory Board", "leader": "ICAMCYL" },
+        { "id": "T8.5", "title": "Training and knowledge-transfer program", "leader": "TalTech" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Quality Assurance (QAP), and risks and data management plans (DMP) I", "wp": 1, "leader": "ISMC", "type": "DMP", "level": "Public", "due": 6 },
+    { "no": "D1.2", "name": "Quality Assurance (QAP), and risks and data management plans (DMP) II", "wp": 1, "leader": "ISMC", "type": "DMP", "level": "Public", "due": 36 },
+    { "no": "D1.3", "name": "IPR inventory of original and protectable results I", "wp": 1, "leader": "ISMC", "type": "Report", "level": "Sensitive", "due": 8 },
+    { "no": "D1.4", "name": "IPR inventory of original and protectable results II", "wp": 1, "leader": "ISMC", "type": "Report", "level": "Sensitive", "due": 32 },
+    { "no": "D2.1", "name": "Systemic Estonian geochemical and petrophysical database", "wp": 2, "leader": "TalTech", "type": "DATA", "level": "Sensitive", "due": 14 },
+    { "no": "D2.2", "name": "Drill scanning database", "wp": 2, "leader": "EGT", "type": "DATA", "level": "Sensitive", "due": 18 },
+    { "no": "D2.3", "name": "Early Estonian ore model at different scales", "wp": 2, "leader": "TalTech", "type": "Report", "level": "Public", "due": 12 },
+    { "no": "D2.4", "name": "Early Estonian ore model with comparative analysis", "wp": 2, "leader": "TalTech", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D3.1", "name": "Remote field mineral detection Prototype", "wp": 3, "leader": "UNICA", "type": "DEM", "level": "Sensitive", "due": 18 },
+    { "no": "D3.2", "name": "Spectral library", "wp": 3, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D3.3", "name": "ML/DL based mineral exploration methods with remote sensing data", "wp": 3, "leader": "ICCS", "type": "Report", "level": "Sensitive", "due": 20 },
+    { "no": "D3.4", "name": "ML/DL methods used by the field mineral detector", "wp": 3, "leader": "UNICA", "type": "Report", "level": "Sensitive", "due": 20 },
+    { "no": "D4.1", "name": "UAV with gravimetry technology", "wp": 4, "leader": "XCALIBUR", "type": "DEM", "level": "Sensitive", "due": 18 },
+    { "no": "D5.1", "name": "Advancement on the visualization and interaction platform", "wp": 5, "leader": "CORE IC", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D5.2", "name": "3D Geological Modeling and Extended Reality tools", "wp": 5, "leader": "XCALIBUR", "type": "Report", "level": "Sensitive", "due": 32 },
+    { "no": "D6.1", "name": "Final mineral remote sensing exploration maps", "wp": 6, "leader": "ICCS", "type": "Report", "level": "Public", "due": 23 },
+    { "no": "D6.2", "name": "UAV exploration with gravimeter sensor flights", "wp": 6, "leader": "XCALIBUR", "type": "Report", "level": "Public", "due": 29 },
+    { "no": "D6.3", "name": "Passive seismic survey", "wp": 6, "leader": "Terradat", "type": "Report", "level": "Public", "due": 29 },
+    { "no": "D6.4", "name": "Estonian ore models and Resource assessment", "wp": 6, "leader": "TalTech", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D7.1", "name": "Life Cycle, Life Cycle Cost and Social Life Cycle Assessments", "wp": 7, "leader": "MNLT", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D8.1", "name": "DEC Plan and execution I", "wp": 8, "leader": "ISMC", "type": "Report", "level": "Public", "due": 4 },
+    { "no": "D8.2", "name": "DEC Plan and execution II", "wp": 8, "leader": "ISMC", "type": "Report", "level": "Public", "due": 20 },
+    { "no": "D8.3", "name": "DEC Plan and execution III", "wp": 8, "leader": "ISMC", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D8.4", "name": "Joint clustering activity plan", "wp": 8, "leader": "ICAMCYL", "type": "Report", "level": "Public", "due": 8 },
+    { "no": "D8.5", "name": "Joint clustering activity report", "wp": 8, "leader": "ICAMCYL", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D8.6", "name": "Techno-economic analysis and Business Plan", "wp": 8, "leader": "MNLT", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D8.7", "name": "Report on the International workshop and Roadmap of common actions", "wp": 8, "leader": "ICAMCYL", "type": "Report", "level": "Public", "due": 36 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "DEXPLORE project successfully launched", "wp": 1, "leader": "ISMC", "due": 1 },
+    { "no": 2, "name": "Dissemination and Communication plan delivery", "wp": 8, "leader": "ISMC", "due": 4 },
+    { "no": 3, "name": "Early Estonian ore models at different scales", "wp": 4, "leader": "TalTech", "due": 12 },
+    { "no": 4, "name": "Finetuned land-based seismic passive methodology", "wp": 4, "leader": "Terradat", "due": 12 },
+    { "no": 5, "name": "Remote field mineral detection Prototype", "wp": 3, "leader": "UNICA", "due": 18 },
+    { "no": 6, "name": "UAV with gravimetry technology", "wp": 3, "leader": "ISMC", "due": 18 },
+    { "no": 7, "name": "2 Calibration pilots targeting metallic and nonmetallic minerals with different configurations (dissemination, along planar structures) completed", "wp": 4, "leader": "Terradat", "due": 22 },
+    { "no": 8, "name": "Initial version of the advanced GIS/XR visualization and interaction platform", "wp": 5, "leader": "CORE IC", "due": 24 },
+    { "no": 9, "name": "Final validation pilot for remote sensing and geophysical exploration technology completed", "wp": 6, "leader": "EGT", "due": 29 },
+    { "no": 10, "name": "XR platform validation and Social License to Operate", "wp": 6, "leader": "ICCS", "due": 33 },
+    { "no": 11, "name": "International workshop", "wp": 8, "leader": "ICAMCYL", "due": 34 },
+    { "no": 12, "name": "Estonian ore models and Resource assessment", "wp": 6, "leader": "EGT", "due": 36 },
+    { "no": 13, "name": "Guarantee the reduced environmental impact offered by the implementation of DEXPLORE technologies", "wp": 7, "leader": "MNLT", "due": 36 },
+    { "no": 14, "name": "Techno-economic analysis and Business Plan", "wp": 8, "leader": "MNLT", "due": 36 }
+  ]
+}

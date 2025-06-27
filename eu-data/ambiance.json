@@ -1,0 +1,119 @@
+{
+  "projectInfo": {
+    "title": "Advanced Manufacturing of Bio-Based Products for Urban outdoor applications through Innovative characterization, digital technologies and circular approach",
+    "acronym": "AMBIANCE",
+    "grantNumber": "101058406",
+    "grantType": "HORIZON Research and Innovation Actions",
+    "maxAmount": "€4,571,767.00",
+    "startDate": "1 June 2022",
+    "endDate": "31 May 2026",
+    "duration": "48 Months",
+    "coordinator": {
+      "name": "INSTITUTO TECNOLOGICO DE ARAGON (ITAINNOVA)",
+      "location": "Zaragoza, Spain"
+    },
+    "summary": "By applying a circularity-by-design approach, the AMBIANCE project aims to develop new and advanced bio-based products, characterized by a high or total bio-based material content and taking into account the different alternatives for recirculation such as the different types of reuses, remanufacturing, recycling, biodegradation or energy recovery to enhance sustainable models. Such approach will be coupled to the optimization of the mechanical properties for particular applications, e.g. durability for outdoors urban furniture or sports and leisure products, taking into consideration the whole lifecycle. Special attention will be paid to the optimization of product manufacturing of bio-based materials, which will require tuning of material composition and processes (extrusion, large-scale additive manufacturing, compression moulding) for different bio-based materials. Besides, the use of Digital Twin technologies will enhance the development of materials and products and the remanufacturing of such bio-based goods, and it will optimize manufacturing processes and enhance production quality of such novel applications by leveraging IoT and Artificial Intelligence technologies. AMBIANCE's impact will be two-fold: firstly we will showcase disruptively innovative bio-based products in different sectors and manufacturing processes, while we will demonstrate applicability in daily-life products, starring green urban areas that will lead the transition to sustainability. The setting proposed by AMBIANCE will directly result in the creation of new jobs, based on new technical competences that will require specific training and upskilling, while the technical developments and findings will be used to contributing to the standardization of bio-based products and materials, which will guarantee an effective and wide adoption for making such products the new baseline of our lives.",
+    "participantsIntro": "A consortium of 9 beneficiaries, 1 affiliated entity, and 1 associated partner from 6 countries, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+      { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the AMBIANCE project." },
+      { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+      { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+      { "period": "RP 3", "month": 48, "type": "report", "description": "Periodic Report 3 due 60 days after end of reporting period." },
+      { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "ITAINNOVA", "legalName": "INSTITUTO TECNOLOGICO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 2, "role": "Beneficiary", "shortName": "AIMEN", "legalName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE", "country": "Spain", "countryCode": "ES", "lat": 42.1648, "lon": -8.6293 },
+    { "no": 3, "role": "Beneficiary", "shortName": "CRIT", "legalName": "CRIT CENTRO DI RICERCA E INNOVAZIONE TECNOLOGICA SRL", "country": "Italy", "countryCode": "IT", "lat": 44.5422, "lon": 11.0256 },
+    { "no": 4, "role": "Beneficiary", "shortName": "CORE IC", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 5, "role": "Beneficiary", "shortName": "MONDO", "legalName": "MONDO TUFTING SA", "country": "Spain", "countryCode": "ES", "lat": 41.8087, "lon": -1.5342 },
+    { "no": 5.1, "role": "Affiliated Entity", "shortName": "MONDO SPA", "legalName": "MONDO SPA", "country": "Italy", "countryCode": "IT", "lat": 44.7570, "lon": 8.4980 },
+    { "no": 6, "role": "Beneficiary", "shortName": "SETGA", "legalName": "SETGA SOCIEDAD LIMITADA UNIPERSONAL", "country": "Spain", "countryCode": "ES", "lat": 42.4338, "lon": -8.6479 },
+    { "no": 7, "role": "Beneficiary", "shortName": "PODCOMP", "legalName": "PODCOMP AB", "country": "Sweden", "countryCode": "SE", "lat": 65.3167, "lon": 21.4667 },
+    { "no": 8, "role": "Beneficiary", "shortName": "RECENDT", "legalName": "RESEARCH CENTER FOR NON DESTRUCTIVE TESTING GMBH", "country": "Austria", "countryCode": "AT", "lat": 48.3069, "lon": 14.2858 },
+    { "no": 9, "role": "Beneficiary", "shortName": "RISE AB", "legalName": "RISE RESEARCH INSTITUTES OF SWEDEN AB", "country": "Sweden", "countryCode": "SE", "lat": 57.7089, "lon": 11.9746 },
+    { "no": 10, "role": "Associated Partner", "shortName": "SUPSI", "legalName": "SCUOLA UNIVERSITARIA PROFESSIONALE DELLA SVIZZERA ITALIANA", "country": "Switzerland", "countryCode": "CH", "lat": 46.0037, "lon": 8.9511 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Industrial requirements and specifications", "leader": "ITAINNOVA", "start": 1, "end": 8, "tasks": [
+        { "id": "T1.1", "title": "Description of the industrial processes", "leader": "ITAINNOVA" },
+        { "id": "T1.2", "title": "Identification of critical process information", "leader": "ITAINNOVA" },
+        { "id": "T1.3", "title": "LCA Indicators and baseline pilot analysis", "leader": "SUPSI" }
+    ]},
+    { "no": 2, "title": "Development of novel Bio-based materials", "leader": "RISE AB", "start": 7, "end": 24, "tasks": [
+        { "id": "T2.1", "title": "Selection of bio-materials for targeted use cases", "leader": "RISE" },
+        { "id": "T2.2", "title": "Optimisation and characterization of selected bio-materials and processed bio-based composite materials", "leader": "ITAINNOVA" },
+        { "id": "T2.3", "title": "Reusability and recyclability of developed bio-based composite materials", "leader": "ITAINNOVA" },
+        { "id": "T2.4", "title": "Digital support tools", "leader": "ITAINNOVA" },
+        { "id": "T2.5", "title": "Optimization of the bio-based materials manufacturing process", "leader": "RISE" }
+    ]},
+    { "no": 3, "title": "Optimisation of bio-based product manufacturing processes", "leader": "AIMEN", "start": 12, "end": 36, "tasks": [
+        { "id": "T3.1", "title": "Manufacturing processing windows", "leader": "AIMEN" },
+        { "id": "T3.2", "title": "Manufacturing monitoring", "leader": "AIMEN" },
+        { "id": "T3.3", "title": "Data analysis", "leader": "CORE" },
+        { "id": "T3.4", "title": "Digital Twins development", "leader": "ITAINNOVA" },
+        { "id": "T3.5", "title": "Manufacturing system integration and optimization", "leader": "AIMEN" },
+        { "id": "T3.6", "title": "Tools for online Sustainability Lifecycle Assessment", "leader": "SUPSI" }
+    ]},
+    { "no": 4, "title": "Validation, demonstration and assessment", "leader": "SUPSI", "start": 31, "end": 48, "tasks": [
+        { "id": "T4.1", "title": "Validation of the developed components", "leader": "CORE" },
+        { "id": "T4.2", "title": "Demo # 1", "leader": "MONDO" },
+        { "id": "T4.3", "title": "Demo #2", "leader": "SETGA" },
+        { "id": "T4.4", "title": "Demo # 3", "leader": "PODCOMP" },
+        { "id": "T4.5", "title": "Demonstrators impact and techno-economic assessment", "leader": "SUPSI" }
+    ]},
+    { "no": 5, "title": "Impact Enhancement", "leader": "CRIT", "start": 1, "end": 48, "tasks": [
+        { "id": "T5.1", "title": "Communication", "leader": "CORE" },
+        { "id": "T5.2", "title": "Dissemination", "leader": "CRIT" },
+        { "id": "T5.3", "title": "Exploitation: IP and Innovation Management", "leader": "CRIT" },
+        { "id": "T5.4", "title": "Training", "leader": "CRIT" },
+        { "id": "T5.5", "title": "Standardization", "leader": "CRIT" }
+    ]},
+    { "no": 6, "title": "Project coordination", "leader": "ITAINNOVA", "start": 1, "end": 48, "tasks": [
+        { "id": "T6.1", "title": "Administrative & financial management Coordination", "leader": "ITAINNOVA" },
+        { "id": "T6.2", "title": "Technical Management", "leader": "ITAINNOVA" },
+        { "id": "T6.3", "title": "Risk and Quality management", "leader": "CRIT" }
+    ]},
+    { "no": 7, "title": "Ethics requirements", "leader": "ITAINNOVA", "start": 1, "end": 48, "tasks": [
+        { "id": "T7.1", "title": "Ethics requirements", "leader": "ITAINNOVA" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Application project charters", "wp": 1, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D1.2", "name": "LCA indicators and baseline assessment", "wp": 1, "leader": "SUPSI", "type": "Report", "level": "Sensitive", "due": 8 },
+    { "no": "D2.1", "name": "Bio-materials selection and characterization", "wp": 2, "leader": "RISE AB", "type": "Report", "level": "Public", "due": 20 },
+    { "no": "D2.2", "name": "Reusability and recyclability of the bio-based composites", "wp": 2, "leader": "ITAINNOVA", "type": "Report", "level": "Public", "due": 22 },
+    { "no": "D2.3", "name": "Optimized bio-based materials for demonstrators manufacturing", "wp": 2, "leader": "RISE AB", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D3.1", "name": "Processing windows", "wp": 3, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 26 },
+    { "no": "D3.2", "name": "Process and quality monitoring tools", "wp": 3, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.3", "name": "Digital Twins", "wp": 3, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.4", "name": "Manufacturing optimization", "wp": 3, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.5", "name": "LCA tool", "wp": 3, "leader": "SUPSI", "type": "Other", "level": "Sensitive", "due": 27 },
+    { "no": "D4.1", "name": "Technology validation, demo and techno-economic assessment of UC1", "wp": 4, "leader": "MONDO", "type": "DEM", "level": "Sensitive", "due": 48 },
+    { "no": "D4.2", "name": "Technology validation, demo and techno-economic assessment of UC2", "wp": 4, "leader": "SETGA", "type": "DEM", "level": "Sensitive", "due": 48 },
+    { "no": "D4.3", "name": "Technology validation, demo and techno-economic assessment of UC3", "wp": 4, "leader": "PODCOMP", "type": "DEM", "level": "Sensitive", "due": 48 },
+    { "no": "D5.1", "name": "Data Management Plan - Initial version", "wp": 5, "leader": "CRIT", "type": "Other", "level": "Public", "due": 6 },
+    { "no": "D5.2", "name": "Data Management Plan - Update I", "wp": 5, "leader": "CRIT", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D5.3", "name": "Data Management Plan - second update", "wp": 5, "leader": "CRIT", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D5.4", "name": "Final Data Management Plan", "wp": 5, "leader": "CRIT", "type": "Other", "level": "Public", "due": 48 },
+    { "no": "D5.5", "name": "Initial Plan for the Exploitation and Dissemination of Results (PEDR)", "wp": 5, "leader": "CRIT", "type": "Report", "level": "Public", "due": 12 },
+    { "no": "D5.6", "name": "Plan for the Exploitation and Dissemination of Results (PEDR). Update I", "wp": 5, "leader": "CRIT", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D5.7", "name": "Plan for the Exploitation and Dissemination of Results (PEDR). Update II", "wp": 5, "leader": "CRIT", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D5.8", "name": "Final Plan for the Exploitation and Dissemination of Results (PEDR)", "wp": 5, "leader": "CRIT", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.9", "name": "Report on Standardization and Training activities", "wp": 5, "leader": "CRIT", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.1", "name": "Quality assurance and risk management plan", "wp": 6, "leader": "CRIT", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D6.2", "name": "Quality assurance and risk management plan. Update", "wp": 6, "leader": "CRIT", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D6.3", "name": "Final quality assurance and risk management plan", "wp": 6, "leader": "CRIT", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D7.1", "name": "OEI - Requirement No. 1", "wp": 7, "leader": "ITAINNOVA", "type": "ETHICS", "level": "Sensitive", "due": 24 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Baseline specification of biobased materials and products", "wp": 1, "leader": "ITAINNOVA", "due": 8 },
+    { "no": 2, "name": "Bio-based materials ready", "wp": 2, "leader": "RISE AB", "due": 24 },
+    { "no": 3, "name": "Process windows ready", "wp": 3, "leader": "AIMEN", "due": 26 },
+    { "no": 4, "name": "Digital twins validated", "wp": 3, "leader": "ITAINNOVA", "due": 34 },
+    { "no": 5, "name": "Manufacturing systems optimized", "wp": 3, "leader": "AIMEN", "due": 36 },
+    { "no": 6, "name": "Hybrid Digital Twin is operational", "wp": 4, "leader": "ITAINNOVA", "due": 42 },
+    { "no": 7, "name": "Pilot lines assessed", "wp": 4, "leader": "ITAINNOVA", "due": 48 }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "projectInfo": {
+    "title": "Digital assets and tools for Circular value chains and manufacturing products",
+    "acronym": "DaCapo",
+    "grantNumber": "101091780",
+    "grantType": "HORIZON Research and Innovation Actions",
+    "maxAmount": "€5,994,489.25",
+    "startDate": "1 January 2023",
+    "endDate": "30 June 2026",
+    "duration": "42 Months",
+    "coordinator": {
+      "name": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE (AIMEN)",
+      "location": "PORRINO 36410, Spain"
+    },
+    "summary": "DaCapo aims at establishing a systematic approach enabling the creation of human-centric digital tools and services for improving the adoption of Circular Economy strategies along both manufacturing value chains and products lifecycles (design and engineering, manufacturing, use phase and End of Life). These tools and services, focused on the creation of new digital assets, AI-based systems and the application of process and product Digital Twins, will greatly improve sustainability, efficiency, and use of imported and CRM in manufacturing, towards digital-enabled industrial sustainability and resilience. The backbone of the project will be a new methodological approach supporting decision-making, considering business models, material flows and circular strategies along the manufacturing value chains. Digital Product Passports and a Circular Economy Decision Support System will be developed as high-level tools, facilitating the trustful exchange of assets, the selection of optimum circular stock management strategies and tools, and the definition of informed and coordinated products lifecycle management decisions in a safe, reliable and agile way. A modular Digital Thread concept will be developed as a normalized method for orchestrating the gathering and contextualization of data at different points of the product lifecycle, enhancing data availability for the definition of indicators and optimisation criteria. On top of that, DaCapo will develop a digital architecture aligned with interoperability and connectivity standards, guaranteeing end-to-end horizontal and vertical integration, boosting data sharing and exploitation under the EU Data Spaces framework and maximizing replicability potential. A consortium of 8 top Research Institutions and 6 relevant industry partners, backed by 1 EU association for technology standardisation, will demonstrate DaCapo on 3 relevant and EU Critical Value Chains production environments (aeronautics, electronics and logist",
+    "participantsIntro": "A consortium of 15 partners from multiple EU countries, including research institutions, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+      {
+        "period": "Project Start",
+        "month": 1,
+        "type": "milestone",
+        "description": "Kick-off and official start of the DaCapo project."
+      },
+      {
+        "period": "RP 1",
+        "month": 18,
+        "type": "report",
+        "description": "Periodic Report 1 due 60 days after end of reporting period."
+      },
+      {
+        "period": "RP 2",
+        "month": 30,
+        "type": "report",
+        "description": "Periodic Report 2 due 60 days after end of reporting period."
+      },
+      {
+        "period": "Project End",
+        "month": 42,
+        "type": "milestone",
+        "description": "Final project activities and submission of the Final Report."
+      }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "AIMEN", "legalName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE", "country": "Spain", "countryCode": "ES", "lat": 42.1623, "lon": -8.6202 },
+    { "no": 2, "role": "Beneficiary", "shortName": "CEA", "legalName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", "country": "France", "countryCode": "FR", "lat": 48.8566, "lon": 2.3522 },
+    { "no": 3, "role": "Beneficiary", "shortName": "VTT", "legalName": "TEKNOLOGIAN TUTKIMUSKESKUS VTT OY", "country": "Finland", "countryCode": "FI", "lat": 60.1585, "lon": 24.7414 },
+    { "no": 4, "role": "Beneficiary", "shortName": "POLIMI", "legalName": "POLITECNICO DI MILANO", "country": "Italy", "countryCode": "IT", "lat": 45.4782, "lon": 9.2277 },
+    { "no": 5, "role": "Beneficiary", "shortName": "LMS", "legalName": "PANEPISTIMIO PATRON", "country": "Greece", "countryCode": "EL", "lat": 38.2891, "lon": 21.7851 },
+    { "no": 6, "role": "Beneficiary", "shortName": "TNO", "legalName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO", "country": "Netherlands", "countryCode": "NL", "lat": 52.0787, "lon": 4.3197 },
+    { "no": 7, "role": "Beneficiary", "shortName": "UNIMORE", "legalName": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA", "country": "Italy", "countryCode": "IT", "lat": 44.6478, "lon": 10.9254 },
+    { "no": 8, "role": "Beneficiary", "shortName": "CORE SME", "legalName": "CORE INNOVATION AND TECHNOLOGY OE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 9, "role": "Beneficiary", "shortName": "ENG", "legalName": "ENGINEERING - INGEGNERIA INFORMATICA SPA", "country": "Italy", "countryCode": "IT", "lat": 41.9028, "lon": 12.4964 },
+    { "no": 10, "role": "Beneficiary", "shortName": "PACE", "legalName": "PACE AEROSPACE ENGINEERING AND INFORMATION TECHNOLOGY GMBH", "country": "Germany", "countryCode": "DE", "lat": 52.5076, "lon": 13.2798 },
+    { "no": 11, "role": "Beneficiary", "shortName": "PESMEL", "legalName": "PESMEL OY", "country": "Finland", "countryCode": "FI", "lat": 62.4827, "lon": 22.3995 },
+    { "no": 12, "role": "Beneficiary", "shortName": "GKN", "legalName": "GKN AEROSPACE SWEDEN AB", "country": "Sweden", "countryCode": "SE", "lat": 58.2858, "lon": 12.2898 },
+    { "no": 13, "role": "Beneficiary", "shortName": "FAIRPHONE BV", "legalName": "FAIRPHONE BV", "country": "Netherlands", "countryCode": "NL", "lat": 52.3759, "lon": 4.8971 },
+    { "no": 14, "role": "Beneficiary", "shortName": "IDSA", "legalName": "INTERNATIONAL DATA SPACES EV", "country": "Germany", "countryCode": "DE", "lat": 52.5200, "lon": 13.4050 },
+    { "no": 15, "role": "Associated partner", "shortName": "SUPSI", "legalName": "SCUOLA UNIVERSITARIA PROFESSIONALE DELLA SVIZZERA ITALIANA", "country": "Switzerland", "countryCode": "CH", "lat": 46.0101, "lon": 8.9507 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Holistic framework for EU digitised circular manufacturing", "leader": "AIMEN", "start": 1, "end": 9, "tasks": [
+        { "id": "T1.1", "title": "Business models mapping for circular manufacturing value chains", "leader": "TNO" },
+        { "id": "T1.2", "title": "Detailed definition of Didactic Factories and Production Environment validation", "leader": "AIMEN" },
+        { "id": "T1.3", "title": "Digital architecture definition and data protocols", "leader": "ENG" }
+    ]},
+    { "no": 2, "title": "Sustainability and Circular Economy Methodology", "leader": "TNO", "start": 5, "end": 22, "tasks": [
+        { "id": "T2.1", "title": "Agile methodology for sustainability and circularity enhancement in manufacturing", "leader": "TNO" },
+        { "id": "T2.2", "title": "Research and application of sustainability and circularity evaluation strategies and indicators", "leader": "CEA" },
+        { "id": "T2.3", "title": "Circular Economy strategies for mitigating critical material management along the value chains", "leader": "TNO" },
+        { "id": "T2.4", "title": "Data sharing strategies to enable implementation of new R-cycles", "leader": "VTT" }
+    ]},
+    { "no": 3, "title": "Digital assets and infrastructure for value chains cooperation", "leader": "VTT", "start": 6, "end": 27, "tasks": [
+        { "id": "T3.1", "title": "Digital Platform and middleware", "leader": "ENG" },
+        { "id": "T3.2", "title": "Modular Digital Threading for manufacturing data interoperability", "leader": "AIMEN" },
+        { "id": "T3.3", "title": "Knowledge modelling and data analytics", "leader": "SUPSI" },
+        { "id": "T3.4", "title": "Digital Product Passport (DPP) to support sustainable product lifecycles", "leader": "VTT" }
+    ]},
+    { "no": 4, "title": "Digital tools for manufacturing and R-cycles industries", "leader": "LMS", "start": 8, "end": 32, "tasks": [
+        { "id": "T4.1", "title": "Manufacturing and R-cycles Process and Circular Product Digital Twins", "leader": "LMS" },
+        { "id": "T4.2", "title": "Eco-design and Engineering data-driven digital tools", "leader": "AIMEN" },
+        { "id": "T4.3", "title": "Extension of sustainable manufacturing strategies with circularity criteria", "leader": "LMS" },
+        { "id": "T4.4", "title": "Advanced diagnostics and maintenance solutions for products use and EoL phases", "leader": "PESMEL" },
+        { "id": "T4.5", "title": "AI strategies for a circular economy decision support system", "leader": "CORE IC" }
+    ]},
+    { "no": 5, "title": "Human-centric solutions and strategies", "leader": "UNIMORE", "start": 8, "end": 32, "tasks": [
+        { "id": "T5.1", "title": "Methods for the co-evolution of digital tools, operators’ skills and user interfaces", "leader": "UNIMORE" },
+        { "id": "T5.2", "title": "Operator 4.0 user-centric proactive HMIs design and development", "leader": "UNIMORE" },
+        { "id": "T5.3", "title": "User eXperience designs for human actors along circular manufacturing value chains", "leader": "PACE" },
+        { "id": "T5.4", "title": "Training and workforce upskilling and reskilling tools", "leader": "POLIMI" }
+    ]},
+    { "no": 6, "title": "Didactic Factories and Production Environment validation", "leader": "POLIMI", "start": 26, "end": 42, "tasks": [
+        { "id": "T6.1", "title": "Didactic Factories deployment and validation", "leader": "POLIMI" },
+        { "id": "T6.2", "title": "Extending sustainable manufacturing and repairability approaches for aeronautic value chains", "leader": "GKN" },
+        { "id": "T6.3", "title": "Eco-design, diagnosis and maintenance for modular mobile phones", "leader": "FAIRPHONE BV" },
+        { "id": "T6.4", "title": "R-cycles in material flows for warehouse design, construction and operation", "leader": "PESMEL" },
+        { "id": "T6.5", "title": "Benchmark and assessment for replicability and circularity.", "leader": "SUPSI" }
+    ]},
+    { "no": 7, "title": "Boosting Circular Economy adoption", "leader": "CORE SME", "start": 1, "end": 42, "tasks": [
+        { "id": "T7.1", "title": "Dissemination and Communication strategy", "leader": "CORE SME" },
+        { "id": "T7.2", "title": "IPR management, exploitation and sustainable business model plan", "leader": "CORE SME" },
+        { "id": "T7.3", "title": "Training and digital upskilling plan", "leader": "POLIMI" },
+        { "id": "T7.4", "title": "Standardisation towards technology transfer", "leader": "IDSA" },
+        { "id": "T7.5", "title": "Data economy strategies for CE value creation", "leader": "VTT" }
+    ]},
+    { "no": 8, "title": "Project Coordination and Management", "leader": "AIMEN", "start": 1, "end": 42, "tasks": [
+        { "id": "T8.1", "title": "Financial, legal and administrative management", "leader": "AIMEN" },
+        { "id": "T8.2", "title": "Project monitoring and risk management", "leader": "AIMEN" },
+        { "id": "T8.3", "title": "Strategic management of the project", "leader": "AIMEN" },
+        { "id": "T8.4", "title": "Ethics", "leader": "UNIMORE" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Digital Architecture, DFs and Production Environment requirements", "wp": 1, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 7 },
+    { "no": "D1.2", "name": "Circular business models for EU manufacturing value chains", "wp": 1, "leader": "TNO", "type": "Report", "level": "Public", "due": 9 },
+    { "no": "D2.1", "name": "Sustainability indicators and CE strategies for manufacturing value chains", "wp": 2, "leader": "CEA", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D2.2", "name": "Mitigation strategies for critical material supply disruptions", "wp": 2, "leader": "TNO", "type": "Report", "level": "Sensitive", "due": 20 },
+    { "no": "D2.3", "name": "Data sharing protocols and Digital Product Passport conceptualization.", "wp": 2, "leader": "VTT", "type": "Report", "level": "Public", "due": 22 },
+    { "no": "D2.4", "name": "DaCapo agile methodology for sustainability and circularity enhancement", "wp": 2, "leader": "TNO", "type": "Other", "level": "Public", "due": 22 },
+    { "no": "D3.1", "name": "Alpha-version for the initial digital infrastructure for implementing DT and DPPs functionalities", "wp": 3, "leader": "ENG", "type": "Other", "level": "Sensitive", "due": 15 },
+    { "no": "D3.2", "name": "Digital assets for data interoperability and sustainability along product lifecycles", "wp": 3, "leader": "VTT", "type": "Other", "level": "Sensitive", "due": 24 },
+    { "no": "D3.3", "name": "DaCapo digital platform, middleware and knowledge and data analytics tools", "wp": 3, "leader": "ENG", "type": "Other", "level": "Sensitive", "due": 27 },
+    { "no": "D4.1", "name": "Process and product DTs development and implementation", "wp": 4, "leader": "LMS", "type": "Report", "level": "Sensitive", "due": 22 },
+    { "no": "D4.2", "name": "Digital tools to support manufacturing and R-cycles circularity along product lifecycles", "wp": 4, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 29 },
+    { "no": "D4.3", "name": "CE-DSS for manufacturing value chains", "wp": 4, "leader": "CORE SME", "type": "Other", "level": "Sensitive", "due": 32 },
+    { "no": "D5.1", "name": "Co-evolution methodology of digital tools, operators’ skills and user interfaces", "wp": 5, "leader": "UNIMORE", "type": "Other", "level": "Public", "due": 22 },
+    { "no": "D5.2", "name": "Proactive HMIs, UX interfaces, training, upskilling & reskilling tools", "wp": 5, "leader": "PACE", "type": "Report", "level": "Sensitive", "due": 32 },
+    { "no": "D6.1", "name": "DaCapo Didactic Factories for manufacturing circularity", "wp": 6, "leader": "POLIMI", "type": "Other", "level": "Public", "due": 36 },
+    { "no": "D6.2", "name": "Production environment demonstration of DaCapo solutions", "wp": 6, "leader": "GKN", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D6.3", "name": "DaCapo technologies replicability and assessment report.", "wp": 6, "leader": "SUPSI", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D7.1", "name": "Plan for Dissemination, Exploitation and Communication of project results", "wp": 7, "leader": "CORE SME", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D7.2", "name": "Data Management Plan.", "wp": 7, "leader": "VTT", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D7.3", "name": "M24. Plan for Dissemination, Exploitation and Communication of project results", "wp": 7, "leader": "CORE SME", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D7.4", "name": "Training and digital upskilling plan", "wp": 7, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D7.5", "name": "Plan for Dissemination, Exploitation and Communication of project results.", "wp": 7, "leader": "CORE SME", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D7.6", "name": "M42. Training and digital upskilling plan", "wp": 7, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D7.7", "name": "Standardisation and data economy guidelines and recommendations.", "wp": 7, "leader": "IDSA", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D8.1", "name": "Quality Assurance Plan", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 4 },
+    { "no": "D8.2", "name": "M6 Project Technical Progress Report", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D8.3", "name": "Periodic Risk Monitoring", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D8.4", "name": "M12 Project Technical Progress Report", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D8.5", "name": "Ethics Monitoring", "wp": 8, "leader": "UNIMORE", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D8.6", "name": "M24 Project Technical Progress Report", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D8.7", "name": "Periodic Risk Monitoring,", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D8.8", "name": "M30. Ethics Monitoring", "wp": 8, "leader": "UNIMORE", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D8.9", "name": "M36 Project Technical Progress Report", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D8.10", "name": "M42.Periodic Risk Monitoring", "wp": 8, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D8.11", "name": "M42.Ethics Monitoring", "wp": 8, "leader": "UNIMORE", "type": "Report", "level": "Sensitive", "due": 42 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "DaCapo requirements established", "wp": "WP3, WP5, WP4, WP1, WP2", "leader": "AIMEN", "due": 7 },
+    { "no": 2, "name": "R-cycle strategies for extending product lifecycles", "wp": "WP1", "leader": "TNO", "due": 9 },
+    { "no": 3, "name": "Alpha version of the digital infrastructure and assets available", "wp": "WP3", "leader": "ENG", "due": 15 },
+    { "no": 4, "name": "Alpha version of the digital tools to support manufacturing value chains", "wp": "WP4", "leader": "LMS", "due": 22 },
+    { "no": 5, "name": "Alpha version of HMIs and UX interfaces", "wp": "WP5", "leader": "UNIMORE", "due": 25 },
+    { "no": 6, "name": "Beta version of DaCapo digital framework ready for industrial demonstration", "wp": "WP3, WP5, WP4", "leader": "PACE", "due": 32 },
+    { "no": 7, "name": "Didactic Factories deployment completed", "wp": "WP6, WP7", "leader": "POLIMI", "due": 36 }
+  ]
+}

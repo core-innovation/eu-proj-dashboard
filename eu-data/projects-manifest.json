@@ -1,0 +1,22 @@
+{
+  "projects": [
+    "alchemy",
+    "ambiance",
+    "cardimed",
+    "dacapo",
+    "dexplore",
+    "elexia",
+    "glas-a-fuels",
+    "inperso",
+    "maestro",
+    "mastermine",
+    "modular",
+    "reuman",
+    "terravision",
+    "trineflex"
+  ],
+  "lastUpdated": "2025-06-27",
+  "description": "Auto-generated manifest file listing all available EU project data files",
+  "generatedBy": "scripts/update-manifest.js",
+  "totalProjects": 14
+}

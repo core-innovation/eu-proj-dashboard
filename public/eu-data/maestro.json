@@ -1,0 +1,136 @@
+{
+  "projectInfo": {
+    "title": "Industrial Manufacturing As a sErvice STRategies and models for flexible, resilient, and reconfigurable value networks through Trusted and Transparent Operations.",
+    "acronym": "M4ESTRO",
+    "grantNumber": "101138506",
+    "grantType": "HORIZON Research and Innovation Actions",
+    "maxAmount": "€5,998,540.00",
+    "startDate": "First day of the month following the entry into force date",
+    "endDate": "Starting date + 42 months",
+    "duration": "42 Months",
+    "coordinator": {
+      "name": "CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA (CEFRIEL)",
+      "location": "Milano, Italy"
+    },
+    "summary": "Manufacturing industry faces the challenges of driving competitiveness, resilience, sustainability and circularity in the context of a Volatile, Uncertain, Complex and Ambiguous environment. A VUCA world calls for new capabilities on the manufacturing systems demanding HUMANufacturing systemsto evolve from industrial automation towardsindustrial autonomy. MaaS technologiesstill lack a solid foundation for more active resilience mechanisms that can respond with increased agility to more volatile and uncertainty scenarios. M4ESTRO envisions to create an end-to-end trustworthy and transparent platform for Manufacturing as a Service offering active and predictive resilience and timely preparedness to disruptive events. M4ESTRO will foster an interactive, collaborative, and dynamic ecosystem where these stakeholders will operate in a hyper-distributed way to manufacture products by providing and receiving services in a secure and trusted manner. It will offer response actions to foreseen risk based on the intrinsic network’s flexibility while offer preparedness to unforeseen risks based on the documented resilience to switch action plans To do so, M4ESTRO will focus on four (4) pillars, offering HW and SW components: Pillar 1: Resilient, transparent and flexible manufacturing processes in value chains. Pillar 2: Resilient equipment, AI and trusted data for adaptive manufacturing. Pillar 3: Resilient Simulations to the Industrial Metaverse for responsive manufacturing. Pillar 4: Human centred Manufacturing Resilience and Sustainability. The impact of M4ESTRO for the European Manufacturing industry, but also the society itself, can be summarised in the following (with a horizon of 4 years after project ends): (i) Process ramp-up time (>26%); (ii) OEE (>14%); (iii) Yield & CpK (>11% & >24%); (iv) Product cost reduction (>9%); (v) Cost per piece (>38%); (vi) Energy consumption (>26%); (vii) about 305 new jobs created and (viii) over 42.89 MEUR ROI for the consortium.",
+    "participantsIntro": "A diverse consortium of 17 partners from 7 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+        { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the M4ESTRO project." },
+        { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+        { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+        { "period": "Project End", "month": 42, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "CEFRIEL", "legalName": "CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA", "country": "Italy", "countryCode": "IT", "lat": 45.4642, "lon": 9.1900 },
+    { "no": 2, "role": "Beneficiary", "shortName": "F-IOSB", "legalName": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV", "country": "Germany", "countryCode": "DE", "lat": 48.1351, "lon": 11.5820 },
+    { "no": 3, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 4, "role": "Beneficiary", "shortName": "AIMEN", "legalName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE", "country": "Spain", "countryCode": "ES", "lat": 42.1384, "lon": -8.6201 },
+    { "no": 5, "role": "Beneficiary", "shortName": "INTRA", "legalName": "NETCOMPANY-INTRASOFT SA", "country": "Luxembourg", "countryCode": "LU", "lat": 49.6116, "lon": 6.1319 },
+    { "no": 6, "role": "Beneficiary", "shortName": "INNO", "legalName": "ASOCIACION DE EMPRESAS TECNOLOGICAS INNOVALIA", "country": "Spain", "countryCode": "ES", "lat": 43.2630, "lon": -2.9350 },
+    { "no": 7, "role": "Beneficiary", "shortName": "ATLA", "legalName": "ATLANTIS ENGINEERING AE", "country": "Greece", "countryCode": "EL", "lat": 40.6391, "lon": 22.9444 },
+    { "no": 8, "role": "Beneficiary", "shortName": "UNP", "legalName": "UNPARALLEL INNOVATION LDA", "country": "Portugal", "countryCode": "PT", "lat": 37.1393, "lon": -8.5367 },
+    { "no": 9, "role": "Beneficiary", "shortName": "TTS", "legalName": "TTS TECHNOLOGY TRANSFER SYSTEMS SRL", "country": "Italy", "countryCode": "IT", "lat": 45.8546, "lon": 9.3892 },
+    { "no": 10, "role": "Beneficiary", "shortName": "HOLO", "legalName": "HOLONIX SRL", "country": "Italy", "countryCode": "IT", "lat": 45.6324, "lon": 9.1554 },
+    { "no": 11, "role": "Beneficiary", "shortName": "HELVIA", "legalName": "HELVIA TECHNOLOGIES IKE", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 12, "role": "Beneficiary", "shortName": "VIS", "legalName": "VISUAL COMPONENTS OY", "country": "Finland", "countryCode": "FI", "lat": 60.2055, "lon": 24.6559 },
+    { "no": 13, "role": "Beneficiary", "shortName": "MGEP", "legalName": "MONDRAGON GOI ESKOLA POLITEKNIKOA JOSE MARIA ARIZMENDIARRIETA S COOP", "country": "Spain", "countryCode": "ES", "lat": 43.0645, "lon": -2.4896 },
+    { "no": 14, "role": "Beneficiary", "shortName": "TRI", "legalName": "TRIMEK SA", "country": "Spain", "countryCode": "ES", "lat": 42.9737, "lon": -2.9189 },
+    { "no": 15, "role": "Beneficiary", "shortName": "CARACOL", "legalName": "CARACOL S.R.L.", "country": "Italy", "countryCode": "IT", "lat": 45.7176, "lon": 9.0435 },
+    { "no": 16, "role": "Beneficiary", "shortName": "IMECH", "legalName": "CONSORZIO INTELLIMECH", "country": "Italy", "countryCode": "IT", "lat": 45.6983, "lon": 9.6775 },
+    { "no": 17, "role": "Associated Partner", "shortName": "SSF", "legalName": "SWITZERLAND INNOVATION PARK BIEL/BIENNE AG", "country": "Switzerland", "countryCode": "CH", "lat": 47.1350, "lon": 7.2472 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Resilient, transparent and flexible manufacturing processes in value chains", "leader": "ATLA", "start": 1, "end": 24, "tasks": [
+        { "id": "T1.1", "title": "Sensing and Predicting Indicators of external disruptions in Supply Chains", "leader": "INTRA" },
+        { "id": "T1.2", "title": "Resilient chains from reconfiguration models swiftly adapted on logistics and stock level status", "leader": "CEFRIEL" },
+        { "id": "T1.3", "title": "Internal availability, distributed capacity, capability, and resources registry", "leader": "ATLA" },
+        { "id": "T1.4", "title": "AI-optimised manufacturing networks and resilience predictor", "leader": "CORE" },
+        { "id": "T1.5", "title": "Scoreboard analyser of value chain factors for stakeholder Transparency", "leader": "CORE" },
+        { "id": "T1.6", "title": "Dynamic value chain execution engine and resources allocation", "leader": "ATLA" }
+    ]},
+    { "no": 2, "title": "Resilient equipment, AI and trusted data for adaptive manufacturing", "leader": "INTRA", "start": 5, "end": 32, "tasks": [
+        { "id": "T2.1", "title": "RAMI4.0 Industrial strategies against unexpected disruptions", "leader": "CORE" },
+        { "id": "T2.2", "title": "M4ESTRO platform & trusted real-time semantic data infrastructures", "leader": "HOLO" },
+        { "id": "T2.3", "title": "Distributed computing continuum in federated cloud (DPP, Digital Fabric, Digital Thread)", "leader": "INNO" },
+        { "id": "T2.4", "title": "Dynamic Service Level Agreements and Contract processes for trusted manufacturing services", "leader": "INTRA" },
+        { "id": "T2.5", "title": "Distributed trust and collective Intelligence from uncertain, incomplete and extreme sensitive data", "leader": "INTRA" }
+    ]},
+    { "no": 3, "title": "Resilient Simulations to the Industrial Metaverse for responsive manufacturing", "leader": "F-IOSB", "start": 7, "end": 33, "tasks": [
+        { "id": "T3.1", "title": "Capability models verification and conversion into digital twins based on AAS", "leader": "AIMEN" },
+        { "id": "T3.2", "title": "Hybrid Digital Twins for MaaS demand and supply mediation", "leader": "VIS" },
+        { "id": "T3.3", "title": "Enhancement of resilient simulators with real-time OT/IT data", "leader": "TTS" },
+        { "id": "T3.4", "title": "Multi-actor simulations for resilient, automated and sustainable manufacturing", "leader": "UNP" },
+        { "id": "T3.5", "title": "Dynamic factory networks with self-evolving semantics", "leader": "F-IOSB" }
+    ]},
+    { "no": 4, "title": "Human centered Manufacturing Resilience and Sustainability", "leader": "CEFRIEL", "start": 7, "end": 36, "tasks": [
+        { "id": "T4.1", "title": "Multi-level, Trusted, Human-Centric and Explainable-DSS", "leader": "ATLA" },
+        { "id": "T4.2", "title": "ESGs indexes from selected manufacturing services", "leader": "CEFRIEL" },
+        { "id": "T4.3", "title": "Natural Language Processing supported chatbot for explainability", "leader": "HELVIA" },
+        { "id": "T4.4", "title": "Training nuggets for optimised platform utilisation and for meaningful reactions to disruptions", "leader": "CEFRIEL" },
+        { "id": "T4.5", "title": "Business development roadmap for green value networking of MaaS", "leader": "INNO" }
+    ]},
+    { "no": 5, "title": "Testing and Validation in demo cases", "leader": "TRI", "start": 13, "end": 42, "tasks": [
+        { "id": "T5.1", "title": "Pilot Sites Preparation", "leader": "INNO" },
+        { "id": "T5.2", "title": "Integration and validation of technologies", "leader": "TRIMEK" },
+        { "id": "T5.3", "title": "Use cases Systems Demonstration and Pilot Operation", "leader": "SSF" },
+        { "id": "T5.4", "title": "Evaluation, transferability, upscaling of M4ESTRO", "leader": "CEFRIEL" }
+    ]},
+    { "no": 6, "title": "Communication, Dissemination, Standardisation, Exploitation and Training", "leader": "CORE", "start": 1, "end": 42, "tasks": [
+        { "id": "T6.1", "title": "Dissemination & Communication activities", "leader": "CORE" },
+        { "id": "T6.2", "title": "Standards, Clusters and Associations", "leader": "INNO" },
+        { "id": "T6.3", "title": "IPR Management and Exploitation Planning", "leader": "CORE" },
+        { "id": "T6.4", "title": "Sustainable Business Models for Resilient and Reconfigurable MaaS", "leader": "CORE" },
+        { "id": "T6.5", "title": "Action Plan for Advancing Skills and Manufacturing Community Training Activities", "leader": "CEFRIEL" }
+    ]},
+    { "no": 7, "title": "Project Management", "leader": "CEFRIEL", "start": 1, "end": 42, "tasks": [
+        { "id": "T7.1", "title": "Administrative and Financial Management", "leader": "CEFRIEL" },
+        { "id": "T7.2", "title": "Quality, Risk and Data Management", "leader": "CEFRIEL" },
+        { "id": "T7.3", "title": "Ethics management", "leader": "CEFRIEL" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Reconfiguration models for resilient manufacturing", "wp": 1, "leader": "INTRA", "type": "Report", "level": "Sensitive", "due": 20 },
+    { "no": "D1.2", "name": "AI optimised manufacturing predictor with dynamic Scoreboards", "wp": 1, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D1.3", "name": "Value chain execution engine", "wp": 1, "leader": "ATLA", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D2.1", "name": "Industrial strategies for resilient manufacturing", "wp": 2, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D2.2", "name": "Middleware & trusted real-time data infrastructure", "wp": 2, "leader": "HOLO", "type": "Report", "level": "Sensitive", "due": 22 },
+    { "no": "D2.3", "name": "M4ESTRO distributed data continuum", "wp": 2, "leader": "INNO", "type": "Report", "level": "Sensitive", "due": 22 },
+    { "no": "D2.4", "name": "Dynamic SLA’s & smart contracts", "wp": 2, "leader": "INTRA", "type": "Demonstrator", "level": "Sensitive", "due": 22 },
+    { "no": "D2.5", "name": "Decentralised learning techniques for supply chain resilience", "wp": 2, "leader": "INTRA", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D3.1", "name": "AAS network automation architecture", "wp": 3, "leader": "AIMEN", "type": "Demonstrator", "level": "Sensitive", "due": 30 },
+    { "no": "D3.2", "name": "M4ESTRO assets in the Industrial Metaverse", "wp": 3, "leader": "VIS", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D3.3", "name": "Multi-actor simulations for resilient manufacturng", "wp": 3, "leader": "UNP", "type": "Demonstrator", "level": "Sensitive", "due": 30 },
+    { "no": "D3.4", "name": "Self-evolving semantic knowledge for SFW", "wp": 3, "leader": "F-IOSB", "type": "Report", "level": "Sensitive", "due": 33 },
+    { "no": "D4.1", "name": "Human-centric DSS", "wp": 4, "leader": "ATLA", "type": "Report", "level": "Sensitive", "due": 32 },
+    { "no": "D4.2", "name": "NLP chatbot for explainability & training nug-gets", "wp": 4, "leader": "HELVIA", "type": "Report", "level": "Sensitive", "due": 35 },
+    { "no": "D4.3", "name": "M4ESTRO Business development roadmap", "wp": 4, "leader": "INNO", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D5.1", "name": "M4ESTRO pilots and KPIs evaluation report", "wp": 5, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D6.1", "name": "PEDR - M6", "wp": 6, "leader": "CORE", "type": "Report", "level": "Public", "due": 6 },
+    { "no": "D6.2", "name": "PEDR - M18", "wp": 6, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D6.3", "name": "PEDR - M42", "wp": 6, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D6.4", "name": "Standardisation and Clustering activities - M18", "wp": 6, "leader": "INNO", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D6.5", "name": "Standardisation and Clustering activities - M42", "wp": 6, "leader": "INNO", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D6.6", "name": "Action Plan for Advancing Skills", "wp": 6, "leader": "CEFRIEL", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D7.1", "name": "Risk and Quality Management Plan", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 3 },
+    { "no": "D7.2", "name": "Data Management Plan - M6", "wp": 7, "leader": "CEFRIEL", "type": "Other", "level": "Sensitive", "due": 6 },
+    { "no": "D7.3", "name": "Data Management Plan - M18", "wp": 7, "leader": "CEFRIEL", "type": "Other", "level": "Sensitive", "due": 18 },
+    { "no": "D7.4", "name": "Data Management Plan - M42", "wp": 7, "leader": "CEFRIEL", "type": "Other", "level": "Sensitive", "due": 42 },
+    { "no": "D7.5", "name": "Project Progress Report - M18", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D7.6", "name": "Project Progress Report - M42", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D7.7", "name": "Ethics Report - M6", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D7.8", "name": "Ethics Report - M18", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D7.9", "name": "Ethics Report - M42", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D7.10", "name": "Project Progress Report - M9", "wp": 7, "leader": "CEFRIEL", "type": "Report", "level": "Sensitive", "due": 9 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Framework for resilient and flexi-ble manufacturing value chain available", "wp": 1, "leader": "ATLA", "due": 6 },
+    { "no": 2, "name": "Resilience predictor tools(Score-board, Value chain engine)", "wp": 1, "leader": "ATLA", "due": 12 },
+    { "no": 3, "name": "Industrial strategies are employed", "wp": 2, "leader": "INTRA", "due": 28 },
+    { "no": 4, "name": "Middleware and data continuum are implemented", "wp": 2, "leader": "INTRA", "due": 15 },
+    { "no": 5, "name": "Hybrid twins and the industrial metaverse simulate reality", "wp": 3, "leader": "F-IOSB", "due": 19 },
+    { "no": 6, "name": "AAS of manufacturing processes with Meta-Interfaces", "wp": 3, "leader": "F-IOSB", "due": 25 },
+    { "no": 7, "name": "Human centric tools for reconfiguration, training and decision support", "wp": 4, "leader": "CEFRIEL", "due": 30 },
+    { "no": 8, "name": "M4ESTRO is integrated and deployed to pilots", "wp": 5, "leader": "TRI", "due": 36 }
+  ]
+}

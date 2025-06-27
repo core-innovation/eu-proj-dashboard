@@ -1,0 +1,176 @@
+{
+    "projectInfo": {
+      "title": "Streamlining the optimisation of Sustainable Thermal Energy systems and Prototype technologies in process industries",
+      "acronym": "StreamSTEP",
+      "grantNumber": "101178351",
+      "grantType": "HORIZON Innovation Actions",
+      "maxAmount": "€14,999,977.00",
+      "startDate": "1 September 2024",
+      "endDate": "31 August 2028",
+      "duration": "48 Months",
+      "coordinator": {
+        "name": "SINTEF AS",
+        "location": "Trondheim, Norway"
+      },
+      "summary": "European process industries face significant challenges in a changing geopolitical landscape, under the threat of climate change and against fierce international competition. In this context, boosting the resilience and competitiveness of process industries, while taking surefooted steps towards climate neutrality is of existential importance. StreamSTEP is the vision of 31 organisations across EU, Switzerland, Norway and UK, aspiring to trigger significant improvements of how heating energy is managed within industrial processes. The project will address processes that generate waste heat across all temperature grades, from 135oC to over 1400oC, deploying five innovative heat exchanger prototypes for challenging applications and achieving flexible operation across multiple heat sinks. Heat upgrade will be managed through high temperature heat pumps, achieving outlet temperatures at 150oC and at 215oC, with improved performance through ejector technology and the capacity to operate dynamically across a range of required temperatures. Enablers of these innovations are advanced manufacturing techniques, achieving superior material performance through novel material alloys. The system will be demonstrated across five sectors: non-ferrous metals, ceramics, minerals, plastics and refining. The demonstrators will be supported by impact boosting resources, de-risking the investment and accelerating commercialisation. A holistic process digital twinning pipeline will be integral to these advancements, as it will provide the infrastructure to deploy powerful optimisation agents, addressing energy balance, intermediary storage, GHG avoidance and data-driven LCA. The effects of the StreamSTEP project will be significant, as the recovery and efficient reutilisation of the majority of waste heat (50%-over 90%) will be achieved, with systems boasting a payback below 3 years, with the added effects of increasing productivity in selected processes, as well as energy flexibility.",
+      "participantsIntro": "A diverse consortium of 29 partners from 9 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+      "timelineEvents": [
+        { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the StreamSTEP project." },
+        { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+        { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+        { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+      ]
+    },
+    "participants": [
+        { "no": 1, "role": "Coordinator", "shortName": "SINA", "legalName": "SINTEF AS", "country": "Norway", "countryCode": "NO", "lat": 63.4305, "lon": 10.3951 },
+        { "no": 2, "role": "Beneficiary", "shortName": "SINE", "legalName": "SINTEF ENERGI AS", "country": "Norway", "countryCode": "NO", "lat": 63.4305, "lon": 10.3951 },
+        { "no": 3, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+        { "no": 4, "role": "Beneficiary", "shortName": "AIMEN", "legalName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE", "country": "Spain", "countryCode": "ES", "lat": 42.1648, "lon": -8.6256 },
+        { "no": 5, "role": "Beneficiary", "shortName": "BUL", "legalName": "BRUNEL UNIVERSITY LONDON", "country": "United Kingdom", "countryCode": "GB", "lat": 51.5303, "lon": -0.4722 },
+        { "no": 6, "role": "Beneficiary", "shortName": "ITA", "legalName": "INSTITUTO TECNOLOGICO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+        { "no": 7, "role": "Beneficiary", "shortName": "ICL", "legalName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE", "country": "United Kingdom", "countryCode": "GB", "lat": 51.4988, "lon": -0.1749 },
+        { "no": 8, "role": "Beneficiary", "shortName": "ICCS", "legalName": "EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+        { "no": 9, "role": "Beneficiary", "shortName": "CIRCE", "legalName": "FUNDACION CIRCE CENTRO DE INVESTIGACION DE RECURSOS Y CONSUMOS ENERGETICOS", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+        { "no": 10, "role": "Beneficiary", "shortName": "VMU", "legalName": "VYTAUTO DIDZIOJO UNIVERSITETAS", "country": "Lithuania", "countryCode": "LT", "lat": 54.8985, "lon": 23.9036 },
+        { "no": 11, "role": "Beneficiary", "shortName": "TUC", "legalName": "POLYTECHNEIO KRITIS", "country": "Greece", "countryCode": "EL", "lat": 35.5138, "lon": 24.0180 },
+        { "no": 12, "role": "Beneficiary", "shortName": "TAU", "legalName": "TAMPEREEN KORKEAKOULUSAATIO SR", "country": "Finland", "countryCode": "FI", "lat": 61.4991, "lon": 23.7871 },
+        { "no": 13, "role": "Beneficiary", "shortName": "USEV", "legalName": "UNIVERSIDAD DE SEVILLA", "country": "Spain", "countryCode": "ES", "lat": 37.3891, "lon": -5.9845 },
+        { "no": 14, "role": "Beneficiary", "shortName": "AICE", "legalName": "ASOCIACION DE INVESTIGACION DE LASINDUSTRIAS CERAMICAS AICE", "country": "Spain", "countryCode": "ES", "lat": 39.9864, "lon": -0.0513 },
+        { "no": 15, "role": "Beneficiary", "shortName": "ALEA", "legalName": "ALEA SRL", "country": "Italy", "countryCode": "IT", "lat": 44.6478, "lon": 10.9254 },
+        { "no": 16, "role": "Beneficiary", "shortName": "MIWE", "legalName": "MY ENERGIA ONER SL", "country": "Spain", "countryCode": "ES", "lat": 38.0163, "lon": -1.1305 },
+        { "no": 17, "role": "Beneficiary", "shortName": "ECON", "legalName": "ECONOTHERM (UK) LIMITED", "country": "United Kingdom", "countryCode": "GB", "lat": 51.5039, "lon": -3.5818 },
+        { "no": 18, "role": "Beneficiary", "shortName": "RANK", "legalName": "EXPANDER TECH SL", "country": "Spain", "countryCode": "ES", "lat": 39.8601, "lon": -0.1983 },
+        { "no": 19, "role": "Beneficiary", "shortName": "TEKN", "legalName": "TEKNOPAR BILISIM SANAYI VE TICARET ANONIM SIRKETI", "country": "Türkiye", "countryCode": "TR", "lat": 39.9255, "lon": 32.8663 },
+        { "no": 20, "role": "Beneficiary", "shortName": "ENVI", "legalName": "ENVIVA IDIOTIKI KEFAIOUCHIKI ETAIREIA/ENVIVA IKE", "country": "Greece", "countryCode": "EL", "lat": 37.9100, "lon": 23.7346 },
+        { "no": 21, "role": "Beneficiary", "shortName": "INCO", "legalName": "INNOVACION Y CONSULTING TECNOLOGICO DE LEVANTE, S.L.", "country": "Spain", "countryCode": "ES", "lat": 39.5103, "lon": -0.3414 },
+        { "no": 22, "role": "Beneficiary", "shortName": "GFOS", "legalName": "FOS SPA", "country": "Italy", "countryCode": "IT", "lat": 45.4642, "lon": 9.1900 },
+        { "no": 23, "role": "Beneficiary", "shortName": "GEP", "legalName": "SIMVOULI IGIEINIS KAI ASFALIAS GENIKI EXOTERIKI YPIPIESIA PROSTASIAS KAI PROLIPSIS ANONIMOS ETAIRIA", "country": "Greece", "countryCode": "EL", "lat": 38.0435, "lon": 23.8184 },
+        { "no": 24, "role": "Beneficiary", "shortName": "HALCOR", "legalName": "ELVALHALCOR ELLINIKI VIOMIHANIA HALKOU KAI ALOUMINIOU ANONYMOS ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+        { "no": 25, "role": "Beneficiary", "shortName": "TCID", "legalName": "TORRECID SA", "country": "Spain", "countryCode": "ES", "lat": 40.0983, "lon": -0.1912 },
+        { "no": 26, "role": "Beneficiary", "shortName": "ELKEM", "legalName": "ELKEM SILICON PRODUCT DEVELOPMENT AS", "country": "Norway", "countryCode": "NO", "lat": 58.1462, "lon": 7.9953 },
+        { "no": 27, "role": "Beneficiary", "shortName": "ELBI", "legalName": "ELBI SPA", "country": "Italy", "countryCode": "IT", "lat": 45.4746, "lon": 11.8398 },
+        { "no": 28, "role": "Beneficiary", "shortName": "REPSOL", "legalName": "REPSOL SA", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+        { "no": 29, "role": "Beneficiary", "shortName": "FM", "legalName": "Future Materials AS", "country": "Norway", "countryCode": "NO", "lat": 58.3370, "lon": 8.5950 },
+        { "no": 30, "role": "Associated Partner", "shortName": "PROVAL", "legalName": "PROVAL SARL", "country": "Switzerland", "countryCode": "CH", "lat": 46.2044, "lon": 6.1432 }
+    ],
+    "workPackagesWithTasks": [
+      { "no": 1, "title": "Process analysis, characterisation and specifications", "leader": "GEP", "start": 1, "end": 12, "tasks": [
+        { "id": "T1.1", "title": "Consolidation of technological specifications", "leader": "SINA" },
+        { "id": "T1.2", "title": "Use case requirement and stream analysis", "leader": "BUL" },
+        { "id": "T1.3", "title": "Assessment methodology consolidation", "leader": "GEP" }
+      ]},
+      { "no": 2, "title": "Establishment of industrial digital infrastructure", "leader": "TEKN", "start": 1, "end": 24, "tasks": [
+        { "id": "T2.1", "title": "Data architecture design", "leader": "CORE" },
+        { "id": "T2.2", "title": "Data orchestration middleware integration", "leader": "CORE" },
+        { "id": "T2.3", "title": "Industrial sensor network design and integration", "leader": "TEKN" },
+        { "id": "T2.4", "title": "Thermal imaging technology integration", "leader": "TEKN" }
+      ]},
+      { "no": 3, "title": "Multi-simulation toolset integration", "leader": "ITA", "start": 6, "end": 36, "tasks": [
+        { "id": "T3.1", "title": "Process analysis and flowsheet modelling", "leader": "PROVAL" },
+        { "id": "T3.2", "title": "Global system model development and validation", "leader": "ITA" },
+        { "id": "T3.3", "title": "ROM generation integration in updated global system", "leader": "ITA" },
+        { "id": "T3.4", "title": "Virtual process optimisation and control strategies", "leader": "TAU" },
+        { "id": "T3.5", "title": "Virtual spatial optimisation model development", "leader": "TUC" },
+        { "id": "T3.6", "title": "Predictive maintenance function integration", "leader": "CORE" },
+        { "id": "T3.7", "title": "Process digital twin and HMI integration", "leader": "CORE" }
+      ]},
+      { "no": 4, "title": "StreamSTEP component design", "leader": "BUL", "start": 6, "end": 24, "tasks": [
+        { "id": "T4.1", "title": "Multiphase flow simulation", "leader": "ALEA" },
+        { "id": "T4.2", "title": "Cycle architecture design and selection of working fluid", "leader": "USEV" },
+        { "id": "T4.3", "title": "Compression system design", "leader": "BUL" },
+        { "id": "T4.4", "title": "Advanced heat exchanger design", "leader": "BUL" },
+        { "id": "T4.5", "title": "Balance of plant design and system integration", "leader": "RANK" },
+        { "id": "T4.6", "title": "Simulation and design of HTHP components", "leader": "USEV" },
+        { "id": "T4.7", "title": "Simulation and design of ejector -based HTHPs", "leader": "SINE" }
+      ]},
+      { "no": 5, "title": "Advanced industrial equipment prototyping and validation", "leader": "AIMEN", "start": 6, "end": 36, "tasks": [
+        { "id": "T5.1", "title": "Material development, selection and production", "leader": "ELKEM" },
+        { "id": "T5.2", "title": "Manufacturing process design", "leader": "AIMEN" },
+        { "id": "T5.3", "title": "Heat exchanger prototyping", "leader": "ECON" },
+        { "id": "T5.4", "title": "HP prototyping", "leader": "RANK" },
+        { "id": "T5.5", "title": "Manufacturing, validation and optimisation", "leader": "AIMEN" }
+      ]},
+      { "no": 6, "title": "Flexible and sustainable operation", "leader": "CORE", "start": 12, "end": 36, "tasks": [
+        { "id": "T6.1", "title": "Energy Planning and Management System integration", "leader": "CORE" },
+        { "id": "T6.2", "title": "Intermediate energy storage DSS", "leader": "ICCS" },
+        { "id": "T6.3", "title": "PPAs focused on sustainable heat", "leader": "MIWE" },
+        { "id": "T6.4", "title": "Dynamic LCA agent integration", "leader": "ICL" },
+        { "id": "T6.5", "title": "Sustainable operation monitoring", "leader": "ICL" }
+      ]},
+      { "no": 7, "title": "Operational demonstrations", "leader": "BUL", "start": 12, "end": 48, "tasks": [
+        { "id": "T7.1", "title": "Commissioning of operational demo sites", "leader": "BUL" },
+        { "id": "T7.2", "title": "DC #1 Copper sector", "leader": "HALCOR" },
+        { "id": "T7.3", "title": "DC #2 Ceramic sector", "leader": "TCID" },
+        { "id": "T7.4", "title": "DC #3 Silicon sector", "leader": "SINA" },
+        { "id": "T7.5", "title": "DC #4 Plastics sector", "leader": "ELBI" },
+        { "id": "T7.6", "title": "DC #5 Refining sector", "leader": "RANK" },
+        { "id": "T7.7", "title": "Demonstrations and evaluation of results", "leader": "BUL" }
+      ]},
+      { "no": 8, "title": "Impact assessment and maximisation", "leader": "GFOS", "start": 12, "end": 48, "tasks": [
+        { "id": "T8.1", "title": "Stakeholder engagement", "leader": "GFOS" },
+        { "id": "T8.2", "title": "Techno-economic assessment", "leader": "ENVI" },
+        { "id": "T8.3", "title": "Capacity building", "leader": "GFOS" },
+        { "id": "T8.4", "title": "Impact assessment and social value creation", "leader": "ICL" },
+        { "id": "T8.5", "title": "Impacts on policies, governance and standards", "leader": "VMU" },
+        { "id": "T8.6", "title": "Scalability and replication assessment", "leader": "CIRCE" }
+      ]},
+      { "no": 9, "title": "Dissemination, exploitation, and communication activities", "leader": "CORE", "start": 1, "end": 48, "tasks": [
+        { "id": "T9.1", "title": "Communication and dissemination activities", "leader": "CORE" },
+        { "id": "T9.2", "title": "Exploitation strategy and IPR management", "leader": "CORE" },
+        { "id": "T9.3", "title": "Business models and cases development", "leader": "INCO" },
+        { "id": "T9.4", "title": "Research community outreach", "leader": "CORE" }
+      ]},
+      { "no": 10, "title": "Project Management", "leader": "SINA", "start": 1, "end": 48, "tasks": [
+        { "id": "T10.1", "title": "Administrative, scientific and financial project management", "leader": "SINA" },
+        { "id": "T10.2", "title": "Ethics management", "leader": "SINA" }
+      ]}
+    ],
+    "deliverables": [
+      { "no": "D1.1", "name": "Project specifications report", "wp": 1, "leader": "GEP", "type": "Report", "level": "Public", "due": 12 },
+      { "no": "D2.1", "name": "StreamSTEP data platform", "wp": 2, "leader": "CORE", "type": "Other", "level": "Sensitive", "due": 18 },
+      { "no": "D2.2", "name": "Sensor configurations", "wp": 2, "leader": "TEKN", "type": "Other", "level": "Sensitive", "due": 24 },
+      { "no": "D3.1", "name": "Flowsheet models", "wp": 3, "leader": "PROVAL", "type": "Other", "level": "Sensitive", "due": 12 },
+      { "no": "D3.2", "name": "Global System Model", "wp": 3, "leader": "ITA", "type": "Other", "level": "Sensitive", "due": 28 },
+      { "no": "D3.3", "name": "Optimised GSM", "wp": 3, "leader": "TAU", "type": "Other", "level": "Sensitive", "due": 36 },
+      { "no": "D3.4", "name": "VSO model", "wp": 3, "leader": "TUC", "type": "Other", "level": "Sensitive", "due": 36 },
+      { "no": "D3.5", "name": "PdM optimisation agent", "wp": 3, "leader": "CORE", "type": "Other", "level": "Sensitive", "due": 36 },
+      { "no": "D4.1", "name": "HX design", "wp": 4, "leader": "BUL", "type": "Other", "level": "Sensitive", "due": 20 },
+      { "no": "D4.2", "name": "HP models and designs", "wp": 4, "leader": "SINE", "type": "Other", "level": "Sensitive", "due": 18 },
+      { "no": "D4.3", "name": "Compressor design", "wp": 4, "leader": "BUL", "type": "Other", "level": "Sensitive", "due": 20 },
+      { "no": "D5.1", "name": "HP/HX advanced materials", "wp": 5, "leader": "ELKEM", "type": "DEM - Demonstrator, pilot, prototype", "level": "Sensitive", "due": 18 },
+      { "no": "D5.2", "name": "HX prototypes", "wp": 5, "leader": "ECON", "type": "DEM - Demonstrator, pilot, prototype", "level": "Sensitive", "due": 28 },
+      { "no": "D5.3", "name": "HP prototypes", "wp": 5, "leader": "RANK", "type": "DEM - Demonstrator, pilot, prototype", "level": "Sensitive", "due": 28 },
+      { "no": "D5.4", "name": "Manufacturing process designs", "wp": 5, "leader": "AIMEN", "type": "Report", "level": "Sensitive", "due": 36 },
+      { "no": "D6.1", "name": "RES-IT system", "wp": 6, "leader": "CORE", "type": "Other", "level": "Sensitive", "due": 28 },
+      { "no": "D6.2", "name": "LCA & GHG agent", "wp": 6, "leader": "ICL", "type": "Other", "level": "Sensitive", "due": 36 },
+      { "no": "D6.3", "name": "Thermal PPA agent", "wp": 6, "leader": "MIWE", "type": "Other", "level": "Sensitive", "due": 36 },
+      { "no": "D7.1", "name": "DC#1 Copper Demonstrator", "wp": 7, "leader": "HALCOR", "type": "DEM - Demonstrator, pilot, prototype", "level": "Public", "due": 48 },
+      { "no": "D7.2", "name": "DC#2 Ceramic Demonstrator", "wp": 7, "leader": "TCID", "type": "DEM - Demonstrator, pilot, prototype", "level": "Public", "due": 46 },
+      { "no": "D7.3", "name": "DC#3 Silicon Demonstrator", "wp": 7, "leader": "SINA", "type": "DEM - Demonstrator, pilot, prototype", "level": "Public", "due": 46 },
+      { "no": "D7.4", "name": "DC#4 Plastics Demonstrator", "wp": 7, "leader": "ELBI", "type": "DEM - Demonstrator, pilot, prototype", "level": "Public", "due": 46 },
+      { "no": "D7.5", "name": "DC#5 Refining Demonstrator", "wp": 7, "leader": "RANK", "type": "DEM - Demonstrator, pilot, prototype", "level": "Public", "due": 46 },
+      { "no": "D7.6", "name": "Demonstration report", "wp": 7, "leader": "BUL", "type": "Report", "level": "Public", "due": 48 },
+      { "no": "D8.1", "name": "Engagement report", "wp": 8, "leader": "GFOS", "type": "Report", "level": "Public", "due": 48 },
+      { "no": "D8.2", "name": "Impact assessment report", "wp": 8, "leader": "ICL", "type": "Report", "level": "Public", "due": 48 },
+      { "no": "D8.3", "name": "Capacity building resources", "wp": 8, "leader": "GFOS", "type": "Other", "level": "Public", "due": 48 },
+      { "no": "D8.4", "name": "Scale-up study", "wp": 8, "leader": "CIRCE", "type": "Report", "level": "Public", "due": 48 },
+      { "no": "D9.1", "name": "#1 PEDR", "wp": 9, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 6 },
+      { "no": "D9.2", "name": "#2 PEDR", "wp": 9, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 18 },
+      { "no": "D9.3", "name": "#3 PEDR", "wp": 9, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 36 },
+      { "no": "D9.4", "name": "#4 PEDR", "wp": 9, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 48 },
+      { "no": "D10.1", "name": "Report on Kick-off meeting", "wp": 10, "leader": "SINA", "type": "Report", "level": "Sensitive", "due": 3 }
+    ],
+    "milestones": [
+      { "no": 1, "name": "Data acquisition operational", "wp": 2, "leader": "TEKN", "due": 18 },
+      { "no": 2, "name": "Start of data-driven model integration", "wp": 3, "leader": "ITA", "due": 18 },
+      { "no": 3, "name": "Preliminary HP design delivery", "wp": 4, "leader": "BUL", "due": 18 },
+      { "no": 4, "name": "Early HP/HX prototypes", "wp": 5, "leader": "AIMEN", "due": 18 },
+      { "no": 5, "name": "RES-IO integrated version operational", "wp": 6, "leader": "CORE", "due": 24 },
+      { "no": 6, "name": "Start of integration in DCs", "wp": 7, "leader": "BUL", "due": 18 },
+      { "no": 7, "name": "Prototypes delivered and integrated", "wp": 7, "leader": "BUL", "due": 28 },
+      { "no": 8, "name": "Validation complete, start of demos", "wp": 7, "leader": "BUL", "due": 36 },
+      { "no": 9, "name": "First impact assessment report", "wp": 8, "leader": "GFOS", "due": 24 },
+      { "no": 10, "name": "Start of operational assessment", "wp": 8, "leader": "GFOS", "due": 36 },
+      { "no": 11, "name": "Advisory board defined", "wp": 9, "leader": "CORE", "due": 24 }
+    ]
+  }

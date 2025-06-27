@@ -1,0 +1,168 @@
+{
+    "projectInfo": {
+      "title": "Digitally-enhanced multi-level solution for smart human-centric remanufacturing",
+      "acronym": "rEUman",
+      "grantNumber": "101138930",
+      "grantType": "HORIZON-IA",
+      "maxAmount": "€6,998,007.38",
+      "startDate": "1 September 2023",
+      "endDate": "31 August 2027",
+      "duration": "48 Months",
+      "coordinator": {
+        "name": "POLITECNICO DI MILANO",
+        "location": "Milano, Italy"
+      },
+      "summary": "The European remanufacturing industry is crucial for the sustainable transition of Europe, thanks to the savings in energy, materials and functionality that is guaranteed by the process. In fact, the socio-economic benefits of remanufacturing, in terms of number of workers, skills development and technological uptake, are as impactful as the environmental benefits. However, to future-proof the European remanufacturing industry and increase its competitiveness, the obstacles facing the human worker need to be addressed as a matter of strategic urgency. Currently, established remanufacturing sectors recognized the barriers in the limited automation, poor human inclusion, lack of traceability and restricted use of digitalization. Hence, rEUman aims at developing and demonstrating a novel paradigm of human-centric remanufacturing approach for the European industry; acting at factory and value-chain levels. At factory level, the main industrial need is to guarantee high regeneration rates of the remanufactured products and to achieve traceability of the remanufacturing process-chain. While at value-chain level, the main industrial need is to guarantee stability in terms of volume and quality of the post-use products. rEUman shall demonstrate the new remanufacturing paradigm, which is intrinsically human-safe, target-driven in regeneration and certification, flexible while facing variability in post-use parts, robust and replicable to new circular business cases. To that end, rEUman addresses the call topic by (i) developing cutting edge remanufacturing approaches (factory level) and integrating them into the value-chain, (ii) demonstrating functional retention in three sectors (Automotive, Home appliances and Optoelectronics), (iii) introducing traceability in remanufacturing by implementing the first remanufacturing-centred DPP, (iv) considering operation and economic viability by showcasing complete business cases coupled with designed training material.",
+      "participantsIntro": "A diverse consortium of 20 partners from 10 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+      "timelineEvents": [
+          { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the rEUman project." },
+          { "period": "RP 1", "month": 24, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+          { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+      ]
+    },
+    "participants": [
+        { "no": 1, "role": "Coordinator", "shortName": "POLIMI", "legalName": "POLITECNICO DI MILANO", "country": "Italy", "countryCode": "IT", "lat": 45.4642, "lon": 9.1900 },
+        { "no": 2, "role": "Beneficiary", "shortName": "KIT", "legalName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE", "country": "Germany", "countryCode": "DE", "lat": 49.0069, "lon": 8.4037 },
+        { "no": 3, "role": "Beneficiary", "shortName": "SZTAKI", "legalName": "SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZ", "country": "Hungary", "countryCode": "HU", "lat": 47.4979, "lon": 19.0402 },
+        { "no": 4, "role": "Beneficiary", "shortName": "BRI", "legalName": "UNIVERSITY OF BRISTOL", "country": "United Kingdom", "countryCode": "UK", "lat": 51.4545, "lon": -2.5879 },
+        { "no": 5, "role": "Beneficiary", "shortName": "FLEX", "legalName": "FLEXIS AG", "country": "Germany", "countryCode": "DE", "lat": 48.7758, "lon": 9.1829 },
+        { "no": 6, "role": "Beneficiary", "shortName": "SIM", "legalName": "SIMPLAN AG", "country": "Germany", "countryCode": "DE", "lat": 50.1328, "lon": 8.9169 },
+        { "no": 7, "role": "Beneficiary", "shortName": "BORG", "legalName": "Borg Automotive Sp. z o.o.", "country": "Poland", "countryCode": "PL", "lat": 51.5975, "lon": 18.9383 },
+        { "no": 8, "role": "Affiliated", "shortName": "CPI", "legalName": "Car Parts Industries Belgium", "country": "Belgium", "countryCode": "BE", "lat": 50.5977, "lon": 4.3282 },
+        { "no": 9, "role": "Beneficiary", "shortName": "HEPENIX", "legalName": "HEPENIX MUSZAKI SZOLGALTATO KFT", "country": "Hungary", "countryCode": "HU", "lat": 47.4045, "lon": 18.9566 },
+        { "no": 10, "role": "Beneficiary", "shortName": "KB", "legalName": "KNORR-BREMSE SYSTEME FUR NUTZFAHRZEUGE GMBH", "country": "Germany", "countryCode": "DE", "lat": 48.1351, "lon": 11.5820 },
+        { "no": 11, "role": "Beneficiary", "shortName": "ARC", "legalName": "ARCELIK A.S.", "country": "Turkiye", "countryCode": "TR", "lat": 41.0082, "lon": 28.9784 },
+        { "no": 12, "role": "Beneficiary", "shortName": "OS", "legalName": "Olimpia Splendid S.p.a.", "country": "Italy", "countryCode": "IT", "lat": 45.5898, "lon": 10.1873 },
+        { "no": 13, "role": "Beneficiary", "shortName": "SYXIS", "legalName": "SYXIS VSI", "country": "Lithuania", "countryCode": "LT", "lat": 54.8985, "lon": 23.9036 },
+        { "no": 14, "role": "Beneficiary", "shortName": "ES", "legalName": "ENGINSOFT SPA", "country": "Italy", "countryCode": "IT", "lat": 46.0667, "lon": 11.1217 },
+        { "no": 15, "role": "Beneficiary", "shortName": "APRA", "legalName": "AUTOMOTIVE PARTS REMANUFACTURERS ASSOCIATION EUROPE", "country": "Belgium", "countryCode": "BE", "lat": 50.8503, "lon": 4.3517 },
+        { "no": 16, "role": "Beneficiary", "shortName": "CONV", "legalName": "Convergent Photonics Italia S.r.l", "country": "Italy", "countryCode": "IT", "lat": 45.0703, "lon": 7.6869 },
+        { "no": 17, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "GR", "lat": 38.4596, "lon": 23.5931 },
+        { "no": 18, "role": "Beneficiary", "shortName": "G-Media", "legalName": "META CIRCULARITY, SVETOVANJE IN INOVACIJE DOO", "country": "Slovenia", "countryCode": "SI", "lat": 46.0569, "lon": 14.5058 },
+        { "no": 19, "role": "Beneficiary", "shortName": "CR&C", "legalName": "C.R.& C. S.R.L.", "country": "Italy", "countryCode": "IT", "lat": 45.6025, "lon": 9.3800 },
+        { "no": 20, "role": "Beneficiary", "shortName": "ZEISS", "legalName": "CARL ZEISS AG", "country": "Germany", "countryCode": "DE", "lat": 48.7845, "lon": 10.1030 }
+    ],
+    "workPackagesWithTasks": [
+        { "no": 1, "title": "Requirements of the rEUman human-centric, digitally-enhanced multi-level remanufacturing solution", "leader": "KIT", "start": 1, "end": 18, "tasks": [
+            { "id": "T1.1", "title": "In-depth analysis of the pilots and related KPIs", "leader": "BORG" },
+            { "id": "T1.2", "title": "Analysis of available data in the factory and value-chain stages", "leader": "SYXIS" },
+            { "id": "T1.3", "title": "Requirements and technical specifications for final demonstration", "leader": "KIT" },
+            { "id": "T1.4", "title": "Generalization to future industrial scenarios", "leader": "KIT" }
+        ]},
+        { "no": 2, "title": "Inspection, data gathering, and DPP-compliant data management platform integration for traceability", "leader": "SYXIS", "start": 7, "end": 24, "tasks": [
+            { "id": "T2.1", "title": "Pre-process product inspection for defect identification", "leader": "ZEISS" },
+            { "id": "T2.2", "title": "In-process component inspection for traceability and certification", "leader": "ZEISS" },
+            { "id": "T2.3", "title": "DPP data modeling for remanufacturing", "leader": "POLIMI" },
+            { "id": "T2.4", "title": "Data management platform design", "leader": "SYX" },
+            { "id": "T2.5", "title": "Data management platform implementation and validation", "leader": "SYX" }
+        ]},
+        { "no": 3, "title": "Factory-level: Human-centric remanufacturing processes", "leader": "POLIMI", "start": 7, "end": 24, "tasks": [
+            { "id": "T3.1", "title": "Human-centric smart disassembly", "leader": "POLIMI" },
+            { "id": "T3.2", "title": "Worker empowerment solutions for safety and ergonomy", "leader": "POLIMI" },
+            { "id": "T3.3", "title": "Collaborative disassembly solutions", "leader": "HEPENIX" },
+            { "id": "T3.4", "title": "Data-enhanced electronics regeneration", "leader": "CR&C" },
+            { "id": "T3.5", "title": "Low energy cold-spray for mechanical regeneration", "leader": "POLIMI" },
+            { "id": "T3.6", "title": "Dynamic function-oriented component selection and re-assembly", "leader": "POLIMI" },
+            { "id": "T3.7", "title": "AI for reman product certification and compliance", "leader": "CORE" }
+        ]},
+        { "no": 4, "title": "Factory level: Cyber-physical and digitally-enhanced remanufacturing factory", "leader": "SZTAKI", "start": 7, "end": 30, "tasks": [
+            { "id": "T4.1", "title": "Quality class-based, hybrid disassembly planning", "leader": "POLIMI" },
+            { "id": "T4.2", "title": "Product and process meta-modeling", "leader": "SZTAKI" },
+            { "id": "T4.3", "title": "CPS for function-oriented re-assembly", "leader": "KIT" },
+            { "id": "T4.4", "title": "Hybrid-automation remanufacturing factory modeling and simulation", "leader": "SZTAKI" },
+            { "id": "T4.5", "title": "Hybrid-automation remanufacturing factory (re)design", "leader": "ES" },
+            { "id": "T4.6", "title": "Mid- and short-term circular production planning and control", "leader": "FLEXIS" }
+        ]},
+        { "no": 5, "title": "Circular value-chain level: digital enabling solutions and business intelligence", "leader": "FLEXIS", "start": 13, "end": 30, "tasks": [
+            { "id": "T5.1", "title": "Reverse BOM and component failure prediction", "leader": "FLEXIS" },
+            { "id": "T5.2", "title": "AI for remote/decentralized post-use product remanufacturability assessment", "leader": "CORE" },
+            { "id": "T5.3", "title": "Core collection strategies and incentive schema design", "leader": "POLIMI" },
+            { "id": "T5.4", "title": "Circular value-stream mapping for network configuration and demand-supply forecasting", "leader": "SIMPLAN" },
+            { "id": "T5.5", "title": "Circular business dynamics modelling and remanufacturing strategy design", "leader": "BRI" }
+        ]},
+        { "no": 6, "title": "Pilot validation and testing", "leader": "BORG", "start": 13, "end": 48, "tasks": [
+            { "id": "T6.1", "title": "Validation in the automotive pilots", "leader": "BORG" },
+            { "id": "T6.2", "title": "Validation in the home appliance pilots", "leader": "OS" },
+            { "id": "T6.3", "title": "Validation in the optoelectronics pilot", "leader": "CONVERGENT" },
+            { "id": "T6.4", "title": "Pilot KPIs continuous monitoring", "leader": "POLIMI" },
+            { "id": "T6.5", "title": "LCA/LCC/LCSA assessment of the pilot business cases", "leader": "POLIMI" },
+            { "id": "T6.6", "title": "Continuous data management platform improvement and user-oriented workflow preparation", "leader": "SYXIS" }
+        ]},
+        { "no": 7, "title": "Dissemination, communication, exploitation and market uptake", "leader": "G_MEDIA", "start": 1, "end": 48, "tasks": [
+            { "id": "T7.1", "title": "Public Awareness, Communication and Dissemination strategy, activities, and monitoring", "leader": "APRA" },
+            { "id": "T7.2", "title": "Setting-up, activating and routing the exploitation processes and IPR management", "leader": "G_MEDIA" },
+            { "id": "T7.3", "title": "Market analysis and business models for the innovative remanufacturing business cases", "leader": "G_MEDIA" },
+            { "id": "T7.4", "title": "Support to standardisation and legislation", "leader": "APRA" },
+            { "id": "T7.5", "title": "Scouting of market uptake opportunities and financing", "leader": "G_MEDIA" }
+        ]},
+        { "no": 8, "title": "Training and skill development", "leader": "ES", "start": 7, "end": 48, "tasks": [
+            { "id": "T8.1", "title": "Formalization of remanufacturing skills and existing gaps", "leader": "POLIMI" },
+            { "id": "T8.2", "title": "Design of the rEUman training program", "leader": "ES" },
+            { "id": "T8.3", "title": "Preparation of training modules and support material", "leader": "ES" },
+            { "id": "T8.4", "title": "Design and launch of the APRA Academy for future remanufacturing skills and jobs", "leader": "APRA" },
+            { "id": "T8.5", "title": "Skills boosters: Summer school, RemanMasterClasses, ReEUmanuthon, RemanChallenge.", "leader": "ES" },
+            { "id": "T8.6", "title": "Gamification for next generation remanufacturers", "leader": "G-MEDIA" }
+        ]},
+        { "no": 9, "title": "Project management", "leader": "POLIMI", "start": 1, "end": 48, "tasks": [
+            { "id": "T9.1", "title": "Governance structure, communication flow and methods.", "leader": "POLIMI" },
+            { "id": "T9.2", "title": "Overall coordination.", "leader": "POLIMI" },
+            { "id": "T9.3", "title": "Risk management.", "leader": "KIT" }
+        ]}
+    ],
+    "deliverables": [
+        { "no": "D1.1", "name": "Analysis of pilots and related KPIs", "wp": 1, "leader": "BORG", "type": "Report", "level": "Sensitive", "due": 6 },
+        { "no": "D1.2", "name": "Available data in factory and value-chain stages", "wp": 1, "leader": "SYXIS", "type": "Report", "level": "Sensitive", "due": 6 },
+        { "no": "D1.3", "name": "Requirements of the rEUman solutions", "wp": 1, "leader": "KIT", "type": "Report", "level": "Sensitive", "due": 9 },
+        { "no": "D1.4", "name": "Generalisation to future industrial scenarios", "wp": 1, "leader": "KIT", "type": "Report", "level": "Public", "due": 18 },
+        { "no": "D2.1", "name": "Pre-process and in-process data gathering solutions", "wp": 2, "leader": "ZEISS", "type": "Report", "level": "Sensitive", "due": 18 },
+        { "no": "D2.2", "name": "DPP data models for remanufacturing", "wp": 2, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 18 },
+        { "no": "D2.3", "name": "Data management platform for remanufacturing", "wp": 2, "leader": "SYXIS", "type": "Report", "level": "Public", "due": 24 },
+        { "no": "D3.1", "name": "Monitoring, support, and empowerment of human operators in disassembly", "wp": 3, "leader": "POLIMI", "type": "Report", "level": "Sensitive", "due": 18 },
+        { "no": "D3.2", "name": "Data-enhanced regeneration technologies for reman and re-assembly", "wp": 3, "leader": "CR&C", "type": "Report", "level": "Sensitive", "due": 24 },
+        { "no": "D3.3", "name": "AI for reman product certification & compliance", "wp": 3, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 24 },
+        { "no": "D4.1", "name": "Quality class-based disassembly and function-oriented reassembly", "wp": 4, "leader": "POLIMI", "type": "Report", "level": "Sensitive", "due": 24 },
+        { "no": "D4.2", "name": "Simulation and (re)design of hybrid-automation remanufacturing factory", "wp": 4, "leader": "SZTAKI", "type": "Report", "level": "Sensitive", "due": 30 },
+        { "no": "D4.3", "name": "Circular production planning", "wp": 4, "leader": "FLEXIS", "type": "Report", "level": "Sensitive", "due": 30 },
+        { "no": "D5.1", "name": "Reverse BoM and AI-based decentralized assessment core conditions.", "wp": 5, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 24 },
+        { "no": "D5.2", "name": "Core collection strategies and incentive schema.", "wp": 5, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 30 },
+        { "no": "D5.3", "name": "Business modeling and reman strategy design", "wp": 5, "leader": "UBRISTOL", "type": "Report", "level": "Public", "due": 30 },
+        { "no": "D6.1", "name": "'Automotive pilot' validation", "wp": 6, "leader": "BORG", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D6.2", "name": "'Home appliance pilot' validation", "wp": 6, "leader": "OS", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D6.3", "name": "'Opto-electronics pilot' validation", "wp": 6, "leader": "CONV", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D6.4", "name": "Progress status of the pilots and KPIs assessment.", "wp": 6, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D6.5", "name": "Data Management Platform upgrades and final release.", "wp": 6, "leader": "SYXIS", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D7.1", "name": "Public Awareness, Communication and Dissemination Plan", "wp": 7, "leader": "APRA", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D7.2", "name": "Exploitation Roadmap Portfolio and IP Audit", "wp": 7, "leader": "G_MEDIA", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D7.3", "name": "Market, business, logistics analyses summary report", "wp": 7, "leader": "G_MEDIA", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D7.4", "name": "Standardization and legislation recommendations", "wp": 7, "leader": "APRA", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D7.5", "name": "Market Uptake and Financing Action Plan", "wp": 7, "leader": "G_MEDIA", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D8.1", "name": "Professional profiles", "wp": 8, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 18 },
+        { "no": "D8.2", "name": "rEUman Training program", "wp": 8, "leader": "ES", "type": "Report", "level": "Public", "due": 24 },
+        { "no": "D8.3", "name": "Validated training modules and tools", "wp": 8, "leader": "ES", "type": "Report", "level": "Public", "due": 36 },
+        { "no": "D8.4", "name": "Remanufacturing Academy", "wp": 8, "leader": "APRA", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D8.5", "name": "Skills boosters activity report", "wp": 8, "leader": "ES", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D8.6", "name": "rEUman Gamification approach", "wp": 8, "leader": "G-MEDIA", "type": "Report", "level": "Public", "due": 48 },
+        { "no": "D9.1", "name": "Quality Assurance Plan (QAP)", "wp": 9, "leader": "POLIMI", "type": "Report", "level": "Sensitive", "due": 2 },
+        { "no": "D9.2", "name": "Data Management Plan (DMP)", "wp": 9, "leader": "POLIMI", "type": "Report", "level": "Sensitive", "due": 48 },
+        { "no": "D9.3", "name": "Risk Management Plan (RMP)", "wp": 9, "leader": "KIT", "type": "Report", "level": "Sensitive", "due": 48 }
+    ],
+    "milestones": [
+        { "no": 1, "name": "Pilot requirements and target KPIs.", "wp": 1, "due": 6 },
+        { "no": 2, "name": "Specifications and use-scenarios for the rEUman solutions.", "wp": 1, "due": 9 },
+        { "no": 3, "name": "Pre-process and in-process data gathering solutions.", "wp": 2, "due": 18 },
+        { "no": 4, "name": "Data management platform for remanufacturing, MVP.", "wp": 2, "due": 24 },
+        { "no": 5, "name": "Human-centric factory level disassembly technologies", "wp": 3, "due": 18 },
+        { "no": 6, "name": "Human-centric factory level remanufacturing technologies", "wp": 3, "due": 24 },
+        { "no": 7, "name": "CPS for function-oriented re-assembly", "wp": 4, "due": 24 },
+        { "no": 8, "name": "Circular factory (re)design and planning tools", "wp": 4, "due": 30 },
+        { "no": 9, "name": "AI-based remote core characterization", "wp": 5, "due": 24 },
+        { "no": 10, "name": "Core collection strategies by incentives and rewards", "wp": 5, "due": 30 },
+        { "no": 11, "name": "Intermediate report of pilot validation and KPIs monitoring", "wp": 6, "due": 36 },
+        { "no": 12, "name": "Final report of pilot validation and KPIs monitoring", "wp": 6, "due": 48 },
+        { "no": 13, "name": "rEUman platform final release", "wp": 6, "due": 48 },
+        { "no": 14, "name": "Exploitation Roadmap Portfolio – final version", "wp": 7, "due": 48 },
+        { "no": 15, "name": "Standardization and legislation recommendations", "wp": 7, "due": 36 },
+        { "no": 16, "name": "Validated training modules and tools", "wp": 8, "due": 36 },
+        { "no": 17, "name": "Skill booster activities, APRA academy, and gamification", "wp": 8, "due": 48 }
+    ]
+  }

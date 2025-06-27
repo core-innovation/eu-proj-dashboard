@@ -1,0 +1,142 @@
+{
+  "projectInfo": {
+    "title": "European Mining in the Green and Digital Era",
+    "acronym": "MASTERMINE",
+    "grantNumber": "101091895",
+    "grantType": "HORIZON Innovation Actions",
+    "maxAmount": "€11,963,524.50",
+    "startDate": "First day of the month following the entry into force date",
+    "endDate": "Starting date + 48 months",
+    "duration": "48 Months",
+    "coordinator": {
+      "name": "INSTITUTO TECNOLOGICO DE ARAGON (ITAINNOVA)",
+      "location": "Zaragoza, Spain"
+    },
+    "summary": "The industry is facing surmounting challenges today, such as deeper mining, social license to operate, access to land, higher production rates, but at a lower cost and more challenging environments, both underground and on the surface. Innovative mining technologies, research and education are required through bridging of business, research, and education, to enable a sustainable, efficient, and successful mining industry now and in the future. MASTERMINE proposes a structural multilevel change for the mining operations, focusing on the top-down axis of Culture, Strategy and Tactics. Culture refers to the intrinsic change for the EU mines, to understand the value of digitalization and environmental sustainability We address the Strategy pillar for the mine, by designing high-level modules that address real industrial challenges. We lead the digital transformation of mines through CYBERMINE, we foster autonomous and electric operations along with smart monitoring and maintenance through AUTOMINE, we ensure safety and stability in critical structures using GEOMINE, in GREENMINE we enhance the environmental sustainability of the mines by improving energy consumption, air quality and GHG emissions, water savings and waste valorisation. In METAMINE, we build a virtual world for the EU mines, introducing the concept of the mining metaverse hosting all the technologies, along with Digital Twins and BusinessIntelligence to provide simulation and decision support. Finally, we make the EU mine OURMINE, by bringing the communities together, build trust around the sustainability compliance of the raw material and fostering social innovation. We are going to demonstrate our approach in 5 EU demo cases and one replication demo in South Africa. Our mining partners offer access to a total of 11 mines around Europe, producing 10 different raw materials, including 5 CRMs (Cobalt, Tungsten, Coking Coal, Phophate Rock and Platinum).",
+    "participantsIntro": "A diverse consortium of 22 partners from 10 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+        { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the MASTERMINE project." },
+        { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+        { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+        { "period": "Project End", "month": 48, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "ITAINNOVA", "legalName": "INSTITUTO TECNOLOGICO DE ARAGON", "country": "Spain", "countryCode": "ES", "lat": 41.6488, "lon": -0.8891 },
+    { "no": 2, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 3, "role": "Beneficiary", "shortName": "ICCS", "legalName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 4, "role": "Beneficiary", "shortName": "FRAUNHOFER", "legalName": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV", "country": "Germany", "countryCode": "DE", "lat": 48.1351, "lon": 11.5820 },
+    { "no": 5, "role": "Beneficiary", "shortName": "GIG", "legalName": "GLOWNY INSTYTUT GORNICTWA", "country": "Poland", "countryCode": "PL", "lat": 50.2599, "lon": 19.0238 },
+    { "no": 6, "role": "Beneficiary", "shortName": "DUTH", "legalName": "DIMOKRITIO PANEPISTIMIO THRAKIS", "country": "Greece", "countryCode": "EL", "lat": 41.1197, "lon": 25.4055 },
+    { "no": 7, "role": "Beneficiary", "shortName": "TAU", "legalName": "TAMPEREEN KORKEAKOULUSAATIO SR", "country": "Finland", "countryCode": "FI", "lat": 61.4978, "lon": 23.7610 },
+    { "no": 8, "role": "Beneficiary", "shortName": "AUTH", "legalName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS", "country": "Greece", "countryCode": "EL", "lat": 40.6391, "lon": 22.9444 },
+    { "no": 9, "role": "Beneficiary", "shortName": "WMI", "legalName": "UNIVERSITY OF THE WITWATERSRAND JOHANNESBURG", "country": "South Africa", "countryCode": "ZA", "lat": -26.2041, "lon": 28.0473 },
+    { "no": 10, "role": "Beneficiary", "shortName": "SUBTERRA", "legalName": "SUBTERRA INGENIERIA SL", "country": "Spain", "countryCode": "ES", "lat": 40.4168, "lon": -3.7038 },
+    { "no": 11, "role": "Beneficiary", "shortName": "AURORA GEO", "legalName": "AURORAGEO E.E.", "country": "Greece", "countryCode": "EL", "lat": 38.0315, "lon": 23.8453 },
+    { "no": 12, "role": "Beneficiary", "shortName": "LIBRA", "legalName": "LIBRA AI TECHNOLOGIES PRIVATE IDIOTIKI KEFALAIOUCHIKI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 13, "role": "Beneficiary", "shortName": "STRATA", "legalName": "STRATAGEM ENERGY LTD", "country": "Cyprus", "countryCode": "CY", "lat": 34.7023, "lon": 33.0435 },
+    { "no": 14, "role": "Beneficiary", "shortName": "TERRADUE", "legalName": "TERRADUE SRL", "country": "Italy", "countryCode": "IT", "lat": 41.9028, "lon": 12.4964 },
+    { "no": 15, "role": "Beneficiary", "shortName": "DARES", "legalName": "DARES TECHNOLOGY SL", "country": "Spain", "countryCode": "ES", "lat": 41.2756, "lon": 1.9866 },
+    { "no": 16, "role": "Beneficiary", "shortName": "DTT", "legalName": "DIGITALTWIN TECHNOLOGY GMBH", "country": "Germany", "countryCode": "DE", "lat": 50.9375, "lon": 6.9603 },
+    { "no": 17, "role": "Beneficiary", "shortName": "IOTA STIFTUNG", "legalName": "IOTA STIFTUNG", "country": "Germany", "countryCode": "DE", "lat": 52.5200, "lon": 13.4050 },
+    { "no": 18, "role": "Beneficiary", "shortName": "TAPO", "legalName": "TAPOJARVI OY", "country": "Finland", "countryCode": "FI", "lat": 65.8509, "lon": 24.5441 },
+    { "no": 19, "role": "Beneficiary", "shortName": "THARSIS", "legalName": "THARSIS MINING SOCIEDAD LIMITADA", "country": "Spain", "countryCode": "ES", "lat": 37.5958, "lon": -7.1235 },
+    { "no": 20, "role": "Beneficiary", "shortName": "TERNAMAG", "legalName": "TERNA LEFKOLITHOI ANONYMI METALLEUTIKI EMPORIKI TECHNIKI VIOMICHANIKI ETAIREIA", "country": "Greece", "countryCode": "EL", "lat": 37.9838, "lon": 23.7275 },
+    { "no": 21, "role": "Beneficiary", "shortName": "JSW", "legalName": "JASTRZEBSKA SPOLKA WEGLOWA SA", "country": "Poland", "countryCode": "PL", "lat": 49.9702, "lon": 18.5833 },
+    { "no": 22, "role": "Beneficiary", "shortName": "ETICAS", "legalName": "ETICAS RESEARCH AND INNOVATION", "country": "Spain", "countryCode": "ES", "lat": 41.3851, "lon": 2.1734 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Industrial demonstrators analysis & system specifications", "leader": "ITAINNOVA", "start": 1, "end": 18, "tasks": [
+        { "id": "T1.1", "title": "End users' expectations & use case design", "leader": "AURORA" },
+        { "id": "T1.2", "title": "Technical Specifications", "leader": "SUBTERRA" },
+        { "id": "T1.3", "title": "CYBERMINE - Digital transformation", "leader": "CORE" }
+    ]},
+    { "no": 2, "title": "The MASTERMINE technologies", "leader": "DUTH", "start": 7, "end": 30, "tasks": [
+        { "id": "T2.1", "title": "GEOMINE - Geo-environment & Productivity", "leader": "AURORA" },
+        { "id": "T2.2", "title": "Electrification and energy management", "leader": "TAU" },
+        { "id": "T2.3", "title": "AUTOMINE - Autonomous operations", "leader": "DUTH" },
+        { "id": "T2.4", "title": "GREENMINE - Environmental management: air, water, waste", "leader": "GIG" }
+    ]},
+    { "no": 3, "title": "The MASTERMINE Integration-An Industrial Metaverse approach", "leader": "LIBRA", "start": 7, "end": 36, "tasks": [
+        { "id": "T3.1", "title": "CYBERMINE - Connectivity, Data and Cloud", "leader": "ICCS" },
+        { "id": "T3.2", "title": "METAMINE Consolidation of executable Digital Twins", "leader": "ITA" },
+        { "id": "T3.3", "title": "METAMINE - Industrial metaverse: design and integration", "leader": "DTT" },
+        { "id": "T3.4", "title": "CYBERMINE – MLOps and data mapping", "leader": "LIBRA" },
+        { "id": "T3.5", "title": "METAMINE - Immersive BI system", "leader": "LIBRA" },
+        { "id": "T3.6", "title": "METAMINE - Mixed reality (MR) for remote assistance", "leader": "ICSS" },
+        { "id": "T3.7", "title": "OURMINE - Raw material passport", "leader": "IOTA" }
+    ]},
+    { "no": 4, "title": "MASTERMINE Demonstration", "leader": "SUBTERRA", "start": 13, "end": 48, "tasks": [
+        { "id": "T4.1", "title": "Methodology and evaluation framework", "leader": "SUBTERRA" },
+        { "id": "T4.2", "title": "Demo #1 GEOMINE from operation to closure", "leader": "SUBTERRA" },
+        { "id": "T4.3", "title": "Demo #2 Holistic optimisation from the mine to the process plant", "leader": "TERNAMAG" },
+        { "id": "T4.4", "title": "Demo #3 Autonomous & Electrified mining vehicles in Finland", "leader": "TAPO" },
+        { "id": "T4.5", "title": "Demo #4 Polish Coking Coal Green mine", "leader": "JSW" },
+        { "id": "T4.6", "title": "Demo #5 Smart technologies for the mine opening and development phase", "leader": "THARSIS" },
+        { "id": "T4.7", "title": "Demo #6 Replication in South Africa - Evaluation, transferability, upscaling", "leader": "WMI" }
+    ]},
+    { "no": 5, "title": "Public Awareness and Market Uptake", "leader": "CORE", "start": 1, "end": 48, "tasks": [
+        { "id": "T5.1", "title": "Dissemination & Communication activities", "leader": "CORE" },
+        { "id": "T5.2", "title": "Exploitation and innovation management", "leader": "CORE" },
+        { "id": "T5.3", "title": "Sustainable financing and ESGs monitoring", "leader": "CORE" },
+        { "id": "T5.4", "title": "OURMINE - Community building", "leader": "AUTH" },
+        { "id": "T5.5", "title": "Clustering with the EU mining R&I community and standardisation", "leader": "STRATA" },
+        { "id": "T5.6", "title": "OURMINE - Accessible and inclusive mine", "leader": "ETICAS" },
+        { "id": "T5.7", "title": "OURMINE – Digital skills development for the mining workers", "leader": "ITA" }
+    ]},
+    { "no": 6, "title": "Project Management", "leader": "ITAINNOVA", "start": 1, "end": 48, "tasks": [
+        { "id": "T6.1", "title": "Administrative management", "leader": "ITA" },
+        { "id": "T6.2", "title": "Technical management", "leader": "SUBTERRA" },
+        { "id": "T6.3", "title": "Data management", "leader": "ETICAS" },
+        { "id": "T6.4", "title": "OURMINE - Ethical issues on the mine of the future", "leader": "ETICAS" }
+    ]},
+    { "no": 7, "title": "Ethics requirements", "leader": "ITAINNOVA", "start": 1, "end": 48, "tasks": []}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "MASTERMINE use cases", "wp": 1, "leader": "AURORA GEO", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D1.2", "name": "MASTERMINE technical specifications", "wp": 1, "leader": "SUBTERRA", "type": "Report", "level": "Sensitive", "due": 8 },
+    { "no": "D1.3", "name": "Digital transformation development plans", "wp": 1, "leader": "CORE", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D2.1", "name": "GEOMINE - Geotechnical solutions", "wp": 2, "leader": "AURORA GEO", "type": "Demonstrator", "level": "Sensitive", "due": 30 },
+    { "no": "D2.2", "name": "AUTOMINE - Autonomous and electric vehicle", "wp": 2, "leader": "TAU", "type": "Demonstrator", "level": "Sensitive", "due": 30 },
+    { "no": "D2.3", "name": "GREENMINE - Energy and load forecasting", "wp": 2, "leader": "CORE", "type": "Demonstrator", "level": "Sensitive", "due": 30 },
+    { "no": "D2.4", "name": "GREENMINE - Air quality, water & waste management solutions", "wp": 2, "leader": "GIG", "type": "Demonstrator", "level": "Sensitive", "due": 30 },
+    { "no": "D3.1", "name": "CYBERMINE Mine4.0 enabled", "wp": 3, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D3.2", "name": "Final CYBERMINE Mine4.0 enabled", "wp": 3, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.3", "name": "METAMINE - Digital twins and Mixed Reality", "wp": 3, "leader": "DTT", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D3.4", "name": "Final METAMINE - Digital twins and Mixed Reality", "wp": 3, "leader": "DTT", "type": "Report", "level": "Public", "due": 36 },
+    { "no": "D3.5", "name": "MASTERMINE integration", "wp": 3, "leader": "LIBRA", "type": "Demonstrator", "level": "Sensitive", "due": 36 },
+    { "no": "D3.6", "name": "OURMINE - Raw material passport", "wp": 3, "leader": "IOTA STIFTUNG", "type": "Other", "level": "Public", "due": 30 },
+    { "no": "D4.1", "name": "Use case methodology and evaluation", "wp": 4, "leader": "SUBTERRA", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D4.2", "name": "MASTERMINE demo reports", "wp": 4, "leader": "TAPO", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D4.3", "name": "MASTERMINE replication, transferability, upscaling roadmap", "wp": 4, "leader": "WMI", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.1", "name": "Initial Dissemination, Exploitation & Communication Plan (DECP)", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 6 },
+    { "no": "D5.2", "name": "Second Dissemination, Exploitation & Communication Plan (DECP)", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D5.3", "name": "Third Dissemination, Exploitation & Communication Plan (DECP)", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D5.4", "name": "Final Dissemination, Exploitation & Communication Plan (DECP)", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.5", "name": "OURMINE - Community engagement & awareness report", "wp": 5, "leader": "AUTH", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D5.6", "name": "OURMINE - Final Community engagement & awareness report", "wp": 5, "leader": "AUTH", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.7", "name": "OURMINE - Guidelines for an accessible and inclusive mine", "wp": 5, "leader": "ETICAS", "type": "Report", "level": "Public", "due": 24 },
+    { "no": "D5.8", "name": "OURMINE - Final Guidelines for an accessible and inclusive mine", "wp": 5, "leader": "ETICAS", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.9", "name": "OURMINE - Digital skills training material", "wp": 5, "leader": "ITAINNOVA", "type": "Other", "level": "Public", "due": 48 },
+    { "no": "D6.1", "name": "Quality assurance and PM guidelines", "wp": 6, "leader": "ITAINNOVA", "type": "Report", "level": "Sensitive", "due": 2 },
+    { "no": "D6.2", "name": "Data Management Plan (DMP)", "wp": 6, "leader": "ETICAS", "type": "Other", "level": "Public", "due": 9 },
+    { "no": "D6.3", "name": "Intermediate Data Management Plan (DMP)", "wp": 6, "leader": "ETICAS", "type": "Other", "level": "Public", "due": 24 },
+    { "no": "D6.4", "name": "Final Data Management Plan (DMP)", "wp": 6, "leader": "ETICAS", "type": "Other", "level": "Public", "due": 48 },
+    { "no": "D6.5", "name": "Ethics Guidelines and Assessment", "wp": 6, "leader": "ETICAS", "type": "Report", "level": "Public", "due": 9 },
+    { "no": "D6.6", "name": "Final Ethics Guidelines and Assessment", "wp": 6, "leader": "ETICAS", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.7", "name": "Ethical, Legal and Social Impact Assessment", "wp": 6, "leader": "ETICAS", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D7.1", "name": "OEI - Requirement No. 1", "wp": 7, "leader": "ETICAS", "type": "Ethics", "level": "Sensitive", "due": 3 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Use case design", "wp": 1, "leader": "AURORA GEO", "due": 6 },
+    { "no": 2, "name": "Website and visual identity", "wp": 5, "leader": "CORE", "due": 6 },
+    { "no": 3, "name": "Digital transformation plans", "wp": 1, "leader": "CORE", "due": 12 },
+    { "no": 4, "name": "Draft Engagement Plan", "wp": 5, "leader": "AUTH", "due": 12 },
+    { "no": 5, "name": "Midway for technologies", "wp": "1, 2", "leader": "ITAINNOVA", "due": 18 },
+    { "no": 6, "name": "Ethical Assessment", "wp": 6, "leader": "ETICAS", "due": 18 },
+    { "no": 7, "name": "Data warehouse, connectivity, cloud", "wp": 3, "leader": "ICCS", "due": 24 },
+    { "no": 8, "name": "MASTERMINE technologies ready", "wp": 2, "leader": "DUTH", "due": 30 },
+    { "no": 9, "name": "The first mining metaverse", "wp": 3, "leader": "DTT", "due": 36 },
+    { "no": 10, "name": "MASTERMINE demonstrated at TRL7", "wp": 4, "leader": "SUBTERRA", "due": 48 }
+  ]
+}

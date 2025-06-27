@@ -1,0 +1,155 @@
+{
+  "projectInfo": {
+    "title": "Demonstration of a digitized energy system integration across sectors enhancing flexibility and resilience towards efficient, sustainable, cost-optimised, affordable, secure and stable energy supply",
+    "acronym": "ELEXIA",
+    "grantNumber": "101075656",
+    "grantType": "HORIZON Innovation Actions",
+    "maxAmount": "€9,552,297.63",
+    "startDate": "1 October 2022",
+    "endDate": "30 September 2026",
+    "duration": "48 Months",
+    "coordinator": {
+      "name": "NORCE NORWEGIAN RESEARCH CENTRE AS (NOR)",
+      "location": "Bergen, Norway"
+    },
+    "summary": "ELEXIA will develop/upgrade validated tools for planning and managing integrated energy systems in different conditions and will integrate and combine energy systems across vectors and sectors towards a cost-optimised as well as flexible and resilient energy system of systems. A Digital Services Platform will host the energy management and planning services and will foster flexibility and sector coupling. A System Planning Toolbox will be developed and deployed to support effective sector coupling at local sites considering different scenarios, operational details, possibly conflicting interests of multiple local actors, and security of supply. An Energy Management Systems will be built and deployed for flexible, cost-optimised, and resilient operation of sector coupled local sites including forecasting, digital twins, optimization, control, monitoring, assessing operating conditions, predicting anomalous operation, and preventing occurrence of breakdowns. ELEXIA will demonstrate the use of planning and operational tools in a one-stop-shop, modular and open, digital platform at TRL7–8. It will demonstrate the benefits of sector integration at local / national level in three different geographical, climate and economic conditions in Europe: in an industrial port environment in Portugal, in an urban-city hub environment in Denmark, and in an industrial-urban-residential environment in Norway. ELEXIA will assess environmental, economic and social sustainability, will deliver a methodology for CAPEX / OPEX and value creation, and will focus on policy and governance. It will put focus on stakeholder engagement and societal acceptance and will ensure effort towards future exploitation and replication. ELEXIA will establish and demonstrate realistic and concrete pathways to ultimately achieve independence of fossil fuels by harnessing the latent flexibility of the energy system through integration, data-intelligence, and planning, working towards the 2050 European goals.",
+    "participantsIntro": "A consortium of 20 partners from across Europe, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+      {
+        "period": "Project Start",
+        "month": 1,
+        "type": "milestone",
+        "description": "Kick-off and official start of the ELEXIA project."
+      },
+      {
+        "period": "RP 1",
+        "month": 16,
+        "type": "report",
+        "description": "Periodic Report 1 due 60 days after end of reporting period."
+      },
+      {
+        "period": "RP 2",
+        "month": 32,
+        "type": "report",
+        "description": "Periodic Report 2 due 60 days after end of reporting period."
+      },
+      {
+        "period": "Project End",
+        "month": 48,
+        "type": "milestone",
+        "description": "Final project activities and submission of the Final Report."
+      }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "NOR", "legalName": "NORCE NORWEGIAN RESEARCH CENTRE AS", "country": "Norway", "countryCode": "NO", "lat": 60.3913, "lon": 5.3221 },
+    { "no": 2, "role": "Beneficiary", "shortName": "EDP", "legalName": "LABELEC ESTUDOS DESENVOLVIMENTO E ACTIVIDADES LABORATORIAIS SA", "country": "Portugal", "countryCode": "PT", "lat": 38.7223, "lon": -9.1393 },
+    { "no": 3, "role": "Beneficiary", "shortName": "DTU", "legalName": "DANMARKS TEKNISKE UNIVERSITET", "country": "Denmark", "countryCode": "DK", "lat": 55.7854, "lon": 12.5244 },
+    { "no": 4, "role": "Beneficiary", "shortName": "VTT", "legalName": "TEKNOLOGIAN TUTKIMUSKESKUS VTT OY", "country": "Finland", "countryCode": "FI", "lat": 60.1585, "lon": 24.7414 },
+    { "no": 5, "role": "Beneficiary", "shortName": "TEC", "legalName": "FUNDACION TECNALIA RESEARCH & INNOVATION", "country": "Spain", "countryCode": "ES", "lat": 43.2872, "lon": -2.9778 },
+    { "no": 6, "role": "Beneficiary", "shortName": "DIH", "legalName": "CENTER DANMARK DRIFT APS", "country": "Denmark", "countryCode": "DK", "lat": 55.5630, "lon": 9.7548 },
+    { "no": 7, "role": "Beneficiary", "shortName": "HTK", "legalName": "HOJE-TAASTRUP KOMMUNE", "country": "Denmark", "countryCode": "DK", "lat": 55.6500, "lon": 12.3000 },
+    { "no": 8, "role": "Beneficiary", "shortName": "BGO", "legalName": "BERGEN KOMMUNE", "country": "Norway", "countryCode": "NO", "lat": 60.3913, "lon": 5.3221 },
+    { "no": 9, "role": "Beneficiary", "shortName": "TRW", "legalName": "TMROW ApS", "country": "Denmark", "countryCode": "DK", "lat": 55.6883, "lon": 12.5332 },
+    { "no": 10, "role": "Beneficiary", "shortName": "BIR", "legalName": "BIR AS", "country": "Norway", "countryCode": "NO", "lat": 60.3913, "lon": 5.3221 },
+    { "no": 11, "role": "Beneficiary", "shortName": "WIN", "legalName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES IKE", "country": "Greece", "countryCode": "EL", "lat": 37.9427, "lon": 23.7155 },
+    { "no": 12, "role": "Beneficiary", "shortName": "CLM", "legalName": "CLIMIFY APS", "country": "Denmark", "countryCode": "DK", "lat": 55.5630, "lon": 9.7548 },
+    { "no": 13, "role": "Beneficiary", "shortName": "VEK", "legalName": "VESTEGNENS KRAFTVARMESELSKAB IS", "country": "Denmark", "countryCode": "DK", "lat": 55.6318, "lon": 12.3551 },
+    { "no": 14, "role": "Beneficiary", "shortName": "COR", "legalName": "CORE INNOVATION AND TECHNOLOGY OE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 15, "role": "Beneficiary", "shortName": "ENF", "legalName": "ENFOR AS", "country": "Denmark", "countryCode": "DK", "lat": 55.8569, "lon": 12.5448 },
+    { "no": 16, "role": "Beneficiary", "shortName": "BKK", "legalName": "BKK NETT AS", "country": "Norway", "countryCode": "NO", "lat": 60.3913, "lon": 5.3221 },
+    { "no": 17, "role": "Beneficiary", "shortName": "EVI", "legalName": "EVINY TERMO AS", "country": "Norway", "countryCode": "NO", "lat": 60.3913, "lon": 5.3221 },
+    { "no": 18, "role": "Beneficiary", "shortName": "APS", "legalName": "APS - ADMINISTRACAO DOS PORTOS DE SINES E DO ALGARVE, S.A.", "country": "Portugal", "countryCode": "PT", "lat": 37.9547, "lon": -8.7901 },
+    { "no": 19, "role": "Beneficiary", "shortName": "AMC", "legalName": "AMC TECH SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA", "country": "Poland", "countryCode": "PL", "lat": 50.0647, "lon": 19.9450 },
+    { "no": 20, "role": "Associated partner", "shortName": "DUR", "legalName": "UNIVERSITY OF DURHAM", "country": "United Kingdom", "countryCode": "UK", "lat": 54.7753, "lon": -1.5849 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "REQUIREMENTS ENGINEERING & STAKEHOLDER COMMUNITY ENGAGEMENT", "leader": "EDP", "start": 1, "end": 48, "tasks": [
+        { "id": "T1.1", "title": "Stakeholder community engagement and social acceptance.", "leader": "NOR" },
+        { "id": "T1.2", "title": "Requirements engineering and use case definitions for the pilot sites.", "leader": "EDP" },
+        { "id": "T1.3", "title": "Requirements and boundary conditions for Energy Management System (EMS) tool and System Planning Toolbox (SPT)", "leader": "TEC" },
+        { "id": "T1.4", "title": "Key Performance Indicators (KPIs) and evaluation metrics definition for pilot sites", "leader": "EDP" }
+    ]},
+    { "no": 2, "title": "DIGITALIZATION, ENERGY MANAGEMENT AND PLANNING TOOLS", "leader": "VTT", "start": 2, "end": 44, "tasks": [
+        { "id": "T2.1", "title": "Open-source European Digital Services Platform (DSP) for sector coupling", "leader": "DIH" },
+        { "id": "T2.2", "title": "Implement tools for real-time energy management systems", "leader": "DTU" },
+        { "id": "T2.3", "title": "Implement tools for system planning toolbox", "leader": "VTT" },
+        { "id": "T2.4", "title": "Integration services and offline validation of the integrated workflow", "leader": "WIN" }
+    ]},
+    { "no": 3, "title": "INTEGRATION AND DEMONSTRATION AT THE PILOT SITES", "leader": "NOR", "start": 19, "end": 48, "tasks": [
+        { "id": "T3.1", "title": "Preparation of the pilot sites", "leader": "NOR" },
+        { "id": "T3.2", "title": "DSP, EMS and SPT installation at pilot sites.", "leader": "DIH" },
+        { "id": "T3.3", "title": "EMS demonstration and optimisation", "leader": "DTU" },
+        { "id": "T3.4", "title": "SPT demonstration and optimisation", "leader": "VTT" },
+        { "id": "T3.5", "title": "Benchmark and verification of KPIs", "leader": "TEC" },
+        { "id": "T3.6", "title": "Capacity building and training", "leader": "VTT" }
+    ]},
+    { "no": 4, "title": "SUSTAINABILITY AND POLICY", "leader": "DUR", "start": 1, "end": 48, "tasks": [
+        { "id": "T4.1", "title": "Life cycle assessment of 3 pilot sites", "leader": "DUR" },
+        { "id": "T4.2", "title": "Economic assessment of the 3 pilot sites and methodology to evaluate impacts on OPEX, CAPEX and overall value creation", "leader": "DUR" },
+        { "id": "T4.3", "title": "Social impact assessment", "leader": "NOR" },
+        { "id": "T4.4", "title": "Non-energy costs, market integration and governance", "leader": "NOR" },
+        { "id": "T4.5", "title": "CO2 emission estimation and visualisation", "leader": "TRW" }
+    ]},
+    { "no": 5, "title": "DISSEMINATION, COMMUNICATION, ROUTE TO EXPLOITATION AND REPLICATION", "leader": "COR", "start": 1, "end": 48, "tasks": [
+        { "id": "T5.1", "title": "Dissemination and communication activities", "leader": "COR" },
+        { "id": "T5.2", "title": "Exploitation activities", "leader": "COR" },
+        { "id": "T5.3", "title": "Sustainable management of ELEXIA innovations", "leader": "COR" },
+        { "id": "T5.4", "title": "ELEXIA clustering, advisory board and replication", "leader": "VTT" }
+    ]},
+    { "no": 6, "title": "PROJECT AND CONSORTIUM MANAGEMENT", "leader": "NOR", "start": 1, "end": 48, "tasks": [
+        { "id": "T6.1", "title": "Coordination and management, decision structure & Internal Communication", "leader": "NOR" },
+        { "id": "T6.2", "title": "Project Risk Management", "leader": "NOR" },
+        { "id": "T6.3", "title": "Administrative and financial management", "leader": "NOR" },
+        { "id": "T6.4", "title": "Data management plan", "leader": "WIN" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Stakeholder guideline, perspectives and societal acceptance", "wp": 1, "leader": "NOR", "type": "Report", "level": "Public", "due": 12 },
+    { "no": "D1.2", "name": "Pilots engineering, scenario description, KPIs and evaluation metrics", "wp": 1, "leader": "EDP", "type": "Report", "level": "Public", "due": 23 },
+    { "no": "D1.3", "name": "Requirements/functional specifications of EMS & SPT components", "wp": 1, "leader": "TEC", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D2.1", "name": "ELEXIA DSP and its online documentation", "wp": 2, "leader": "DIH", "type": "Other", "level": "Public", "due": 44 },
+    { "no": "D2.2", "name": "Energy management systems and their online documentation", "wp": 2, "leader": "DTU", "type": "Other", "level": "Public", "due": 38 },
+    { "no": "D2.3", "name": "System planning toolbox and its online documentation", "wp": 2, "leader": "VTT", "type": "Other", "level": "Public", "due": 40 },
+    { "no": "D3.1", "name": "Final documentation of EMS, SPT, risk analysis & security of supply", "wp": 3, "leader": "VTT", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D3.2", "name": "Benchmark report and KPIs", "wp": 3, "leader": "TEC", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D3.3", "name": "Training kit and guidelines", "wp": 3, "leader": "VTT", "type": "Other", "level": "Public", "due": 46 },
+    { "no": "D4.1", "name": "Life cycle impact / environmental assessment / impact of the 3 pilot sites and CO2 production for different strategies.", "wp": 4, "leader": "DUR", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D4.2", "name": "Report on economic feasibility assessment of the pilot sites and the development of the methodology for the estimation of CAPEX/OPEX and value creation in integrated and flexible energy systems", "wp": 4, "leader": "DUR", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D4.3", "name": "Report on social impacts of replication beyond test pilots", "wp": 4, "leader": "NOR", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D4.4", "name": "Policy and governance recommendations", "wp": 4, "leader": "NOR", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D5.1", "name": "Project website and social media channels established", "wp": 5, "leader": "COR", "type": "Other", "level": "Public", "due": 6 },
+    { "no": "D5.2", "name": "Dissemination, Exploitation and Communication Plan", "wp": 5, "leader": "COR", "type": "Other", "level": "Public", "due": 48 },
+    { "no": "D5.3", "name": "ELEXIA’s innovation’s mapping, business models and sustainable financing products", "wp": 5, "leader": "COR", "type": "Report", "level": "Sensitive", "due": 48 },
+    { "no": "D5.4", "name": "ELEXIA “Replication kit” towards future replication and Replication roadmap for one country", "wp": 5, "leader": "NOR", "type": "Report", "level": "Public", "due": 48 },
+    { "no": "D6.1", "name": "Project Management Plan v.1", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 2 },
+    { "no": "D6.2", "name": "Project Management Plan v.2", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D6.3", "name": "Project Management Plan v.3", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D6.4", "name": "Project Management Plan v.4", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D6.5", "name": "Data management plan v.1", "wp": 6, "leader": "WIN", "type": "Other", "level": "Public", "due": 6 },
+    { "no": "D6.6", "name": "Data management plan v.2", "wp": 6, "leader": "WIN", "type": "Other", "level": "Public", "due": 18 },
+    { "no": "D6.7", "name": "Data management plan v.3", "wp": 6, "leader": "WIN", "type": "Other", "level": "Public", "due": 30 },
+    { "no": "D6.8", "name": "Data management plan v.4", "wp": 6, "leader": "WIN", "type": "Other", "level": "Public", "due": 42 },
+    { "no": "D6.9", "name": "Risk Mitigation Plan v.1", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D6.10", "name": "Risk Mitigation Plan v.2", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D6.11", "name": "Risk Mitigation Plan v.3", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D6.12", "name": "Risk Mitigation Plan v.4", "wp": 6, "leader": "NOR", "type": "Report", "level": "Sensitive", "due": 42 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Baseline and requirements for the three pilots and tools defined", "wp": 1, "leader": "EDP", "due": 18 },
+    { "no": 2, "name": "Stakeholder landscape analysis confirmed", "wp": 1, "leader": "NOR", "due": 10 },
+    { "no": 3, "name": "Digital services platform data model specified", "wp": 2, "leader": "DIH", "due": 18 },
+    { "no": 4, "name": "Energy management & system planning toolbox available (1st version)", "wp": 2, "leader": "DTU", "due": 18 },
+    { "no": 5, "name": "Offline validation of tools", "wp": 2, "leader": "WIN", "due": 27 },
+    { "no": 6, "name": "Tools and systems installed and ready to run in the 3 pilots (2nd version)", "wp": 3, "leader": "DIH", "due": 36 },
+    { "no": 7, "name": "Operation of EMS on pilot sites parallel to existing systems", "wp": 3, "leader": "DTU", "due": 40 },
+    { "no": 8, "name": "Start of demonstration of tools and sector integration in three pilots", "wp": 3, "leader": "VTT", "due": 36 },
+    { "no": 9, "name": "Training of local stakeholders initiated", "wp": 3, "leader": "VTT", "due": 36 },
+    { "no": 10, "name": "Data available for the environmental, economic and social impact assessment", "wp": 4, "leader": "DUR", "due": 36 },
+    { "no": 11, "name": "Development of repeatable methodology for CAPEX, OPEX and value creation in integrated and flexible energy systems", "wp": 4, "leader": "DUR", "due": 40 },
+    { "no": 12, "name": "Policy recommendations delivered identified", "wp": 4, "leader": "NOR", "due": 24 },
+    { "no": 13, "name": "Communication and dissemination plan launched.", "wp": 5, "leader": "COR", "due": 6 },
+    { "no": 14, "name": "Advisory Board members complete", "wp": 5, "leader": "NOR", "due": 6 },
+    { "no": 15, "name": "ELEXIA data management plan available.", "wp": 6, "leader": "WIN", "due": 6 }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "projectInfo": {
+    "title": "Single-Atom Photocatalysts Enhanced by a Self-Powered Photonic Glass Reactor to Produce Advanced Biofuels",
+    "acronym": "GlaS-A-Fuels",
+    "grantNumber": "101130717",
+    "grantType": "HORIZON EIC Grants",
+    "maxAmount": "€2,995,840.00",
+    "startDate": "1 March 2024",
+    "endDate": "31 August 2027",
+    "duration": "42 Months",
+    "coordinator": {
+      "name": "IDRYMA TECHNOLOGIAS KAI EREVNAS (FORTH)",
+      "location": "Irakleio, Greece"
+    },
+    "summary": "The increasing energy demand and the depletion of fossil-fuel reserves, threatening our energy security and the environment, have aroused intense global concern. To mitigate this, the EU aims to become climate-neutral by 2050, by targeting at the next-generation of biofuels from non-land and non-food competing bio-wastes. Butanol (BuOH), heavier alcohols and hydrogen (H2), if produced from bio-ethanol, are promising advanced biofuels due to their high energy content, long shelf-life and, in case of BuOH, compatibility with the current engines and fuel distribution infrastructure. However, their production faces challenges due to the low yields and selectivities during ethanol reforming. GlaS-A-Fuels envisions a holistic approach to transform bio-ethanol to advanced biofuels employing recyclable and cooperative catalysts from earth-abundant elements. The concept is based on the engineering of a light-trapping and light-tuning photonic glassreactor,self-powered by a thermoelectric module, and tailored to amplify the effectiveness of photo-amplified single-atom catalysts. GlaS-A-Fuels aims to harness the full power of the light-activated carriers of photoactive supports by channeling this energy to the surface-exposed transition metal-cation single atom sites. There, via the effective coordination with the reactants and energy matching with their frontier orbitals, solar energy to fuel conversion can be maximized. Metal-metal and metal-support cooperativity, charge transfer phenomena and strongly polarized oxidations states can further contribute to the required enhanced catalytic performances and difficult-to-achieve key reaction intermediates. To develop efficient processes for the production of advanced biofuels, GlaS-A-Fuels will leverage in a concerted way the key expertise of five partners in materials science for solar and thermal energy harvesting, catalysis, laser technologies for tuning light-matter interactions, intelligent process-control systems.",
+    "participantsIntro": "A consortium of 5 partners from 5 EU countries collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+      { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the GlaS-A-Fuels project." },
+      { "period": "RP 1", "month": 12, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+      { "period": "RP 2", "month": 30, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+      { "period": "RP 3", "month": 42, "type": "report", "description": "Periodic Report 3 due 60 days after end of reporting period." },
+      { "period": "Project End", "month": 42, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "FORTH", "legalName": "IDRYMA TECHNOLOGIAS KAI EREVNAS", "country": "Greece", "countryCode": "EL", "lat": 35.3387, "lon": 25.1442 },
+    { "no": 2, "role": "Beneficiary", "shortName": "VSB", "legalName": "VSB - TECHNICAL UNIVERSITY OF OSTRAVA", "country": "Czechia", "countryCode": "CZ", "lat": 49.8356, "lon": 18.2925 },
+    { "no": 3, "role": "Beneficiary", "shortName": "IPF", "legalName": "LEIBNIZ-INSTITUT FUR POLYMERFORSCHUNG DRESDEN EV", "country": "Germany", "countryCode": "DE", "lat": 51.0504, "lon": 13.7373 },
+    { "no": 4, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 5, "role": "Beneficiary", "shortName": "UTR", "legalName": "UNIVERSITA DEGLI STUDI DI TRIESTE", "country": "Italy", "countryCode": "IT", "lat": 45.6495, "lon": 13.7768 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Project management and coordination", "leader": "FORTH", "start": 1, "end": 42, "tasks": [
+        { "id": "T1.1", "title": "Project coordination", "leader": "FORTH" },
+        { "id": "T1.2", "title": "Project monitoring and risk management", "leader": "FORTH" }
+    ]},
+    { "no": 2, "title": "Development of multi-functional photonic glass reactor and thermoelectric module", "leader": "FORTH", "start": 1, "end": 36, "tasks": [
+        { "id": "T2.1", "title": "Thermoelectric (TE) material development", "leader": "IPF" },
+        { "id": "T2.2", "title": "Thermoelectric (TE) design concept development", "leader": "IPF" },
+        { "id": "T2.3", "title": "Glass encapsulation of the functional layers", "leader": "FORTH" },
+        { "id": "T2.4", "title": "Laser processing of glass reactor for tuning the optical properties", "leader": "FORTH" },
+        { "id": "T2.5", "title": "Transient absorption spectroscopy (TAS) for probing the mechanism of tunable photoluminescence (PL)", "leader": "FORTH" },
+        { "id": "T2.6", "title": "Positioning and wiring of laser-processed electrodes", "leader": "FORTH" }
+    ]},
+    { "no": 3, "title": "Cooperative photocatalytic nanoplatforms (photo-SACs)", "leader": "UTR", "start": 1, "end": 36, "tasks": [
+        { "id": "T3.1", "title": "Theoretical analysis of the reaction mechanisms", "leader": "VSB" },
+        { "id": "T3.2", "title": "Photosensitive nanocarbon ligands coupled to SACs", "leader": "UTR" },
+        { "id": "T3.3", "title": "Plasmonic and semiconducting nanocatalysts", "leader": "VSB" },
+        { "id": "T3.4", "title": "Experimental study of catalysts", "leader": "UTR" },
+        { "id": "T3.5", "title": "Experimental mechanistic studies", "leader": "UTR" }
+    ]},
+    { "no": 4, "title": "Bio-EtOH solar-reactor for bio-BuOH and H2 production", "leader": "VSB", "start": 24, "end": 42, "tasks": [
+        { "id": "T4.1", "title": "Development of intelligent control system", "leader": "CORE" },
+        { "id": "T4.2", "title": "Engineering the lab-scale photonic reactor", "leader": "CORE" },
+        { "id": "T4.3", "title": "Laboratory validation of the photonic reactor", "leader": "VSB" },
+        { "id": "T4.4", "title": "Technology scale-up plan", "leader": "VSB" }
+    ]},
+    { "no": 5, "title": "Exploitation, dissemination and communication", "leader": "CORE", "start": 1, "end": 42, "tasks": [
+        { "id": "T5.1", "title": "Boosting project’s innovation potential", "leader": "CORE" },
+        { "id": "T5.2", "title": "Dissemination and communication activities", "leader": "CORE" }
+    ]},
+    { "no": 6, "title": "Ethics requirements", "leader": "FORTH", "start": 1, "end": 42, "tasks": [
+        { "id": "T6.1", "title": "EPQ - Requirement No. 1", "leader": "FORTH" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Quality assurance plan", "wp": 1, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 2 },
+    { "no": "D1.2", "name": "Periodic risk monitoring report", "wp": 1, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D1.3", "name": "Periodic risk monitoring reports", "wp": 1, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D1.4", "name": "RPX Technical 1/scientific review meeting documents", "wp": 1, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D1.5", "name": "RPX Technical 2/scientific review meeting documents", "wp": 1, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D1.6", "name": "RPX Technical 3/scientific review meeting documents", "wp": 1, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 41 },
+    { "no": "D2.1", "name": "Report on CNT-based thermoelectric composites.", "wp": 2, "leader": "IPF", "type": "Report", "level": "Sensitive", "due": 12 },
+    { "no": "D2.2", "name": "Report on the implementation of concept of TE module in glass layer", "wp": 2, "leader": "IPF", "type": "Report", "level": "Sensitive", "due": 24 },
+    { "no": "D2.3", "name": "Development of a photonic glass reactor prototype", "wp": 2, "leader": "FORTH", "type": "DEM", "level": "Sensitive", "due": 36 },
+    { "no": "D2.4", "name": "Report on light accumulation enhancement inside the photonic reactor", "wp": 2, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D2.5", "name": "Report on perovskite photoluminescence lifetimes and emission dynamics", "wp": 2, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D2.6", "name": "Report on the laser-processing and wiring of glass-embedded active layers", "wp": 2, "leader": "FORTH", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.1", "name": "Report on the theoretical analysis of the reaction mechanism", "wp": 3, "leader": "VSB", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D3.2", "name": "Report on synthesis, structural and photo-physical features of SACs integrated with photosensitive nanocarbon carriers", "wp": 3, "leader": "UTR", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D3.3", "name": "Report on synthesis, structural and photo-physical features of SACs integrated with plasmonic and semiconducting carriers", "wp": 3, "leader": "VSB", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.4", "name": "Report on catalyst performance and advanced characterization", "wp": 3, "leader": "UTR", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D3.5", "name": "Report on experimental mechanistic studies", "wp": 3, "leader": "VSB", "type": "Report", "level": "Sensitive", "due": 36 },
+    { "no": "D4.1", "name": "Process control software", "wp": 4, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 30 },
+    { "no": "D4.2", "name": "Lab-scale (100 mL) photonic reactor to produce BuOH and H2", "wp": 4, "leader": "CORE", "type": "DEM", "level": "Sensitive", "due": 36 },
+    { "no": "D4.3", "name": "Report on the validation of reactor’s performance and scale-up plan", "wp": 4, "leader": "VSB", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D5.1", "name": "Project Website", "wp": 5, "leader": "CORE", "type": "DEC", "level": "Public", "due": 3 },
+    { "no": "D5.2", "name": "Data Management Plan", "wp": 5, "leader": "CORE", "type": "DMP", "level": "Public", "due": 6 },
+    { "no": "D5.3", "name": "Plan for Dissemination and Communication Activities", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 6 },
+    { "no": "D5.4", "name": "Analysis of the innovation potential of project’s results", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D5.5", "name": "Innovation roadmap and exploitation plan", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D5.6", "name": "Plan for Exploitation Activities", "wp": 5, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 6 },
+    { "no": "D5.7", "name": "Final version of Plan for Dissemination and Communication Activities", "wp": 5, "leader": "CORE", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D5.8", "name": "Final version of Plan for Exploitation Activities", "wp": 5, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 42 },
+    { "no": "D5.9", "name": "RPX update of the Data Management Plan 12", "wp": 5, "leader": "CORE", "type": "DMP", "level": "Public", "due": 12 },
+    { "no": "D5.10", "name": "RPX update of the Data Management Plan 30", "wp": 5, "leader": "CORE", "type": "DMP", "level": "Public", "due": 30 },
+    { "no": "D5.11", "name": "RPX update of the Data Management Plan 42", "wp": 5, "leader": "CORE", "type": "DMP", "level": "Public", "due": 42 },
+    { "no": "D6.1", "name": "EPQ - Requirement No. 1", "wp": 6, "leader": "FORTH", "type": "ETHICS", "level": "Sensitive", "due": 12 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Initial encapsulation of PNCs PL diode and TE functional layer modules within the phosphate glass of the reactor", "wp": 2, "leader": "FORTH", "due": 18 },
+    { "no": 2, "name": "Effective photocatalyst(s) for bio-BuOH and H2 production", "wp": 3, "leader": "UTR", "due": 18 },
+    { "no": 3, "name": "Evaluation of the glass-embedded PL diode and TE layers", "wp": 2, "leader": "FORTH", "due": 36 },
+    { "no": 4, "name": "Validation of lab-scale reactor for effective bio-fuels production", "wp": 4, "leader": "VSB", "due": 42 }
+  ]
+}

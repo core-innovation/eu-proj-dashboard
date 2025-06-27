@@ -1,0 +1,127 @@
+{
+  "projectInfo": {
+    "title": "Industrial Manufacturing strategies for distributed control and resilient, rapidly responsive and reconfigurable supply chains.",
+    "acronym": "MODUL4R",
+    "grantNumber": "101091859",
+    "grantType": "HORIZON Research and Innovation Actions",
+    "maxAmount": "€5,999,941.25",
+    "startDate": "1 January 2023",
+    "endDate": "30 June 2026",
+    "duration": "42 Months",
+    "coordinator": {
+      "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV (Fraunhofer)",
+      "location": "Munchen, Germany"
+    },
+    "summary": "EU manufacturing is constantly becoming “more productive with less”, both in terms of material usage and energy consumption. The dynamics of global markets demand shorter product lifecycles and higher product variety, impacted by an increased volatility in demand. Traditional manufacturing systems are unsuitable to meet the new “think small” paradigm. They enable flexibility but at high operational complexity and for high volume operations to get lower cost production. To realise resilient factories and supply chains, it is mandatory to reduce complexity and cost of plug & produce modular manufacturing. MODUL4R envisions reliable, maintainable, affordable, (re)usable, and changeable SME-friendly autonomous modular factories and supply chains, able to manufacture new product in low volumes and rapidly respond to unexpected events as well as the overall supply chain. MODUL4R proposes a holistic framework applicable both to new and existing manufacturing lines to achieve flexibility, rapid responsiveness, and sustainability. MODUL4R will be demonstrated in specialized mould manufacturing for the automotive sector, CPPS for flexible & modular assembly of PCBs, and tools manufacturing for the aerospace. MODUL4R focuses on 4 pillars, offering HW and SW components: Pillar 1: Resilience against changes in customer and societal demands and disruption on the supply chain Pillar 2: Modular technologies for flexible manufacturing operations Pillar 3: Simulation and interfaces to the Industrial Metaverse Pillar 4: Human centred technologies and upskilling The impact of MODUL4R for the EU Manufacturing industry, but also the society itself, can be summarised as follows: (i) Process ramp-up time (>20%), (ii) Speed in product shifting (>29%), (iii) Yield & CpK (>12% & >21%), (iv) OEE (>21%), (v) Part cost reduction (>15%) with over 41 MEUR ROI for the consortium, (vi) 408 new jobs, and (viii) help industry to reduce Energy consumption (>30%) through Automation of processes (>25%).",
+    "participantsIntro": "A diverse consortium of 19 partners from 9 countries, including research institutes, universities, and private companies, collaborating to achieve the project's ambitious goals.",
+    "timelineEvents": [
+        { "period": "Project Start", "month": 1, "type": "milestone", "description": "Kick-off and official start of the MODUL4R project." },
+        { "period": "RP 1", "month": 18, "type": "report", "description": "Periodic Report 1 due 60 days after end of reporting period." },
+        { "period": "RP 2", "month": 36, "type": "report", "description": "Periodic Report 2 due 60 days after end of reporting period." },
+        { "period": "Project End", "month": 42, "type": "milestone", "description": "Final project activities and submission of the Final Report." }
+    ]
+  },
+  "participants": [
+    { "no": 1, "role": "Coordinator", "shortName": "Fraunhofer", "legalName": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV", "country": "Germany", "countryCode": "DE", "lat": 48.1351, "lon": 11.5820 },
+    { "no": 2, "role": "Beneficiary", "shortName": "CORE", "legalName": "CORE KENTRO KAINOTOMIAS AMKE", "country": "Greece", "countryCode": "EL", "lat": 38.4596, "lon": 23.5931 },
+    { "no": 3, "role": "Beneficiary", "shortName": "AIMEN", "legalName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE", "country": "Spain", "countryCode": "ES", "lat": 42.1384, "lon": -8.6201 },
+    { "no": 4, "role": "Beneficiary", "shortName": "ATLA", "legalName": "ATLANTIS ENGINEERING AE", "country": "Greece", "countryCode": "EL", "lat": 40.6391, "lon": 22.9444 },
+    { "no": 5, "role": "Beneficiary", "shortName": "HOLO", "legalName": "HOLONIX SRL", "country": "Italy", "countryCode": "IT", "lat": 45.6324, "lon": 9.1554 },
+    { "no": 6, "role": "Beneficiary", "shortName": "INNO", "legalName": "ASOCIACION DE EMPRESAS TECNOLOGICAS INNOVALIA", "country": "Spain", "countryCode": "ES", "lat": 43.2630, "lon": -2.9350 },
+    { "no": 7, "role": "Beneficiary", "shortName": "INTRA", "legalName": "NETCOMPANY-INTRASOFT SA", "country": "Luxembourg", "countryCode": "LU", "lat": 49.6116, "lon": 6.1319 },
+    { "no": 8, "role": "Beneficiary", "shortName": "UNP", "legalName": "UNPARALLEL INNOVATION LDA", "country": "Portugal", "countryCode": "PT", "lat": 37.1393, "lon": -8.5367 },
+    { "no": 9, "role": "Beneficiary", "shortName": "VIS", "legalName": "VISUAL COMPONENTS OY", "country": "Finland", "countryCode": "FI", "lat": 60.2055, "lon": 24.6559 },
+    { "no": 10, "role": "Beneficiary", "shortName": "POLIMI", "legalName": "POLITECNICO DI MILANO", "country": "Italy", "countryCode": "IT", "lat": 45.4642, "lon": 9.1900 },
+    { "no": 11, "role": "Beneficiary", "shortName": "NXT", "legalName": "NXTCONTROL GMBH", "country": "Austria", "countryCode": "AT", "lat": 47.9334, "lon": 16.2335 },
+    { "no": 12, "role": "Beneficiary", "shortName": "FFT", "legalName": "FFT PRODUKTIONSSYSTEME GMBH & CO. KG", "country": "Germany", "countryCode": "DE", "lat": 50.5550, "lon": 9.6791 },
+    { "no": 13, "role": "Beneficiary", "shortName": "TTSN", "legalName": "TTS TECHNOLOGY TRANSFER SYSTEMS SRL", "country": "Italy", "countryCode": "IT", "lat": 45.8546, "lon": 9.3892 },
+    { "no": 14, "role": "Beneficiary", "shortName": "EMO", "legalName": "EMO-ORODJARNA DOO", "country": "Slovenia", "countryCode": "SI", "lat": 46.2389, "lon": 15.2677 },
+    { "no": 15, "role": "Beneficiary", "shortName": "NOVA", "legalName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO", "country": "Portugal", "countryCode": "PT", "lat": 38.6611, "lon": -9.2062 },
+    { "no": 16, "role": "Beneficiary", "shortName": "DESI", "legalName": "DESIGNO SRL", "country": "Italy", "countryCode": "IT", "lat": 45.4642, "lon": 9.1900 },
+    { "no": 17, "role": "Beneficiary", "shortName": "NECO", "legalName": "NUEVA HERRAMIENTA DE CORTE, S.A.", "country": "Spain", "countryCode": "ES", "lat": 43.1595, "lon": -2.6735 },
+    { "no": 18, "role": "Beneficiary", "shortName": "MGEP", "legalName": "MONDRAGON GOI ESKOLA POLITEKNIKOA JOSE MARIA ARIZMENDIARRIETA S COOP", "country": "Spain", "countryCode": "ES", "lat": 43.0645, "lon": -2.4896 },
+    { "no": 19, "role": "Associated Partner", "shortName": "SSF", "legalName": "SWITZERLAND INNOVATION PARK BIEL/BIENNE AG", "country": "Switzerland", "countryCode": "CH", "lat": 47.1350, "lon": 7.2472 }
+  ],
+  "workPackagesWithTasks": [
+    { "no": 1, "title": "Resilient and flexible Processes Chains against disruptions", "leader": "ATLA", "start": 1, "end": 22, "tasks": [
+        { "id": "T1.1", "title": "Redesign of processes and products based on Customer and Societal Demands", "leader": "DESI" },
+        { "id": "T1.2", "title": "Semantic Modelling & Analytics for Demand-Supply Matching", "leader": "HOLO" },
+        { "id": "T1.3", "title": "LCA and Environmental Assessments for Sustainable and Circular Manufacturing Chains", "leader": "POLIMI" },
+        { "id": "T1.4", "title": "Process Chain Design for Sustainable, Resilient and Rapidly Responsive modular manufacturing", "leader": "AIMEN" },
+        { "id": "T1.5", "title": "Digital Assistant for Process Chain in modular manufacturing", "leader": "ATLA" }
+    ]},
+    { "no": 2, "title": "Modular Manufacturing: Plug & Produce distributed control", "leader": "CORE", "start": 2, "end": 28, "tasks": [
+        { "id": "T2.1", "title": "CPS-isation: Smart hardware Interfaces and systems for Plug n' Produce Production", "leader": "NXT" },
+        { "id": "T2.2", "title": "Modular adaptive hardware for Inspection & metrology infrastructure to monitor the KPIs", "leader": "INNO" },
+        { "id": "T2.3", "title": "Data Modelling and CPPSoS service platform for Distributed control", "leader": "NXT" },
+        { "id": "T2.4", "title": "Multi-level Communication & Computation Middleware", "leader": "CORE" },
+        { "id": "T2.5", "title": "Knowledge representation management system", "leader": "HOLO" },
+        { "id": "T2.6", "title": "Configurable Data Analytics & Machine Learning", "leader": "INTRA" },
+        { "id": "T2.7", "title": "Digital Thread and Data Space for Modular and Interoperable Production Systems", "leader": "INNO" },
+        { "id": "T2.8", "title": "Adaptive Distributed Control Strategies at Plant and SC Levels", "leader": "ATLA" }
+    ]},
+    { "no": 3, "title": "Industry 5.0 Digital Twins and Industrial Metaverse Simulations", "leader": "Fraunhofer", "start": 6, "end": 31, "tasks": [
+        { "id": "T3.1", "title": "AAS and networks of AAS automation architecture interfacing with the industrial metaverse", "leader": "NOVA" },
+        { "id": "T3.2", "title": "Virtual Commissioning and Modular Simulation for automation", "leader": "TTSN" },
+        { "id": "T3.3", "title": "Hybrid Cognitive Twins for Control Simulation", "leader": "F-IWU" },
+        { "id": "T3.4", "title": "Safe and Accelerated Testing: Simulated Reality and Industrial Metaverse Interfaces", "leader": "VIS" }
+    ]},
+    { "no": 4, "title": "Augmented Intelligence, Human centred technologies, and Workforce Training", "leader": "INTRA", "start": 11, "end": 34, "tasks": [
+        { "id": "T4.1", "title": "Swarm Intelligence across Humans-Machines", "leader": "INTRA" },
+        { "id": "T4.2", "title": "Multi-level, Trusted, Human-Centric and Explainable-DSS for Optimisation", "leader": "ATLA" },
+        { "id": "T4.3", "title": "Modular Lines Reconfiguration and Optimization with Human in the Loop", "leader": "AIMEN" },
+        { "id": "T4.4", "title": "Training Workers through Augmented and mixed Reality and Industrial Metaverse Interfaces", "leader": "VIS" },
+        { "id": "T4.5", "title": "Customisable UIs/HMIs for modular lines", "leader": "UNP" }
+    ]},
+    { "no": 5, "title": "Demonstration, Validation and Evaluation in Industrial Environments", "leader": "INNO", "start": 9, "end": 42, "tasks": [
+        { "id": "T5.1", "title": "Pilot Sites Preparation", "leader": "INNO" },
+        { "id": "T5.2", "title": "MODUL4R System Integration (TRL>=5)", "leader": "INTRA" },
+        { "id": "T5.3", "title": "Use Cases Systems Demonstration and Pilot Operation", "leader": "SSF" },
+        { "id": "T5.4", "title": "Continuous Support and Systems Fine-Tuning", "leader": "EMO" },
+        { "id": "T5.5", "title": "Socio-Economic Evaluation(S-ROI)&Stakeholders' Feedback", "leader": "POLIMI" }
+    ]},
+    { "no": 6, "title": "Communication, Dissemination, Standardisation, Exploitation and Training", "leader": "CORE", "start": 1, "end": 42, "tasks": [
+        { "id": "T6.1", "title": "Dissemination and Communication Activities", "leader": "CORE" },
+        { "id": "T6.2", "title": "Standards, Clusters and Associations", "leader": "INNO" },
+        { "id": "T6.3", "title": "IPR Management and Exploitation Planning", "leader": "CORE" },
+        { "id": "T6.4", "title": "Sustainable Business Models for Modular, Resilient and Reconfigurable Manufacturing", "leader": "CORE" },
+        { "id": "T6.5", "title": "Action Plan for Advancing Skills and Manufacturing Community Training Activities", "leader": "POLIMI" }
+    ]},
+    { "no": 7, "title": "Project Management", "leader": "Fraunhofer", "start": 1, "end": 42, "tasks": [
+        { "id": "T7.1", "title": "Administrative and Financial Management", "leader": "F-IWU" },
+        { "id": "T7.2", "title": "Quality, Risk and Data Management", "leader": "F-IWU" },
+        { "id": "T7.3", "title": "Ethics Management", "leader": "F-IWU" }
+    ]}
+  ],
+  "deliverables": [
+    { "no": "D1.1", "name": "Digitally assisted modular manufacturing", "wp": 1, "leader": "HOLO", "type": "Demonstrator", "level": "Sensitive", "due": 22 },
+    { "no": "D1.2", "name": "Data driven redesign for modular manufacturing", "wp": 1, "leader": "AIMEN", "type": "Report", "level": "Public", "due": 22 },
+    { "no": "D2.1", "name": "HW & SW for distributed control", "wp": 2, "leader": "CORE", "type": "Demonstrator", "level": "Sensitive", "due": 28 },
+    { "no": "D2.2", "name": "Industrial strategies for modular manufacturing", "wp": 2, "leader": "ATLA", "type": "Report", "level": "Public", "due": 28 },
+    { "no": "D3.1", "name": "AAS networks automation architecture", "wp": 3, "leader": "NOVA", "type": "Demonstrator", "level": "Sensitive", "due": 31 },
+    { "no": "D3.2", "name": "MODUL4R assets in the Industrial metaverse", "wp": 3, "leader": "Fraunhofer", "type": "Demonstrator", "level": "Sensitive", "due": 31 },
+    { "no": "D4.1", "name": "DSS for line reconfiguration and optimisation", "wp": 4, "leader": "ATLA", "type": "Demonstrator", "level": "Sensitive", "due": 34 },
+    { "no": "D4.2", "name": "AR/VR training supported by swarm intelligence", "wp": 4, "leader": "VIS", "type": "Demonstrator", "level": "Sensitive", "due": 34 },
+    { "no": "D5.1", "name": "MODUL4R pilots KPIs evaluation report", "wp": 5, "leader": "INNO", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D5.2", "name": "User acceptance and S-ROI evaluation", "wp": 5, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D6.1", "name": "Dissemination and communication plan", "wp": 6, "leader": "CORE", "type": "Report", "level": "Public", "due": 6 },
+    { "no": "D6.2", "name": "Exploitation Report and Business Plan", "wp": 6, "leader": "CORE", "type": "Report", "level": "Sensitive", "due": 18 },
+    { "no": "D6.3", "name": "Standardisation and Clustering activities", "wp": 6, "leader": "INNO", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D6.4", "name": "Action Plan for Advancing Skills", "wp": 6, "leader": "POLIMI", "type": "Report", "level": "Public", "due": 30 },
+    { "no": "D7.1", "name": "Risk and Quality Management Plan", "wp": 7, "leader": "Fraunhofer", "type": "Report", "level": "Sensitive", "due": 3 },
+    { "no": "D7.2", "name": "Data Management Plan", "wp": 7, "leader": "Fraunhofer", "type": "Other", "level": "Sensitive", "due": 6 },
+    { "no": "D7.3", "name": "Project Progress Report", "wp": 7, "leader": "Fraunhofer", "type": "Report", "level": "Public", "due": 18 },
+    { "no": "D7.4", "name": "Final Project Report", "wp": 7, "leader": "Fraunhofer", "type": "Report", "level": "Public", "due": 42 },
+    { "no": "D7.5", "name": "Ethics risk assessment and a risk mitigation plan", "wp": 7, "leader": "Fraunhofer", "type": "Report", "level": "Sensitive", "due": 6 }
+  ],
+  "milestones": [
+    { "no": 1, "name": "Resilient and responsive Framework Available", "wp": 1, "leader": "ATLA", "due": 6 },
+    { "no": 2, "name": "CPSisation and instrumentation is completed and control is defined", "wp": 2, "leader": "CORE", "due": 16 },
+    { "no": 3, "name": "AAS and virtual commissioning integrated to the control regime", "wp": 3, "leader": "Fraunhofer", "due": 22 },
+    { "no": 4, "name": "Data analytics and computation orchestration is implemented", "wp": 2, "leader": "CORE", "due": 28 },
+    { "no": 5, "name": "Industrial strategies are employed", "wp": 2, "leader": "CORE", "due": 28 },
+    { "no": 6, "name": "Hybrid twins and the industrial metaverse simulate reality", "wp": 3, "leader": "Fraunhofer", "due": 31 },
+    { "no": 7, "name": "Human centric tools for reconfiguration, training and decision support ready", "wp": 4, "leader": "INTRA", "due": 34 },
+    { "no": 8, "name": "MODUL4R is integrated and deployed to pilots", "wp": 5, "leader": "INNO", "due": 36 }
+  ]
+}

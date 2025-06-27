@@ -23,6 +23,7 @@ A React + Vite + ShadCN web application for managing EU projects with a dashboar
 - ✅ Sample data (TERRAVISION project) loaded and displayed
 
 **🚀 Application is running at:** http://localhost:5173/
+**📦 GitHub Repository:** https://github.com/core-innovation/eu-proj-dashboard
 
 **🎨 LATEST FEATURES:**
 - Interactive project timeline showing milestones, deliverables, and key dates

@@ -24,7 +24,7 @@ A React + Vite + ShadCN web application for managing EU projects with a dashboar
 
 **🚀 Application is running at:** http://localhost:5173/
 **📦 GitHub Repository:** https://github.com/core-innovation/eu-proj-dashboard
-**🌐 Live Deployment:** https://core-innovation.github.io/eu-proj-dashboard/
+**🌐 Live Deployment:** https://corebeatdev.eu/
 
 **🎨 LATEST FEATURES:**
 - Interactive project timeline showing milestones, deliverables, and key dates

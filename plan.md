@@ -24,7 +24,6 @@ A React + Vite + ShadCN web application for managing EU projects with a dashboar
 
 **🚀 Application is running at:** http://localhost:5173/
 **📦 GitHub Repository:** https://github.com/core-innovation/eu-proj-dashboard
-**🌐 Live Deployment:** https://corebeatdev.eu/
 
 **🎨 LATEST FEATURES:**
 - Interactive project timeline showing milestones, deliverables, and key dates
@@ -55,7 +54,6 @@ A React + Vite + ShadCN web application for managing EU projects with a dashboar
 - ✅ **NEW:** Timeline progress indicators showing percentage completion through project
 - ✅ **NEW:** ProjectTimeline Gantt chart with proper WP ordering (WP1, WP2...WP10+) and milestone overlays
 - ✅ **NEW:** Current month indicator with vertical red line on Gantt chart showing project progress
-- ✅ **NEW:** GitHub Pages deployment with automatic CI/CD pipeline
 - ✅ **NEW:** MilestoneGrid component with simple card-based layout for milestone details
 - ✅ **NEW:** Milestone data integration from dedicated milestones section in JSON files
 - ✅ **FIXED:** ProjectPage compilation errors and component imports resolved

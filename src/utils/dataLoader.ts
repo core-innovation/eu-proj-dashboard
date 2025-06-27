@@ -5,6 +5,21 @@ export class DataLoader {
   private static projectCardsCache: ProjectCardData[] | null = null;
 
   /**
+   * Get the base URL for data files, handling both web and Electron environments
+   */
+  private static getDataBaseUrl(): string {
+    // Check if we're in Electron
+    if (typeof window !== 'undefined' && window.location.protocol === 'file:') {
+      // In Electron, construct path relative to the HTML file location
+      const baseHref = window.location.href;
+      const basePath = baseHref.substring(0, baseHref.lastIndexOf('/'));
+      return `${basePath}/eu-data`;
+    }
+    // In web browser, use absolute path
+    return '/eu-data';
+  }
+
+  /**
    * Load a specific project by its filename (without .json extension)
    */
   static async loadProject(projectId: string): Promise<EUProject> {
@@ -13,7 +28,8 @@ export class DataLoader {
     }
 
     try {
-      const response = await fetch(`/eu-data/${projectId}.json`);
+      const baseUrl = this.getDataBaseUrl();
+      const response = await fetch(`${baseUrl}/${projectId}.json`);
       if (!response.ok) {
         throw new Error(`Failed to load project ${projectId}: ${response.statusText}`);
       }
@@ -149,12 +165,14 @@ export class DataLoader {
     
     // Test each potential project to see if it exists
     const batchSize = 10; // Process in batches to avoid overwhelming the server
+    const baseUrl = this.getDataBaseUrl();
+    
     for (let i = 0; i < potentialProjects.length; i += batchSize) {
       const batch = potentialProjects.slice(i, i + batchSize);
       
       await Promise.all(batch.map(async (projectId) => {
         try {
-          const response = await fetch(`/eu-data/${projectId}.json`, { 
+          const response = await fetch(`${baseUrl}/${projectId}.json`, { 
             method: 'HEAD',
             cache: 'no-cache' 
           });
@@ -184,7 +202,8 @@ export class DataLoader {
   private static async getProjectList(): Promise<string[]> {
     try {
       // Always try to load fresh manifest (no cache)
-      const manifestResponse = await fetch('/eu-data/projects-manifest.json', {
+      const baseUrl = this.getDataBaseUrl();
+      const manifestResponse = await fetch(`${baseUrl}/projects-manifest.json`, {
         cache: 'no-cache',
         headers: {
           'Cache-Control': 'no-cache',
@@ -201,7 +220,7 @@ export class DataLoader {
           const verifiedProjects: string[] = [];
           for (const projectId of manifest.projects) {
             try {
-              const response = await fetch(`/eu-data/${projectId}.json`, { 
+              const response = await fetch(`${baseUrl}/${projectId}.json`, { 
                 method: 'HEAD',
                 cache: 'no-cache' 
               });

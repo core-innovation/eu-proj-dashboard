@@ -11,4 +11,15 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "./", // Important for Electron - use relative paths
+  build: {
+    outDir: "dist",
+    assetsDir: "assets",
+    // Ensure assets use relative paths
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+      },
+    },
+  },
 })

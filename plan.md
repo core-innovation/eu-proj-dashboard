@@ -57,6 +57,37 @@ A React + Vite + ShadCN web application for managing EU projects with a dashboar
 - ✅ **NEW:** MilestoneGrid component with simple card-based layout for milestone details
 - ✅ **NEW:** Milestone data integration from dedicated milestones section in JSON files
 - ✅ **FIXED:** ProjectPage compilation errors and component imports resolved
+- ✅ **NEW:** Complete Electron build setup for macOS with native .app files
+- ✅ **NEW:** Electron development environment with hot-reload support
+- ✅ **NEW:** Production builds for both Intel (x64) and Apple Silicon (arm64) architectures
+- ✅ **FIXED:** Electron data loading issue - paths now work correctly in both web and desktop environments
+- ✅ **FIXED:** Electron routing issue - switched to HashRouter for file:// protocol compatibility
+
+## Electron Desktop Application
+
+The application is now fully configured as an Electron desktop app for macOS:
+
+### Development
+- **Development Mode**: `npm run electron-dev` - Runs both Vite dev server and Electron with hot-reload
+- **Testing**: The Electron app loads the React application and provides a native desktop experience
+
+### Production Builds
+- **Build for macOS**: `npm run electron-build-mac` - Creates builds for both Intel and Apple Silicon
+- **Universal Build**: `npm run electron-build` - Builds for all configured platforms
+- **Generated Files**:
+  - `build/mac/EU Projects.app` - Intel (x64) macOS application
+  - `build/mac-arm64/EU Projects.app` - Apple Silicon (arm64) macOS application
+  - `build/EU Projects-0.0.0-mac.zip` - Intel distribution package (115MB)
+  - `build/EU Projects-0.0.0-arm64-mac.zip` - Apple Silicon distribution package (110MB)
+
+### Technical Details
+- **Main Process**: `electron/main.cjs` - CommonJS module for Electron main process
+- **Security**: Context isolation enabled, node integration disabled, webSecurity disabled for file:// protocol
+- **Window**: 1200x800 default size with 800x600 minimum
+- **Development**: Automatic DevTools opening in development mode
+- **Production**: Loads built files from `dist/` folder
+- **Data Loading**: Smart path detection automatically handles both web (`/eu-data/`) and Electron (`file:///.../eu-data/`) environments
+- **Routing**: Uses HashRouter for compatibility with both web browsers and Electron's file:// protocol
 
 ## Technology Stack
 - **Frontend**: React 18+ with TypeScript
@@ -64,6 +95,7 @@ A React + Vite + ShadCN web application for managing EU projects with a dashboar
 - **UI Library**: ShadCN/UI (latest)
 - **Styling**: Tailwind CSS
 - **Routing**: React Router DOM
+- **Desktop**: Electron with native macOS builds
 - **Data Source**: JSON files in `eu-data/` folder
 - **Icons**: Lucide React
 

@@ -13,6 +13,14 @@ dist-ssr
 .eu-data
 *.local
 
+# Electron build artifacts
+build/
+*.dmg
+*.app
+*.exe
+*.deb
+*.AppImage
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Collapsible, CollapsibleContent } from '@/components/ui/collapsible';
 import { 
   MapPin, Users, Calendar, Euro, ArrowRight, Building2, 
-  ChevronDown, ChevronUp, Info, DollarSign, Clock,
+  ChevronDown, ChevronUp,
   Keyboard, Eye
 } from 'lucide-react';
 import type { ProjectCardData } from '@/types/project';

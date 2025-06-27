@@ -4,7 +4,7 @@ A modern, interactive React dashboard for managing EU research projects with adv
 
 ## 🚀 Live Demo
 
-Visit the deployed application: [EU Projects Dashboard](https://core-innovation.github.io/eu-proj-dashboard)
+Visit the deployed application: [EU Projects Dashboard](https://core-innovation.github.io/eu-proj-dashboard/)
 
 ## ✨ Features
 
